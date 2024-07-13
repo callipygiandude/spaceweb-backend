@@ -6,7 +6,7 @@ import fs from "fs";
 
 //constants
 // import metadata from "../api/metadata.js";
-// import {getMeta} from '../api/getMeta.js'
+import {getMeta} from '../api/getMeta.js'
 import {
   OPTIMISED_SIZE,
   PIXELMATCH_THRESHOLD,
