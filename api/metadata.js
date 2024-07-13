@@ -1,5 +1,3 @@
-import path from "path";
-
 export default [
   {
     name: "AcousticExchangeClr",
@@ -7,7 +5,6 @@ export default [
     path: "brand/AcousticExchangeClr",
     tags: ["BrandAcousticExchangeClr", "acousticExchange"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AcousticExchange",
@@ -15,7 +12,6 @@ export default [
     path: "brand/AcousticExchange",
     tags: ["BrandAcousticExchange", "acousticExchange"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AcousticExchangeCircleClr",
@@ -23,7 +19,6 @@ export default [
     path: "brand/AcousticExchangeCircleClr",
     tags: ["BrandAcousticExchangeCircleClr", "acousticExchange"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AcousticExchangeSquareClr",
@@ -31,7 +26,6 @@ export default [
     path: "brand/AcousticExchangeSquareClr",
     tags: ["BrandAcousticExchangeSquareClr", "acousticExchange"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Adidas",
@@ -39,7 +33,6 @@ export default [
     path: "brand/Adidas",
     tags: ["BrandAdidas", "channel"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AdjustClr",
@@ -47,7 +40,6 @@ export default [
     path: "brand/AdjustClr",
     tags: ["BrandAdjustClr", "adjust"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AdjustCircleClr",
@@ -55,7 +47,6 @@ export default [
     path: "brand/AdjustCircleClr",
     tags: ["BrandAdjustCircleClr", "adjust"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AdobeAnalyticsClr",
@@ -63,7 +54,6 @@ export default [
     path: "brand/AdobeAnalyticsClr",
     tags: ["BrandAdobeAnalyticsClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AdobeAnalytics",
@@ -71,7 +61,6 @@ export default [
     path: "brand/AdobeAnalytics",
     tags: ["BrandAdobeAnalytics"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AdobeAnalyticsCircleClr",
@@ -79,7 +68,6 @@ export default [
     path: "brand/AdobeAnalyticsCircleClr",
     tags: ["BrandAdobeAnalyticsCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AdobeExperienceManagerClr",
@@ -87,7 +75,6 @@ export default [
     path: "brand/AdobeExperienceManagerClr",
     tags: ["BrandAdobeExperienceManagerClr", "Adobe Experience Manager"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AdobeExperiencePlatformClr",
@@ -95,7 +82,6 @@ export default [
     path: "brand/AdobeExperiencePlatformClr",
     tags: ["BrandAdobeExperiencePlatformClr", "adobe", "experience platform"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AdobeExperiencePlatform",
@@ -103,7 +89,6 @@ export default [
     path: "brand/AdobeExperiencePlatform",
     tags: ["BrandAdobeExperiencePlatform", "adobe", "experience platform"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AdobeExperiencePlatformCircleClr",
@@ -115,7 +100,6 @@ export default [
       "experience platform",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AdobeExperiencePlatformSquareClr",
@@ -127,7 +111,6 @@ export default [
       "Experience platform",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Advertising",
@@ -135,7 +118,6 @@ export default [
     path: "brand/Advertising",
     tags: ["BrandAdvertising", "advertising"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AdvertisingCircleClr",
@@ -143,7 +125,6 @@ export default [
     path: "brand/AdvertisingCircleClr",
     tags: ["BrandAdvertisingCircleClr", "advertising"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AdvocacyClr",
@@ -151,7 +132,6 @@ export default [
     path: "brand/AdvocacyClr",
     tags: ["BrandAdvocacyClr", "advocacy"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AdvocacyCircleClr",
@@ -159,7 +139,6 @@ export default [
     path: "brand/AdvocacyCircleClr",
     tags: ["BrandAdvocacyCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AdvocacySquareClr",
@@ -167,7 +146,6 @@ export default [
     path: "brand/AdvocacySquareClr",
     tags: ["BrandAdvocacySquareClr", "advocacy"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AemClr",
@@ -175,7 +153,6 @@ export default [
     path: "brand/AemClr",
     tags: ["BrandAemClr", "advance engine management", "channel"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AerisClr",
@@ -183,7 +160,6 @@ export default [
     path: "brand/AerisClr",
     tags: ["BrandAerisClr", "aeris"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Aeris",
@@ -191,7 +167,6 @@ export default [
     path: "brand/Aeris",
     tags: ["BrandAeris", "aeris"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AerisCircleClr",
@@ -199,7 +174,6 @@ export default [
     path: "brand/AerisCircleClr",
     tags: ["BrandAerisCircleClr", "aeris"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AerisSquare",
@@ -207,7 +181,6 @@ export default [
     path: "brand/AerisSquare",
     tags: ["BrandAerisSquare", "aeris"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AffiliateClr",
@@ -215,7 +188,6 @@ export default [
     path: "brand/AffiliateClr",
     tags: ["BrandAffiliateClr", "affiliate"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Affiliate",
@@ -223,7 +195,6 @@ export default [
     path: "brand/Affiliate",
     tags: ["BrandAffiliate", "affiliate"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AffiliateCircleClr",
@@ -231,7 +202,6 @@ export default [
     path: "brand/AffiliateCircleClr",
     tags: ["BrandAffiliateCircleClr", "affiliate"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Affirm",
@@ -239,7 +209,6 @@ export default [
     path: "brand/Affirm",
     tags: ["BrandAffirm"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AfterEffects",
@@ -247,7 +216,6 @@ export default [
     path: "brand/AfterEffects",
     tags: ["BrandAfterEffects", "adobe", "aftereffects", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AfterpayClearpay",
@@ -255,7 +223,6 @@ export default [
     path: "brand/AfterpayClearpay",
     tags: ["BrandAfterpayClearpay", "afterpayClearpay"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AgodaClr",
@@ -263,7 +230,6 @@ export default [
     path: "brand/AgodaClr",
     tags: ["BrandAgodaClr", "agoda", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Agoda",
@@ -271,7 +237,6 @@ export default [
     path: "brand/Agoda",
     tags: ["BrandAgoda", "agoda", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AgodaCircleClr",
@@ -279,7 +244,6 @@ export default [
     path: "brand/AgodaCircleClr",
     tags: ["BrandAgodaCircleClr", "agoda", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AgodaSquareClr",
@@ -287,7 +251,6 @@ export default [
     path: "brand/AgodaSquareClr",
     tags: ["BrandAgodaSquareClr", "agoda", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AliexpressClr",
@@ -295,7 +258,6 @@ export default [
     path: "brand/AliexpressClr",
     tags: ["BrandAliexpressClr", "ali express", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   // {
   //   name: "AliexpressCircleClr",
@@ -303,15 +265,13 @@ export default [
   //   path: "brand/AliexpressCircleClr",
   //   tags: ["BrandAliexpressCircleClr", "ali express", "brand"],
   //   category: "brand",
-  //   filePath: path.join(process.cwd(), '/data/brand/')
-  // },
+  //// },
   {
     name: "AlipayClr",
     fullName: "BrandAlipayClr",
     path: "brand/AlipayClr",
     tags: ["BrandAlipayClr", "alipay"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AllocadiaClr",
@@ -319,7 +279,6 @@ export default [
     path: "brand/AllocadiaClr",
     tags: ["BrandAllocadiaClr", "allocadia"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Allocadia",
@@ -327,7 +286,6 @@ export default [
     path: "brand/Allocadia",
     tags: ["BrandAllocadia", "allocadia"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AllocadiaCircleClr",
@@ -335,7 +293,6 @@ export default [
     path: "brand/AllocadiaCircleClr",
     tags: ["BrandAllocadiaCircleClr", "allocadia"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AllocadiaSquare",
@@ -343,7 +300,6 @@ export default [
     path: "brand/AllocadiaSquare",
     tags: ["BrandAllocadiaSquare", "allocadia"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonClr",
@@ -351,7 +307,6 @@ export default [
     path: "brand/AmazonClr",
     tags: ["BrandAmazonClr", "amazon"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Amazon",
@@ -359,7 +314,6 @@ export default [
     path: "brand/Amazon",
     tags: ["BrandAmazon", "amazon"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonAchvAllStarClr",
@@ -367,7 +321,6 @@ export default [
     path: "brand/AmazonAchvAllStarClr",
     tags: ["BrandAmazonAchvAllStarClr", "amazon", "achievement"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonAchvChampionOfChampionsClr",
@@ -375,7 +328,6 @@ export default [
     path: "brand/AmazonAchvChampionOfChampionsClr",
     tags: ["BrandAmazonAchvChampionOfChampionsClr", "amazon", "achievement"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonAchvChangeMakerClr",
@@ -383,7 +335,6 @@ export default [
     path: "brand/AmazonAchvChangeMakerClr",
     tags: ["BrandAmazonAchvChangeMakerClr", "amazon", "achievement"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonAchvCommunityIconClr",
@@ -391,7 +342,6 @@ export default [
     path: "brand/AmazonAchvCommunityIconClr",
     tags: ["BrandAmazonAchvCommunityIconClr", "amazon", "achievement"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonAchvConversationalCatalystClr",
@@ -399,7 +349,6 @@ export default [
     path: "brand/AmazonAchvConversationalCatalystClr",
     tags: ["BrandAmazonAchvConversationalCatalystClr", "amazon", "achievement"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonAchvCustomerAmbassadorClr",
@@ -407,7 +356,6 @@ export default [
     path: "brand/AmazonAchvCustomerAmbassadorClr",
     tags: ["BrandAmazonAchvCustomerAmbassadorClr", "amazon", "achievement"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonAchvElitePerformerClr",
@@ -415,7 +363,6 @@ export default [
     path: "brand/AmazonAchvElitePerformerClr",
     tags: ["BrandAmazonAchvElitePerformerClr", "amazon", "achievement"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonAchvEmotionDetectiveClr",
@@ -423,7 +370,6 @@ export default [
     path: "brand/AmazonAchvEmotionDetectiveClr",
     tags: ["BrandAmazonAchvEmotionDetectiveClr", "amazon", "achievement"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonAchvInsightMasterClr",
@@ -431,7 +377,6 @@ export default [
     path: "brand/AmazonAchvInsightMasterClr",
     tags: ["BrandAmazonAchvInsightMasterClr", "amazon", "achievement"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonAchvOpinionShaperClr",
@@ -439,7 +384,6 @@ export default [
     path: "brand/AmazonAchvOpinionShaperClr",
     tags: ["BrandAmazonAchvOpinionShaperClr", "amazon", "achievement"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonAchvRisingStarClr",
@@ -447,7 +391,6 @@ export default [
     path: "brand/AmazonAchvRisingStarClr",
     tags: ["BrandAmazonAchvRisingStarClr", "amazon", "achievement"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonAchvSuperstarClr",
@@ -455,7 +398,6 @@ export default [
     path: "brand/AmazonAchvSuperstarClr",
     tags: ["BrandAmazonAchvSuperstarClr", "amazon", "achievement"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonAchvThoughtLeaderClr",
@@ -463,7 +405,6 @@ export default [
     path: "brand/AmazonAchvThoughtLeaderClr",
     tags: ["BrandAmazonAchvThoughtLeaderClr", "amazon", "achievement"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonAchvValuedVoiceClr",
@@ -471,7 +412,6 @@ export default [
     path: "brand/AmazonAchvValuedVoiceClr",
     tags: ["BrandAmazonAchvValuedVoiceClr", "amazon", "achievement"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeApexClr",
@@ -479,7 +419,6 @@ export default [
     path: "brand/AmazonBadgeApexClr",
     tags: ["BrandAmazonBadgeApexClr", "badge", "amazon", "illustration"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeApexDisableClr",
@@ -493,7 +432,6 @@ export default [
       "disable badge",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeCatalystClr",
@@ -501,7 +439,6 @@ export default [
     path: "brand/AmazonBadgeCatalystClr",
     tags: ["BrandAmazonBadgeCatalystClr", "badge", "amazon", "illustration"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeCatalystDisableClr",
@@ -515,7 +452,6 @@ export default [
       "disable badge",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeChampionClr",
@@ -523,7 +459,6 @@ export default [
     path: "brand/AmazonBadgeChampionClr",
     tags: ["BrandAmazonBadgeChampionClr", "badge", "amazon", "illustration"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeChampionDisableClr",
@@ -537,7 +472,6 @@ export default [
       "disable badge",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeConnectorClr",
@@ -545,7 +479,6 @@ export default [
     path: "brand/AmazonBadgeConnectorClr",
     tags: ["BrandAmazonBadgeConnectorClr", "badge", "amazon", "illustration"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeConnectorDisableClr",
@@ -559,7 +492,6 @@ export default [
       "disable badge",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeExplorerClr",
@@ -567,7 +499,6 @@ export default [
     path: "brand/AmazonBadgeExplorerClr",
     tags: ["BrandAmazonBadgeExplorerClr", "badge", "amazon", "illustration"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeExplorerDisableClr",
@@ -581,7 +512,6 @@ export default [
       "disable badge",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeInnovatorClr",
@@ -589,7 +519,6 @@ export default [
     path: "brand/AmazonBadgeInnovatorClr",
     tags: ["BrandAmazonBadgeInnovatorClr", "badge", "amazon", "illustration"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeInnovatorDisableClr",
@@ -603,7 +532,6 @@ export default [
       "disable badge",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeMaestroClr",
@@ -611,7 +539,6 @@ export default [
     path: "brand/AmazonBadgeMaestroClr",
     tags: ["BrandAmazonBadgeMaestroClr", "badge", "amazon", "illustration"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeMaestroDisableClr",
@@ -625,7 +552,6 @@ export default [
       "disable badge",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgePioneerClr",
@@ -633,7 +559,6 @@ export default [
     path: "brand/AmazonBadgePioneerClr",
     tags: ["BrandAmazonBadgePioneerClr", "badge", "amazon", "illustration"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgePioneerDisableClr",
@@ -647,7 +572,6 @@ export default [
       "disable badge",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeTitanClr",
@@ -655,7 +579,6 @@ export default [
     path: "brand/AmazonBadgeTitanClr",
     tags: ["BrandAmazonBadgeTitanClr", "badge", "amazon", "illustration"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeTitanDisableClr",
@@ -669,7 +592,6 @@ export default [
       "disable badge",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeTrailBlazerClr",
@@ -677,7 +599,6 @@ export default [
     path: "brand/AmazonBadgeTrailBlazerClr",
     tags: ["BrandAmazonBadgeTrailBlazerClr", "badge", "amazon", "illustration"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeTrailBlazerDisableClr",
@@ -691,7 +612,6 @@ export default [
       "disable badge",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeVisionaryClr",
@@ -699,7 +619,6 @@ export default [
     path: "brand/AmazonBadgeVisionaryClr",
     tags: ["BrandAmazonBadgeVisionaryClr", "badge", "amazon", "illustration"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeVisionaryDisableClr",
@@ -713,7 +632,6 @@ export default [
       "disable badge",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeVoyagerClr",
@@ -721,7 +639,6 @@ export default [
     path: "brand/AmazonBadgeVoyagerClr",
     tags: ["BrandAmazonBadgeVoyagerClr", "badge", "amazon", "illustration"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeVoyagerDisableClr",
@@ -735,7 +652,6 @@ export default [
       "disable badge",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeWayfarerClr",
@@ -743,7 +659,6 @@ export default [
     path: "brand/AmazonBadgeWayfarerClr",
     tags: ["BrandAmazonBadgeWayfarerClr", "badge", "amazon", "illustration"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonBadgeWayfarerDisableClr",
@@ -757,7 +672,6 @@ export default [
       "disable badge",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonCircleClr",
@@ -765,7 +679,6 @@ export default [
     path: "brand/AmazonCircleClr",
     tags: ["BrandAmazonCircleClr", "amazon"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmazonSquareClr",
@@ -773,7 +686,6 @@ export default [
     path: "brand/AmazonSquareClr",
     tags: ["BrandAmazonSquareClr", "amazon"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmericanaClr",
@@ -781,7 +693,6 @@ export default [
     path: "brand/AmericanaClr",
     tags: ["BrandAmericanaClr", "channel"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AmericanExpressSquareClr",
@@ -789,7 +700,6 @@ export default [
     path: "brand/AmericanExpressSquareClr",
     tags: ["BrandAmericanExpressSquareClr", "americanExpress"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AppleAppStoreClr",
@@ -797,7 +707,6 @@ export default [
     path: "brand/AppleAppStoreClr",
     tags: ["BrandAppleAppStoreClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AppleAppStore",
@@ -805,7 +714,6 @@ export default [
     path: "brand/AppleAppStore",
     tags: ["BrandAppleAppStore"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AppleAppStoreCircleClr",
@@ -813,7 +721,6 @@ export default [
     path: "brand/AppleAppStoreCircleClr",
     tags: ["BrandAppleAppStoreCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AppleBusinessChatClr",
@@ -821,7 +728,6 @@ export default [
     path: "brand/AppleBusinessChatClr",
     tags: ["BrandAppleBusinessChatClr", "apple", "business chat", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AppleBusinessChat",
@@ -829,7 +735,6 @@ export default [
     path: "brand/AppleBusinessChat",
     tags: ["BrandAppleBusinessChat", "apple", "business chat", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AppleBusinessChatCircleClr",
@@ -842,7 +747,6 @@ export default [
       "brand",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AppleBusinessChatCircle",
@@ -850,7 +754,6 @@ export default [
     path: "brand/AppleBusinessChatCircle",
     tags: ["BrandAppleBusinessChatCircle", "apple business chat"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AppleBusinessChatSquareClr",
@@ -863,7 +766,6 @@ export default [
       "brand",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AppsFlyerClr",
@@ -871,7 +773,6 @@ export default [
     path: "brand/AppsFlyerClr",
     tags: ["BrandAppsFlyerClr", "appsflyer", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AppsFlyer",
@@ -879,7 +780,6 @@ export default [
     path: "brand/AppsFlyer",
     tags: ["BrandAppsFlyer", "appsflyer", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AppsFlyerCircleClr",
@@ -887,7 +787,6 @@ export default [
     path: "brand/AppsFlyerCircleClr",
     tags: ["BrandAppsFlyerCircleClr", "appsflyer", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AppsFlyerSquareClr",
@@ -895,7 +794,6 @@ export default [
     path: "brand/AppsFlyerSquareClr",
     tags: ["BrandAppsFlyerSquareClr", "appsflyer", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AprimoClr",
@@ -903,7 +801,6 @@ export default [
     path: "brand/AprimoClr",
     tags: ["BrandAprimoClr", "channel"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ArabotClr",
@@ -911,7 +808,6 @@ export default [
     path: "brand/ArabotClr",
     tags: ["BrandArabotClr", "arabot"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Arabot",
@@ -919,7 +815,6 @@ export default [
     path: "brand/Arabot",
     tags: ["BrandArabot", "arabot"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ArabotCircleClr",
@@ -927,7 +822,6 @@ export default [
     path: "brand/ArabotCircleClr",
     tags: ["BrandArabotCircleClr", "arabot"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ArabotSquare",
@@ -935,7 +829,6 @@ export default [
     path: "brand/ArabotSquare",
     tags: ["BrandArabotSquare", "arabot"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AvayaClr",
@@ -943,7 +836,6 @@ export default [
     path: "brand/AvayaClr",
     tags: ["BrandAvayaClr", "avaya"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Avaya",
@@ -951,7 +843,6 @@ export default [
     path: "brand/Avaya",
     tags: ["BrandAvaya", "avaya"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AvayaCircleClr",
@@ -959,7 +850,6 @@ export default [
     path: "brand/AvayaCircleClr",
     tags: ["BrandAvayaCircleClr", "avaya"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AwsClr",
@@ -967,7 +857,6 @@ export default [
     path: "brand/AwsClr",
     tags: ["BrandAwsClr", "amazon web services"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Aws",
@@ -975,7 +864,6 @@ export default [
     path: "brand/Aws",
     tags: ["BrandAws", "amazon web services"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AwsCircleClr",
@@ -983,7 +871,6 @@ export default [
     path: "brand/AwsCircleClr",
     tags: ["BrandAwsCircleClr", "amazon web services"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AzureBotClr",
@@ -991,7 +878,6 @@ export default [
     path: "brand/AzureBotClr",
     tags: ["BrandAzureBotClr", "azureBot", "Microsoft Bot Framework"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AzureBot",
@@ -999,7 +885,6 @@ export default [
     path: "brand/AzureBot",
     tags: ["BrandAzureBot", "azureBot", "Microsoft Bot Framework"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BacsDirectDebitSquareClr",
@@ -1007,7 +892,6 @@ export default [
     path: "brand/BacsDirectDebitSquareClr",
     tags: ["BrandBacsDirectDebitSquareClr", "bacsDirectDebit"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BancontactSquareClr",
@@ -1015,7 +899,6 @@ export default [
     path: "brand/BancontactSquareClr",
     tags: ["BrandBancontactSquareClr", "bancontact"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BazaarVoiceClr",
@@ -1023,7 +906,6 @@ export default [
     path: "brand/BazaarVoiceClr",
     tags: ["BrandBazaarVoiceClr", "bazaar voice", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BazaarVoice",
@@ -1031,7 +913,6 @@ export default [
     path: "brand/BazaarVoice",
     tags: ["BrandBazaarVoice", "bazaar voice", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BazaarvoiceCircleClr",
@@ -1039,7 +920,6 @@ export default [
     path: "brand/BazaarvoiceCircleClr",
     tags: ["BrandBazaarvoiceCircleClr", "bazaar voice", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BazaarVoiceSquareClr",
@@ -1047,7 +927,6 @@ export default [
     path: "brand/BazaarVoiceSquareClr",
     tags: ["BrandBazaarVoiceSquareClr", "bazaar voice", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BeezyClr",
@@ -1055,7 +934,6 @@ export default [
     path: "brand/BeezyClr",
     tags: ["BrandBeezyClr", "beezy"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Beezy",
@@ -1063,7 +941,6 @@ export default [
     path: "brand/Beezy",
     tags: ["BrandBeezy", "beezy"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BeezyCircleClr",
@@ -1071,7 +948,6 @@ export default [
     path: "brand/BeezyCircleClr",
     tags: ["BrandBeezyCircleClr", "beezy"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BeezySquareClr",
@@ -1079,7 +955,6 @@ export default [
     path: "brand/BeezySquareClr",
     tags: ["BrandBeezySquareClr", "beezy"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Benchmarking",
@@ -1087,7 +962,6 @@ export default [
     path: "brand/Benchmarking",
     tags: ["BrandBenchmarking", "benchmarking"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BenchmarkingCircleClr",
@@ -1095,7 +969,6 @@ export default [
     path: "brand/BenchmarkingCircleClr",
     tags: ["BrandBenchmarkingCircleClr", "benchmarking"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BingClr",
@@ -1103,7 +976,6 @@ export default [
     path: "brand/BingClr",
     tags: ["BrandBingClr", "bing"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Bing",
@@ -1111,7 +983,6 @@ export default [
     path: "brand/Bing",
     tags: ["BrandBing", "bing"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BingCircleClr",
@@ -1119,7 +990,6 @@ export default [
     path: "brand/BingCircleClr",
     tags: ["BrandBingCircleClr", "bing"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BitlyClr",
@@ -1127,7 +997,6 @@ export default [
     path: "brand/BitlyClr",
     tags: ["BrandBitlyClr", "bitly"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Bitly",
@@ -1135,7 +1004,6 @@ export default [
     path: "brand/Bitly",
     tags: ["BrandBitly", "bitly"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BlinkSquareClr",
@@ -1143,7 +1011,6 @@ export default [
     path: "brand/BlinkSquareClr",
     tags: ["BrandBlinkSquareClr", "blink"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Blog",
@@ -1151,7 +1018,6 @@ export default [
     path: "brand/Blog",
     tags: ["BrandBlog", "blog", "website"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BlogCircleClr",
@@ -1159,7 +1025,6 @@ export default [
     path: "brand/BlogCircleClr",
     tags: ["BrandBlogCircleClr", "blog", "website"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BlogCommentCircleClr",
@@ -1167,7 +1032,6 @@ export default [
     path: "brand/BlogCommentCircleClr",
     tags: ["BrandBlogCommentCircleClr", "Blog Comments"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BoletoSquareClr",
@@ -1175,7 +1039,6 @@ export default [
     path: "brand/BoletoSquareClr",
     tags: ["BrandBoletoSquareClr", "boleto"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Bootroom",
@@ -1183,7 +1046,6 @@ export default [
     path: "brand/Bootroom",
     tags: ["BrandBootroom", "bootroom"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BootroomCircleClr",
@@ -1191,7 +1053,6 @@ export default [
     path: "brand/BootroomCircleClr",
     tags: ["BrandBootroomCircleClr", "bootroom"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BrontoClr",
@@ -1199,7 +1060,6 @@ export default [
     path: "brand/BrontoClr",
     tags: ["BrandBrontoClr", "brand", "bronto"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "BynderClr",
@@ -1207,7 +1067,6 @@ export default [
     path: "brand/BynderClr",
     tags: ["BrandBynderClr", "bynder"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Bynder",
@@ -1215,7 +1074,6 @@ export default [
     path: "brand/Bynder",
     tags: ["BrandBynder", "bynder"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CanadianPADsSquareClr",
@@ -1223,7 +1081,6 @@ export default [
     path: "brand/CanadianPADsSquareClr",
     tags: ["BrandCanadianPADsSquareClr", "canadianPADs"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CanaryClr",
@@ -1231,7 +1088,6 @@ export default [
     path: "brand/CanaryClr",
     tags: ["BrandCanaryClr", "canary"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Canary",
@@ -1239,7 +1095,6 @@ export default [
     path: "brand/Canary",
     tags: ["BrandCanary", "canary"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CarfaxClr",
@@ -1247,7 +1102,6 @@ export default [
     path: "brand/CarfaxClr",
     tags: ["BrandCarfaxClr", "carfax", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Carfax",
@@ -1255,7 +1109,6 @@ export default [
     path: "brand/Carfax",
     tags: ["BrandCarfax", "carfax", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CarfaxCircleClr",
@@ -1263,7 +1116,6 @@ export default [
     path: "brand/CarfaxCircleClr",
     tags: ["BrandCarfaxCircleClr", "carfax", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CarfaxSquareClr",
@@ -1271,7 +1123,6 @@ export default [
     path: "brand/CarfaxSquareClr",
     tags: ["BrandCarfaxSquareClr", "carfax"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CartesBancairesSquareClr",
@@ -1279,7 +1130,6 @@ export default [
     path: "brand/CartesBancairesSquareClr",
     tags: ["BrandCartesBancairesSquareClr", "cartesBancaires"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CaseManagement",
@@ -1287,7 +1137,6 @@ export default [
     path: "brand/CaseManagement",
     tags: ["BrandCaseManagement", "case"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CaseManagementCircleClr",
@@ -1295,7 +1144,6 @@ export default [
     path: "brand/CaseManagementCircleClr",
     tags: ["BrandCaseManagementCircleClr", "case"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CaseManagementSquareClr",
@@ -1303,7 +1151,6 @@ export default [
     path: "brand/CaseManagementSquareClr",
     tags: ["BrandCaseManagementSquareClr", "case"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ChannelAgnostic",
@@ -1311,7 +1158,6 @@ export default [
     path: "brand/ChannelAgnostic",
     tags: ["BrandChannelAgnostic", "agnostic", "channel agnostic"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ChannelAgnosticCircleClr",
@@ -1319,7 +1165,6 @@ export default [
     path: "brand/ChannelAgnosticCircleClr",
     tags: ["BrandChannelAgnosticCircleClr", "agnostic", "channel agnostic"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ChargifyClr",
@@ -1327,7 +1172,6 @@ export default [
     path: "brand/ChargifyClr",
     tags: ["BrandChargifyClr", "chargify", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Chargify",
@@ -1335,7 +1179,6 @@ export default [
     path: "brand/Chargify",
     tags: ["BrandChargify", "chargify", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CharoletteTillburyClr",
@@ -1343,7 +1186,6 @@ export default [
     path: "brand/CharoletteTillburyClr",
     tags: ["BrandCharoletteTillburyClr", "channel", "ct"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ChatGPT",
@@ -1351,7 +1193,6 @@ export default [
     path: "brand/ChatGPT",
     tags: ["BrandChatGPT", "chat gpt"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ChevronLeft",
@@ -1359,7 +1200,6 @@ export default [
     path: "brand/ChevronLeft",
     tags: ["BrandChevronLeft", "chevron", "left", "arrow", "point"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ChinaUnionPaySquareClr",
@@ -1367,7 +1207,6 @@ export default [
     path: "brand/ChinaUnionPaySquareClr",
     tags: ["BrandChinaUnionPaySquareClr", "chinaUnionPay"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ChipotleClr",
@@ -1375,7 +1214,6 @@ export default [
     path: "brand/ChipotleClr",
     tags: ["BrandChipotleClr", "brand", "chiptopia", "chipotle"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CiscoWebexClr",
@@ -1383,7 +1221,6 @@ export default [
     path: "brand/CiscoWebexClr",
     tags: ["BrandCiscoWebexClr", "cisco", "webex"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CiscoWebex",
@@ -1391,7 +1228,6 @@ export default [
     path: "brand/CiscoWebex",
     tags: ["BrandCiscoWebex", "Cisco", "webex"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CiscoWebexCircleClr",
@@ -1399,7 +1235,6 @@ export default [
     path: "brand/CiscoWebexCircleClr",
     tags: ["BrandCiscoWebexCircleClr", "cisco", "webex"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CiscoWebexSquareClr",
@@ -1407,7 +1242,6 @@ export default [
     path: "brand/CiscoWebexSquareClr",
     tags: ["BrandCiscoWebexSquareClr", "cisco", "webex"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ClarabridgeClr",
@@ -1415,7 +1249,6 @@ export default [
     path: "brand/ClarabridgeClr",
     tags: ["BrandClarabridgeClr", "clarabridge"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Clarabridge",
@@ -1423,7 +1256,6 @@ export default [
     path: "brand/Clarabridge",
     tags: ["BrandClarabridge", "clarabridge"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ClarabridgeCircleClr",
@@ -1431,7 +1263,6 @@ export default [
     path: "brand/ClarabridgeCircleClr",
     tags: ["BrandClarabridgeCircleClr", "clarabridge"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ClassifiedCircleClr",
@@ -1439,7 +1270,6 @@ export default [
     path: "brand/ClassifiedCircleClr",
     tags: ["BrandClassifiedCircleClr", "classifieds", "articles", "news"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Client",
@@ -1447,7 +1277,6 @@ export default [
     path: "brand/Client",
     tags: ["BrandClient", "client"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ClientCircleClr",
@@ -1455,7 +1284,6 @@ export default [
     path: "brand/ClientCircleClr",
     tags: ["BrandClientCircleClr", "client"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ClubhouseClr",
@@ -1463,7 +1291,6 @@ export default [
     path: "brand/ClubhouseClr",
     tags: ["BrandClubhouseClr", "club house"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Clubhouse",
@@ -1471,7 +1298,6 @@ export default [
     path: "brand/Clubhouse",
     tags: ["BrandClubhouse", "club house"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ClubhouseCircleClr",
@@ -1479,7 +1305,6 @@ export default [
     path: "brand/ClubhouseCircleClr",
     tags: ["BrandClubhouseCircleClr", "club house"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ClubhouseSquareClr",
@@ -1487,7 +1312,6 @@ export default [
     path: "brand/ClubhouseSquareClr",
     tags: ["BrandClubhouseSquareClr", "club house"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CommerceCircleClr",
@@ -1495,7 +1319,6 @@ export default [
     path: "brand/CommerceCircleClr",
     tags: ["BrandCommerceCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CommerceSquareClr",
@@ -1503,7 +1326,6 @@ export default [
     path: "brand/CommerceSquareClr",
     tags: ["BrandCommerceSquareClr", "commerce", "shopping"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CommunityCircleClr",
@@ -1511,7 +1333,6 @@ export default [
     path: "brand/CommunityCircleClr",
     tags: ["BrandCommunityCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Connect",
@@ -1519,7 +1340,6 @@ export default [
     path: "brand/Connect",
     tags: ["BrandConnect", "nike connect"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ContentfulClr",
@@ -1527,7 +1347,6 @@ export default [
     path: "brand/ContentfulClr",
     tags: ["BrandContentfulClr", "contentful"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Contentful",
@@ -1535,7 +1354,6 @@ export default [
     path: "brand/Contentful",
     tags: ["BrandContentful", "contentful"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ContentfulCircleClr",
@@ -1543,7 +1361,6 @@ export default [
     path: "brand/ContentfulCircleClr",
     tags: ["BrandContentfulCircleClr", "contentful"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ContentfulSquareClr",
@@ -1551,7 +1368,6 @@ export default [
     path: "brand/ContentfulSquareClr",
     tags: ["BrandContentfulSquareClr", "contentful"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Coveo",
@@ -1559,7 +1375,6 @@ export default [
     path: "brand/Coveo",
     tags: ["BrandCoveo", "coveo"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CpgramClr",
@@ -1567,7 +1382,6 @@ export default [
     path: "brand/CpgramClr",
     tags: ["BrandCpgramClr", "cpgram"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CpgramCircleClr",
@@ -1575,7 +1389,6 @@ export default [
     path: "brand/CpgramCircleClr",
     tags: ["BrandCpgramCircleClr", "cpgram"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CrimsonHexagonClr",
@@ -1583,7 +1396,6 @@ export default [
     path: "brand/CrimsonHexagonClr",
     tags: ["BrandCrimsonHexagonClr", "crimsonHexagon"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CrimsonHexagon",
@@ -1591,7 +1403,6 @@ export default [
     path: "brand/CrimsonHexagon",
     tags: ["BrandCrimsonHexagon", "crimson hexagon"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "CrimsonHexagonCircleClr",
@@ -1599,7 +1410,6 @@ export default [
     path: "brand/CrimsonHexagonCircleClr",
     tags: ["BrandCrimsonHexagonCircleClr", "crimson hexagon"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DailyMotionClr",
@@ -1607,7 +1417,6 @@ export default [
     path: "brand/DailyMotionClr",
     tags: ["BrandDailyMotionClr", "daily motion"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DailyMotion",
@@ -1615,7 +1424,6 @@ export default [
     path: "brand/DailyMotion",
     tags: ["BrandDailyMotion", "daily motion"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DailyMotionCircleClr",
@@ -1623,7 +1431,6 @@ export default [
     path: "brand/DailyMotionCircleClr",
     tags: ["BrandDailyMotionCircleClr", "daily motion"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Datorama",
@@ -1631,7 +1438,6 @@ export default [
     path: "brand/Datorama",
     tags: ["BrandDatorama", "datorama"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DinersSquareClr",
@@ -1639,7 +1445,6 @@ export default [
     path: "brand/DinersSquareClr",
     tags: ["BrandDinersSquareClr", "diners"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DiscordClr",
@@ -1647,7 +1452,6 @@ export default [
     path: "brand/DiscordClr",
     tags: ["BrandDiscordClr", "discord", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Discord",
@@ -1655,7 +1459,6 @@ export default [
     path: "brand/Discord",
     tags: ["BrandDiscord", "discord", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DiscordCircleClr",
@@ -1663,7 +1466,6 @@ export default [
     path: "brand/DiscordCircleClr",
     tags: ["BrandDiscordCircleClr", "discord", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DiscordSquareClr",
@@ -1671,7 +1473,6 @@ export default [
     path: "brand/DiscordSquareClr",
     tags: ["BrandDiscordSquareClr", "discord", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DiscourseClr",
@@ -1679,7 +1480,6 @@ export default [
     path: "brand/DiscourseClr",
     tags: ["BrandDiscourseClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Discourse",
@@ -1687,7 +1487,6 @@ export default [
     path: "brand/Discourse",
     tags: ["BrandDiscourse"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DiscourseCircleClr",
@@ -1695,7 +1494,6 @@ export default [
     path: "brand/DiscourseCircleClr",
     tags: ["BrandDiscourseCircleClr", "discourse"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DiscourseCircle",
@@ -1703,7 +1501,6 @@ export default [
     path: "brand/DiscourseCircle",
     tags: ["BrandDiscourseCircle"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DiscourseSquareClr",
@@ -1711,7 +1508,6 @@ export default [
     path: "brand/DiscourseSquareClr",
     tags: ["BrandDiscourseSquareClr", "discourse"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DiscoverSquareClr",
@@ -1719,7 +1515,6 @@ export default [
     path: "brand/DiscoverSquareClr",
     tags: ["BrandDiscoverSquareClr", "discover"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DisplayClr",
@@ -1727,7 +1522,6 @@ export default [
     path: "brand/DisplayClr",
     tags: ["BrandDisplayClr", "display"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Display",
@@ -1735,7 +1529,6 @@ export default [
     path: "brand/Display",
     tags: ["BrandDisplay", "display"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DisplayCircleClr",
@@ -1743,7 +1536,6 @@ export default [
     path: "brand/DisplayCircleClr",
     tags: ["BrandDisplayCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DisplayVisionClr",
@@ -1751,7 +1543,6 @@ export default [
     path: "brand/DisplayVisionClr",
     tags: ["BrandDisplayVisionClr", "DV360", "display and vision"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DisplayVisionCircleClr",
@@ -1759,7 +1550,6 @@ export default [
     path: "brand/DisplayVisionCircleClr",
     tags: ["BrandDisplayVisionCircleClr", "DV360", "display and vision"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DisplayVisionSquareClr",
@@ -1767,7 +1557,6 @@ export default [
     path: "brand/DisplayVisionSquareClr",
     tags: ["BrandDisplayVisionSquareClr", "DV360", "display and vision"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DomoClr",
@@ -1775,7 +1564,6 @@ export default [
     path: "brand/DomoClr",
     tags: ["BrandDomoClr", "domo"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DoubleClickCampaignManagerClr",
@@ -1783,7 +1571,6 @@ export default [
     path: "brand/DoubleClickCampaignManagerClr",
     tags: ["BrandDoubleClickCampaignManagerClr", "channel", "DCM"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DoubleClickCampaignManager",
@@ -1791,7 +1578,6 @@ export default [
     path: "brand/DoubleClickCampaignManager",
     tags: ["BrandDoubleClickCampaignManager", "dcm"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DoubleClickCampaignManagerCircleClr",
@@ -1799,7 +1585,6 @@ export default [
     path: "brand/DoubleClickCampaignManagerCircleClr",
     tags: ["BrandDoubleClickCampaignManagerCircleClr", "dcm"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DoubleClickCampaignManagerSquareClr",
@@ -1807,7 +1592,6 @@ export default [
     path: "brand/DoubleClickCampaignManagerSquareClr",
     tags: ["BrandDoubleClickCampaignManagerSquareClr", "dcm"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DowJonesClr",
@@ -1815,7 +1599,6 @@ export default [
     path: "brand/DowJonesClr",
     tags: ["BrandDowJonesClr", "Dow Jones"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DowJones",
@@ -1823,7 +1606,6 @@ export default [
     path: "brand/DowJones",
     tags: ["BrandDowJones", "Dow Jones"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DowJonesCircleClr",
@@ -1831,7 +1613,6 @@ export default [
     path: "brand/DowJonesCircleClr",
     tags: ["BrandDowJonesCircleClr", "Dow Jones"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "DowJonesSquareClr",
@@ -1839,7 +1620,6 @@ export default [
     path: "brand/DowJonesSquareClr",
     tags: ["BrandDowJonesSquareClr", "Dow Jones"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Ellipsis",
@@ -1857,7 +1637,6 @@ export default [
       "audio",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "EmailClr",
@@ -1865,7 +1644,6 @@ export default [
     path: "brand/EmailClr",
     tags: ["BrandEmailClr", "email"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "EmailCircleClr",
@@ -1873,7 +1651,6 @@ export default [
     path: "brand/EmailCircleClr",
     tags: ["BrandEmailCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "EmailCircle",
@@ -1881,7 +1658,6 @@ export default [
     path: "brand/EmailCircle",
     tags: ["BrandEmailCircle", "emailCircle"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "EmailDraftClr",
@@ -1889,7 +1665,6 @@ export default [
     path: "brand/EmailDraftClr",
     tags: ["BrandEmailDraftClr", "email draft"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "EmailDraft",
@@ -1897,7 +1672,6 @@ export default [
     path: "brand/EmailDraft",
     tags: ["BrandEmailDraft", "email draft"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "EmailDraftCircleClr",
@@ -1905,7 +1679,6 @@ export default [
     path: "brand/EmailDraftCircleClr",
     tags: ["BrandEmailDraftCircleClr", "email draft"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "EmailSquareClr",
@@ -1913,7 +1686,6 @@ export default [
     path: "brand/EmailSquareClr",
     tags: ["BrandEmailSquareClr", "mail", "email", "message", "conversation"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "EpsSquare",
@@ -1921,7 +1693,6 @@ export default [
     path: "brand/EpsSquare",
     tags: ["BrandEpsSquare", "eps"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "EskoClr",
@@ -1929,7 +1700,6 @@ export default [
     path: "brand/EskoClr",
     tags: ["BrandEskoClr", "channel"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ExactTargetClr",
@@ -1937,7 +1707,6 @@ export default [
     path: "brand/ExactTargetClr",
     tags: ["BrandExactTargetClr", "exact target"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ExactTarget",
@@ -1945,7 +1714,6 @@ export default [
     path: "brand/ExactTarget",
     tags: ["BrandExactTarget", "exact target"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ExactTargetCircleClr",
@@ -1953,7 +1721,6 @@ export default [
     path: "brand/ExactTargetCircleClr",
     tags: ["BrandExactTargetCircleClr", "exact target"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FacebookClr",
@@ -1961,7 +1728,6 @@ export default [
     path: "brand/FacebookClr",
     tags: ["BrandFacebookClr", "facebook", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Facebook",
@@ -1969,7 +1735,6 @@ export default [
     path: "brand/Facebook",
     tags: ["BrandFacebook", "facebook", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FacebookCircleClr",
@@ -1977,7 +1742,6 @@ export default [
     path: "brand/FacebookCircleClr",
     tags: ["BrandFacebookCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FacebookCircle",
@@ -1985,7 +1749,6 @@ export default [
     path: "brand/FacebookCircle",
     tags: ["BrandFacebookCircle", "facebook"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FacebookMessengerClr",
@@ -1993,7 +1756,6 @@ export default [
     path: "brand/FacebookMessengerClr",
     tags: ["BrandFacebookMessengerClr", "facebook", "messenger"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FacebookMessenger",
@@ -2001,7 +1763,6 @@ export default [
     path: "brand/FacebookMessenger",
     tags: ["BrandFacebookMessenger", "facebook", "messenger"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FacebookMessengerCircleClr",
@@ -2009,7 +1770,6 @@ export default [
     path: "brand/FacebookMessengerCircleClr",
     tags: ["BrandFacebookMessengerCircleClr", "facebook", "messenger"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FacebookMessengerSquareClr",
@@ -2017,7 +1777,6 @@ export default [
     path: "brand/FacebookMessengerSquareClr",
     tags: ["BrandFacebookMessengerSquareClr", "facebook", "messenger"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FacebookTextClr",
@@ -2025,7 +1784,6 @@ export default [
     path: "brand/FacebookTextClr",
     tags: ["BrandFacebookTextClr", "facebook"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FacebookVerifiedClr",
@@ -2033,7 +1791,6 @@ export default [
     path: "brand/FacebookVerifiedClr",
     tags: ["BrandFacebookVerifiedClr", "facebook", "verified"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FacebookWorkplaceClr",
@@ -2041,7 +1798,6 @@ export default [
     path: "brand/FacebookWorkplaceClr",
     tags: ["BrandFacebookWorkplaceClr", "brand", "facebook"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FacebookWorkplace",
@@ -2049,7 +1805,6 @@ export default [
     path: "brand/FacebookWorkplace",
     tags: ["BrandFacebookWorkplace", "brand", "facebook"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FacebookWorkplaceCircleClr",
@@ -2057,7 +1812,6 @@ export default [
     path: "brand/FacebookWorkplaceCircleClr",
     tags: ["BrandFacebookWorkplaceCircleClr", "brand", "facebook"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FacebookWorkplaceSquareClr",
@@ -2065,7 +1819,6 @@ export default [
     path: "brand/FacebookWorkplaceSquareClr",
     tags: ["BrandFacebookWorkplaceSquareClr", "facebook", "workplace"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FacebookWorkplaceText",
@@ -2073,7 +1826,6 @@ export default [
     path: "brand/FacebookWorkplaceText",
     tags: ["BrandFacebookWorkplaceText", "brand", "facebook"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FlickrClr",
@@ -2081,7 +1833,6 @@ export default [
     path: "brand/FlickrClr",
     tags: ["BrandFlickrClr", "flickr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Flickr",
@@ -2089,7 +1840,6 @@ export default [
     path: "brand/Flickr",
     tags: ["BrandFlickr", "flickr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FlickrCircleClr",
@@ -2097,7 +1847,6 @@ export default [
     path: "brand/FlickrCircleClr",
     tags: ["BrandFlickrCircleClr", "Flickr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FlickrSquareClr",
@@ -2105,23 +1854,20 @@ export default [
     path: "brand/FlickrSquareClr",
     tags: ["BrandFlickrSquareClr", "flickr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
-  // {
-  //   name: "FluidwebClr",
-  //   fullName: "BrandFluidwebClr",
-  //   path: "brand/FluidwebClr",
-  //   tags: ["BrandFluidwebClr", "brand", "fluidweb"],
-  //   category: "brand",
-  //   filePath: path.join(process.cwd(), '/data/brand/')
-  // },
+  {
+    name: "FluidwebClr",
+    fullName: "BrandFluidwebClr",
+    path: "brand/FluidwebClr",
+    tags: ["BrandFluidwebClr", "brand", "fluidweb"],
+    category: "brand",
+  },
   {
     name: "Fluidweb",
     fullName: "BrandFluidweb",
     path: "brand/Fluidweb",
     tags: ["BrandFluidweb", "brand", "fluidweb"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   // {
   //   name: "FluidwebCircleClr",
@@ -2129,15 +1875,13 @@ export default [
   //   path: "brand/FluidwebCircleClr",
   //   tags: ["BrandFluidwebCircleClr"],
   //   category: "brand",
-  //   filePath: path.join(process.cwd(), '/data/brand/')
-  // },
+  //// },
   {
     name: "FluidwebSquareClr",
     fullName: "BrandFluidwebSquareClr",
     path: "brand/FluidwebSquareClr",
     tags: ["BrandFluidwebSquareClr", "brand", "fluidweb"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ForumsClr",
@@ -2145,7 +1889,6 @@ export default [
     path: "brand/ForumsClr",
     tags: ["BrandForumsClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Forums",
@@ -2153,7 +1896,6 @@ export default [
     path: "brand/Forums",
     tags: ["BrandForums"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ForumsCircleClr",
@@ -2161,7 +1903,6 @@ export default [
     path: "brand/ForumsCircleClr",
     tags: ["BrandForumsCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FoursquareClr",
@@ -2169,7 +1910,6 @@ export default [
     path: "brand/FoursquareClr",
     tags: ["BrandFoursquareClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Foursquare",
@@ -2177,7 +1917,6 @@ export default [
     path: "brand/Foursquare",
     tags: ["BrandFoursquare"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FoursquareCircleClr",
@@ -2185,7 +1924,6 @@ export default [
     path: "brand/FoursquareCircleClr",
     tags: ["BrandFoursquareCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FpxSquare",
@@ -2193,7 +1931,6 @@ export default [
     path: "brand/FpxSquare",
     tags: ["BrandFpxSquare", "fpx"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FreshdeskClr",
@@ -2201,7 +1938,6 @@ export default [
     path: "brand/FreshdeskClr",
     tags: ["BrandFreshdeskClr", "freshdesk"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Freshdesk",
@@ -2209,7 +1945,6 @@ export default [
     path: "brand/Freshdesk",
     tags: ["BrandFreshdesk", "freshdesk"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FreshdeskCircleClr",
@@ -2217,7 +1952,6 @@ export default [
     path: "brand/FreshdeskCircleClr",
     tags: ["BrandFreshdeskCircleClr", "freshdesk"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FreshdeskSquareClr",
@@ -2225,7 +1959,6 @@ export default [
     path: "brand/FreshdeskSquareClr",
     tags: ["BrandFreshdeskSquareClr", "freshdesk"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "FreshSalesClr",
@@ -2233,7 +1966,6 @@ export default [
     path: "brand/FreshSalesClr",
     tags: ["BrandFreshSalesClr", "channel"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GetSatisfactionClr",
@@ -2241,7 +1973,6 @@ export default [
     path: "brand/GetSatisfactionClr",
     tags: ["BrandGetSatisfactionClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GetSatisfaction",
@@ -2249,7 +1980,6 @@ export default [
     path: "brand/GetSatisfaction",
     tags: ["BrandGetSatisfaction"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GetSatisfactionCircleClr",
@@ -2257,7 +1987,6 @@ export default [
     path: "brand/GetSatisfactionCircleClr",
     tags: ["BrandGetSatisfactionCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GettyImagesClr",
@@ -2265,7 +1994,6 @@ export default [
     path: "brand/GettyImagesClr",
     tags: ["BrandGettyImagesClr", "channel"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GiropaySquareClr",
@@ -2273,7 +2001,6 @@ export default [
     path: "brand/GiropaySquareClr",
     tags: ["BrandGiropaySquareClr", "giropay"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GlassdoorClr",
@@ -2281,7 +2008,6 @@ export default [
     path: "brand/GlassdoorClr",
     tags: ["BrandGlassdoorClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Glassdoor",
@@ -2289,7 +2015,6 @@ export default [
     path: "brand/Glassdoor",
     tags: ["BrandGlassdoor", "glassdoor"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GlassdoorCircleClr",
@@ -2297,7 +2022,6 @@ export default [
     path: "brand/GlassdoorCircleClr",
     tags: ["BrandGlassdoorCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GlassdoorCircle",
@@ -2305,7 +2029,6 @@ export default [
     path: "brand/GlassdoorCircle",
     tags: ["BrandGlassdoorCircle", "glassdoor", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GlassdoorSquare",
@@ -2313,7 +2036,6 @@ export default [
     path: "brand/GlassdoorSquare",
     tags: ["BrandGlassdoorSquare", "glassdoor"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GlobalRelayClr",
@@ -2321,7 +2043,6 @@ export default [
     path: "brand/GlobalRelayClr",
     tags: ["BrandGlobalRelayClr", "Global Relay"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GlobalRelay",
@@ -2329,7 +2050,6 @@ export default [
     path: "brand/GlobalRelay",
     tags: ["BrandGlobalRelay", "Global Relay"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GlobalRelayCircleClr",
@@ -2337,7 +2057,6 @@ export default [
     path: "brand/GlobalRelayCircleClr",
     tags: ["BrandGlobalRelayCircleClr", "Global Relay"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GlobalRelaySquareClr",
@@ -2345,7 +2064,6 @@ export default [
     path: "brand/GlobalRelaySquareClr",
     tags: ["BrandGlobalRelaySquareClr", "Global Relay"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleClr",
@@ -2353,7 +2071,6 @@ export default [
     path: "brand/GoogleClr",
     tags: ["BrandGoogleClr", "google"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleAdsClr",
@@ -2361,7 +2078,6 @@ export default [
     path: "brand/GoogleAdsClr",
     tags: ["BrandGoogleAdsClr", "google"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleAds",
@@ -2369,7 +2085,6 @@ export default [
     path: "brand/GoogleAds",
     tags: ["BrandGoogleAds", "google"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleAdsCircleClr",
@@ -2377,7 +2092,6 @@ export default [
     path: "brand/GoogleAdsCircleClr",
     tags: ["BrandGoogleAdsCircleClr", "google"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleAdsSquareClr",
@@ -2385,7 +2099,6 @@ export default [
     path: "brand/GoogleAdsSquareClr",
     tags: ["BrandGoogleAdsSquareClr", "google"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleAnalyticsClr",
@@ -2393,7 +2106,6 @@ export default [
     path: "brand/GoogleAnalyticsClr",
     tags: ["BrandGoogleAnalyticsClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleAnalytics",
@@ -2401,7 +2113,6 @@ export default [
     path: "brand/GoogleAnalytics",
     tags: ["BrandGoogleAnalytics"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleAnalyticsCircleClr",
@@ -2409,7 +2120,6 @@ export default [
     path: "brand/GoogleAnalyticsCircleClr",
     tags: ["BrandGoogleAnalyticsCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleBusinessMessaging",
@@ -2417,7 +2127,6 @@ export default [
     path: "brand/GoogleBusinessMessaging",
     tags: ["BrandGoogleBusinessMessaging", "google", "business", "messaging"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleBusinessMessagingCircleClr",
@@ -2425,7 +2134,6 @@ export default [
     path: "brand/GoogleBusinessMessagingCircleClr",
     tags: ["BrandGoogleBusinessMessagingCircleClr", "google business", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleBusinessMessagingSquareClr",
@@ -2433,7 +2141,6 @@ export default [
     path: "brand/GoogleBusinessMessagingSquareClr",
     tags: ["BrandGoogleBusinessMessagingSquareClr", "google"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleCalenderClr",
@@ -2441,7 +2148,6 @@ export default [
     path: "brand/GoogleCalenderClr",
     tags: ["BrandGoogleCalenderClr", "google calender", "google"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleCampaignManagerClr",
@@ -2449,7 +2155,6 @@ export default [
     path: "brand/GoogleCampaignManagerClr",
     tags: ["BrandGoogleCampaignManagerClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleCampaignManager",
@@ -2457,7 +2162,6 @@ export default [
     path: "brand/GoogleCampaignManager",
     tags: ["BrandGoogleCampaignManager"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleCampaignManagerCircleClr",
@@ -2465,7 +2169,6 @@ export default [
     path: "brand/GoogleCampaignManagerCircleClr",
     tags: ["BrandGoogleCampaignManagerCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleChromeClr",
@@ -2473,7 +2176,6 @@ export default [
     path: "brand/GoogleChromeClr",
     tags: ["BrandGoogleChromeClr", "google", "chrome browser", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleChrome",
@@ -2481,7 +2183,6 @@ export default [
     path: "brand/GoogleChrome",
     tags: ["BrandGoogleChrome", "google", "chrome browser", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleCircleClr",
@@ -2489,7 +2190,6 @@ export default [
     path: "brand/GoogleCircleClr",
     tags: ["BrandGoogleCircleClr", "google"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleCircle",
@@ -2497,7 +2197,6 @@ export default [
     path: "brand/GoogleCircle",
     tags: ["BrandGoogleCircle"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleDriveClr",
@@ -2505,7 +2204,6 @@ export default [
     path: "brand/GoogleDriveClr",
     tags: ["BrandGoogleDriveClr", "channel"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleDrive",
@@ -2513,7 +2211,6 @@ export default [
     path: "brand/GoogleDrive",
     tags: ["BrandGoogleDrive", "google drive"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleDriveCircleClr",
@@ -2521,7 +2218,6 @@ export default [
     path: "brand/GoogleDriveCircleClr",
     tags: ["BrandGoogleDriveCircleClr", "google drive"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleDriveSquareClr",
@@ -2529,7 +2225,6 @@ export default [
     path: "brand/GoogleDriveSquareClr",
     tags: ["BrandGoogleDriveSquareClr", "google drive"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleDVClr",
@@ -2537,7 +2232,6 @@ export default [
     path: "brand/GoogleDVClr",
     tags: ["BrandGoogleDVClr", "googleDV"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleDV",
@@ -2545,7 +2239,6 @@ export default [
     path: "brand/GoogleDV",
     tags: ["BrandGoogleDV", "google", "dv"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleDVCircleClr",
@@ -2553,7 +2246,6 @@ export default [
     path: "brand/GoogleDVCircleClr",
     tags: ["BrandGoogleDVCircleClr", "googleDV"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleDVSquareClr",
@@ -2561,7 +2253,6 @@ export default [
     path: "brand/GoogleDVSquareClr",
     tags: ["BrandGoogleDVSquareClr", "googleDV"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleEventLine",
@@ -2569,7 +2260,6 @@ export default [
     path: "brand/GoogleEventLine",
     tags: ["BrandGoogleEventLine", "event", "calendar", "schedule"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleFirebaseClr",
@@ -2577,7 +2267,6 @@ export default [
     path: "brand/GoogleFirebaseClr",
     tags: ["BrandGoogleFirebaseClr", "firebase"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleLocalOfferLine",
@@ -2585,7 +2274,6 @@ export default [
     path: "brand/GoogleLocalOfferLine",
     tags: ["BrandGoogleLocalOfferLine", "offer", "tag"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleMyBusinessClr",
@@ -2593,7 +2281,6 @@ export default [
     path: "brand/GoogleMyBusinessClr",
     tags: ["BrandGoogleMyBusinessClr", "google", "channel", "GMB"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleMyBusiness",
@@ -2601,7 +2288,6 @@ export default [
     path: "brand/GoogleMyBusiness",
     tags: ["BrandGoogleMyBusiness", "google", "channel", "GMB"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleMyBusinessCircleClr",
@@ -2609,7 +2295,6 @@ export default [
     path: "brand/GoogleMyBusinessCircleClr",
     tags: ["BrandGoogleMyBusinessCircleClr", "google"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleMyBusinessSquareClr",
@@ -2617,7 +2302,6 @@ export default [
     path: "brand/GoogleMyBusinessSquareClr",
     tags: ["BrandGoogleMyBusinessSquareClr", "google"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleNewReleasesLine",
@@ -2625,7 +2309,6 @@ export default [
     path: "brand/GoogleNewReleasesLine",
     tags: ["BrandGoogleNewReleasesLine", "new", "release", "offer"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GooglePlayClr",
@@ -2633,7 +2316,6 @@ export default [
     path: "brand/GooglePlayClr",
     tags: ["BrandGooglePlayClr", "google play"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GooglePlayCircleClr",
@@ -2641,7 +2323,6 @@ export default [
     path: "brand/GooglePlayCircleClr",
     tags: ["BrandGooglePlayCircleClr", "google play"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GooglePlaySquareClr",
@@ -2649,7 +2330,6 @@ export default [
     path: "brand/GooglePlaySquareClr",
     tags: ["BrandGooglePlaySquareClr", "google play"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GooglePlayStore",
@@ -2657,7 +2337,6 @@ export default [
     path: "brand/GooglePlayStore",
     tags: ["BrandGooglePlayStore", "google", "playstore"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GooglePlusClr",
@@ -2665,7 +2344,6 @@ export default [
     path: "brand/GooglePlusClr",
     tags: ["BrandGooglePlusClr", "google", "google plus", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GooglePlus",
@@ -2673,7 +2351,6 @@ export default [
     path: "brand/GooglePlus",
     tags: ["BrandGooglePlus", "google", "google plus", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GooglePlusCircleClr",
@@ -2681,7 +2358,6 @@ export default [
     path: "brand/GooglePlusCircleClr",
     tags: ["BrandGooglePlusCircleClr", "google", "google plus", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GooglePlusSquareClr",
@@ -2689,7 +2365,6 @@ export default [
     path: "brand/GooglePlusSquareClr",
     tags: ["BrandGooglePlusSquareClr", "google", "google plus", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleReportProblemLine",
@@ -2697,7 +2372,6 @@ export default [
     path: "brand/GoogleReportProblemLine",
     tags: ["BrandGoogleReportProblemLine", "alert", "report", "problem"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleSearchConsoleClr",
@@ -2705,7 +2379,6 @@ export default [
     path: "brand/GoogleSearchConsoleClr",
     tags: ["BrandGoogleSearchConsoleClr", "google", "search console"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleShoppingBasketLine",
@@ -2713,7 +2386,6 @@ export default [
     path: "brand/GoogleShoppingBasketLine",
     tags: ["BrandGoogleShoppingBasketLine", "cart", "shop", "basket"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GoogleSquareClr",
@@ -2721,7 +2393,6 @@ export default [
     path: "brand/GoogleSquareClr",
     tags: ["BrandGoogleSquareClr", "google"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Governance",
@@ -2729,7 +2400,6 @@ export default [
     path: "brand/Governance",
     tags: ["BrandGovernance", "setting", "governance"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GovernanceCircle",
@@ -2737,7 +2407,6 @@ export default [
     path: "brand/GovernanceCircle",
     tags: ["BrandGovernanceCircle", "setting", "governance"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GovernanceSquare",
@@ -2745,7 +2414,6 @@ export default [
     path: "brand/GovernanceSquare",
     tags: ["BrandGovernanceSquare", "setting", "governance"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GowallaClr",
@@ -2753,7 +2421,6 @@ export default [
     path: "brand/GowallaClr",
     tags: ["BrandGowallaClr", "gowalla"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Gowalla",
@@ -2761,7 +2428,6 @@ export default [
     path: "brand/Gowalla",
     tags: ["BrandGowalla", "gowalla"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GowallaCircleClr",
@@ -2769,7 +2435,6 @@ export default [
     path: "brand/GowallaCircleClr",
     tags: ["BrandGowallaCircleClr", "gowalla"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "GrabPaySquareClr",
@@ -2777,7 +2442,6 @@ export default [
     path: "brand/GrabPaySquareClr",
     tags: ["BrandGrabPaySquareClr", "grabPay"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "HaptikClr",
@@ -2785,7 +2449,6 @@ export default [
     path: "brand/HaptikClr",
     tags: ["BrandHaptikClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Haptik",
@@ -2793,7 +2456,6 @@ export default [
     path: "brand/Haptik",
     tags: ["BrandHaptik"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "HaptikCircleClr",
@@ -2801,7 +2463,6 @@ export default [
     path: "brand/HaptikCircleClr",
     tags: ["BrandHaptikCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "HaptikSquareClr",
@@ -2809,7 +2470,6 @@ export default [
     path: "brand/HaptikSquareClr",
     tags: ["BrandHaptikSquareClr", "haptik"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "HdfcClr",
@@ -2817,7 +2477,6 @@ export default [
     path: "brand/HdfcClr",
     tags: ["BrandHdfcClr", "HDFC"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Hdfc",
@@ -2825,7 +2484,6 @@ export default [
     path: "brand/Hdfc",
     tags: ["BrandHdfc", "HDFC"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "HdfcBETAClr",
@@ -2833,7 +2491,6 @@ export default [
     path: "brand/HdfcBETAClr",
     tags: ["BrandHdfcBETAClr", "beta", "hdfc"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "HdfcCircleClr",
@@ -2841,7 +2498,6 @@ export default [
     path: "brand/HdfcCircleClr",
     tags: ["BrandHdfcCircleClr", "HDFC"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "HdfcSquareClr",
@@ -2849,7 +2505,6 @@ export default [
     path: "brand/HdfcSquareClr",
     tags: ["BrandHdfcSquareClr", "HDFC"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "HdfcUATClr",
@@ -2857,7 +2512,6 @@ export default [
     path: "brand/HdfcUATClr",
     tags: ["BrandHdfcUATClr", "UAT", "hdfc"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "HenkelClr",
@@ -2865,7 +2519,6 @@ export default [
     path: "brand/HenkelClr",
     tags: ["BrandHenkelClr", "channel"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "HubspotClr",
@@ -2873,7 +2526,6 @@ export default [
     path: "brand/HubspotClr",
     tags: ["BrandHubspotClr", "hubspot"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Hubspot",
@@ -2881,7 +2533,6 @@ export default [
     path: "brand/Hubspot",
     tags: ["BrandHubspot", "hubspot"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "HubspotCircleClr",
@@ -2889,7 +2540,6 @@ export default [
     path: "brand/HubspotCircleClr",
     tags: ["BrandHubspotCircleClr", "hubspot"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "HubspotSquareClr",
@@ -2897,7 +2547,6 @@ export default [
     path: "brand/HubspotSquareClr",
     tags: ["BrandHubspotSquareClr", "hubspot"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "HybrisClr",
@@ -2905,7 +2554,6 @@ export default [
     path: "brand/HybrisClr",
     tags: ["BrandHybrisClr", "Hybris", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Hybris",
@@ -2913,7 +2561,6 @@ export default [
     path: "brand/Hybris",
     tags: ["BrandHybris", "Hybris", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "HybrisCircleClr",
@@ -2921,7 +2568,6 @@ export default [
     path: "brand/HybrisCircleClr",
     tags: ["BrandHybrisCircleClr", "Hybris", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "IdealSquareClr",
@@ -2929,7 +2575,6 @@ export default [
     path: "brand/IdealSquareClr",
     tags: ["BrandIdealSquareClr", "ideal"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "IInteracSquareClr",
@@ -2937,7 +2582,6 @@ export default [
     path: "brand/IInteracSquareClr",
     tags: ["BrandIInteracSquareClr", "Interac"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "InfobipClr",
@@ -2945,7 +2589,6 @@ export default [
     path: "brand/InfobipClr",
     tags: ["BrandInfobipClr", "infobip"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Infobip",
@@ -2953,7 +2596,6 @@ export default [
     path: "brand/Infobip",
     tags: ["BrandInfobip", "infobip"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "InfobipCircleClr",
@@ -2961,7 +2603,6 @@ export default [
     path: "brand/InfobipCircleClr",
     tags: ["BrandInfobipCircleClr", "infobip"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "InstagramClr",
@@ -2969,7 +2610,6 @@ export default [
     path: "brand/InstagramClr",
     tags: ["BrandInstagramClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Instagram",
@@ -2977,7 +2617,6 @@ export default [
     path: "brand/Instagram",
     tags: ["BrandInstagram"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "InstagramCircleClr",
@@ -2985,7 +2624,6 @@ export default [
     path: "brand/InstagramCircleClr",
     tags: ["BrandInstagramCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "InstagramCircle",
@@ -2993,7 +2631,6 @@ export default [
     path: "brand/InstagramCircle",
     tags: ["BrandInstagramCircle", "instagram"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "InstagramGrid",
@@ -3001,7 +2638,6 @@ export default [
     path: "brand/InstagramGrid",
     tags: ["BrandInstagramGrid", "instagram"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "InstagramHome",
@@ -3009,7 +2645,6 @@ export default [
     path: "brand/InstagramHome",
     tags: ["BrandInstagramHome", "instagram"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "InstagramPost",
@@ -3017,7 +2652,6 @@ export default [
     path: "brand/InstagramPost",
     tags: ["BrandInstagramPost", "instagram"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "InstagramReels",
@@ -3025,7 +2659,6 @@ export default [
     path: "brand/InstagramReels",
     tags: ["BrandInstagramReels", "instagram"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "InstagramSquareClr",
@@ -3033,7 +2666,6 @@ export default [
     path: "brand/InstagramSquareClr",
     tags: ["BrandInstagramSquareClr", "instagram"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "InstagramText",
@@ -3041,7 +2673,6 @@ export default [
     path: "brand/InstagramText",
     tags: ["BrandInstagramText", "instagram"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "InstagramVerifiedClr",
@@ -3049,7 +2680,6 @@ export default [
     path: "brand/InstagramVerifiedClr",
     tags: ["BrandInstagramVerifiedClr", "instagram", "verified"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "InStoreEventClr",
@@ -3057,7 +2687,6 @@ export default [
     path: "brand/InStoreEventClr",
     tags: ["BrandInStoreEventClr", "retail", "in store event"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "InStoreEvent",
@@ -3065,7 +2694,6 @@ export default [
     path: "brand/InStoreEvent",
     tags: ["BrandInStoreEvent", "retail", "in store event"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "InStoreEventCircleClr",
@@ -3073,7 +2701,6 @@ export default [
     path: "brand/InStoreEventCircleClr",
     tags: ["BrandInStoreEventCircleClr", "retail", "in store event"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "IntercomClr",
@@ -3081,7 +2708,6 @@ export default [
     path: "brand/IntercomClr",
     tags: ["BrandIntercomClr", "intercom"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Intercom",
@@ -3089,7 +2715,6 @@ export default [
     path: "brand/Intercom",
     tags: ["BrandIntercom", "intercom"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Intranet",
@@ -3097,7 +2722,6 @@ export default [
     path: "brand/Intranet",
     tags: ["BrandIntranet", "intranet"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "IntranetCircleClr",
@@ -3105,7 +2729,6 @@ export default [
     path: "brand/IntranetCircleClr",
     tags: ["BrandIntranetCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "JcbSquareClr",
@@ -3113,7 +2736,6 @@ export default [
     path: "brand/JcbSquareClr",
     tags: ["BrandJcbSquareClr", "jcb"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "JiraClr",
@@ -3121,7 +2743,6 @@ export default [
     path: "brand/JiraClr",
     tags: ["BrandJiraClr", "jira"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Jira",
@@ -3129,7 +2750,6 @@ export default [
     path: "brand/Jira",
     tags: ["BrandJira", "jira"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "JiraCircleClr",
@@ -3137,7 +2757,6 @@ export default [
     path: "brand/JiraCircleClr",
     tags: ["BrandJiraCircleClr", "jira"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "JiraSquareClr",
@@ -3145,7 +2764,6 @@ export default [
     path: "brand/JiraSquareClr",
     tags: ["BrandJiraSquareClr", "jira"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "JiveClr",
@@ -3153,7 +2771,6 @@ export default [
     path: "brand/JiveClr",
     tags: ["BrandJiveClr", "jive"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Jive",
@@ -3161,7 +2778,6 @@ export default [
     path: "brand/Jive",
     tags: ["BrandJive", "jive"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "JiveCircleClr",
@@ -3169,7 +2785,6 @@ export default [
     path: "brand/JiveCircleClr",
     tags: ["BrandJiveCircleClr", "jive"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "JiveSquareClr",
@@ -3177,7 +2792,6 @@ export default [
     path: "brand/JiveSquareClr",
     tags: ["BrandJiveSquareClr", "jive"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "KakaoClr",
@@ -3185,7 +2799,6 @@ export default [
     path: "brand/KakaoClr",
     tags: ["BrandKakaoClr", "Kakao", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Kakao",
@@ -3193,7 +2806,6 @@ export default [
     path: "brand/Kakao",
     tags: ["BrandKakao", "Kakao", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "KakaoCircleClr",
@@ -3201,7 +2813,6 @@ export default [
     path: "brand/KakaoCircleClr",
     tags: ["BrandKakaoCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "KakaoTalkClr",
@@ -3209,7 +2820,6 @@ export default [
     path: "brand/KakaoTalkClr",
     tags: ["BrandKakaoTalkClr", "kakao"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "KakaoTalk",
@@ -3217,7 +2827,6 @@ export default [
     path: "brand/KakaoTalk",
     tags: ["BrandKakaoTalk", "kakao"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "KakaoTalkCircleClr",
@@ -3225,7 +2834,6 @@ export default [
     path: "brand/KakaoTalkCircleClr",
     tags: ["BrandKakaoTalkCircleClr", "kakao"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "KaleyraClr",
@@ -3233,7 +2841,6 @@ export default [
     path: "brand/KaleyraClr",
     tags: ["BrandKaleyraClr", "kaleyra"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Kaleyra",
@@ -3241,7 +2848,6 @@ export default [
     path: "brand/Kaleyra",
     tags: ["BrandKaleyra", "kaleyra"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "KaleyraCircleClr",
@@ -3249,7 +2855,6 @@ export default [
     path: "brand/KaleyraCircleClr",
     tags: ["BrandKaleyraCircleClr", "kaleyra"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "KaleyraSquareClr",
@@ -3257,7 +2862,6 @@ export default [
     path: "brand/KaleyraSquareClr",
     tags: ["BrandKaleyraSquareClr", "kaleyra"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "KhorosClr",
@@ -3265,7 +2869,6 @@ export default [
     path: "brand/KhorosClr",
     tags: ["BrandKhorosClr", "khoros chat channel", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Khoros",
@@ -3273,7 +2876,6 @@ export default [
     path: "brand/Khoros",
     tags: ["BrandKhoros", "khoros chat channel", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "KhorosCircleClr",
@@ -3281,7 +2883,6 @@ export default [
     path: "brand/KhorosCircleClr",
     tags: ["BrandKhorosCircleClr", "khoros chat channel", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "KhorosSquareClr",
@@ -3289,7 +2890,6 @@ export default [
     path: "brand/KhorosSquareClr",
     tags: ["BrandKhorosSquareClr", "khoros"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "KlarnaSquareClr",
@@ -3297,7 +2897,6 @@ export default [
     path: "brand/KlarnaSquareClr",
     tags: ["BrandKlarnaSquareClr", "klarna"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "KnowledgeBaseClr",
@@ -3305,7 +2904,6 @@ export default [
     path: "brand/KnowledgeBaseClr",
     tags: ["BrandKnowledgeBaseClr", "knowledge base"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "KnowledgeBaseCircleClr",
@@ -3313,7 +2911,6 @@ export default [
     path: "brand/KnowledgeBaseCircleClr",
     tags: ["BrandKnowledgeBaseCircleClr", "knowledge base"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "KochavaClr",
@@ -3321,7 +2918,6 @@ export default [
     path: "brand/KochavaClr",
     tags: ["BrandKochavaClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Kochava",
@@ -3329,7 +2925,6 @@ export default [
     path: "brand/Kochava",
     tags: ["BrandKochava"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "KochavaCircleClr",
@@ -3337,7 +2932,6 @@ export default [
     path: "brand/KochavaCircleClr",
     tags: ["BrandKochavaCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "KonbiniSquareClr",
@@ -3345,7 +2939,6 @@ export default [
     path: "brand/KonbiniSquareClr",
     tags: ["BrandKonbiniSquareClr", "konbini"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "KoreAIClr",
@@ -3353,7 +2946,6 @@ export default [
     path: "brand/KoreAIClr",
     tags: ["BrandKoreAIClr", "kore ai"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LineClr",
@@ -3361,7 +2953,6 @@ export default [
     path: "brand/LineClr",
     tags: ["BrandLineClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Line",
@@ -3369,7 +2960,6 @@ export default [
     path: "brand/Line",
     tags: ["BrandLine"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LineCircleClr",
@@ -3377,7 +2967,6 @@ export default [
     path: "brand/LineCircleClr",
     tags: ["BrandLineCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LineSquareClr",
@@ -3385,7 +2974,6 @@ export default [
     path: "brand/LineSquareClr",
     tags: ["BrandLineSquareClr", "brand", "line"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LinkedinClr",
@@ -3393,7 +2981,6 @@ export default [
     path: "brand/LinkedinClr",
     tags: ["BrandLinkedinClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Linkedin",
@@ -3401,7 +2988,6 @@ export default [
     path: "brand/Linkedin",
     tags: ["BrandLinkedin"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LinkedinAds",
@@ -3409,7 +2995,6 @@ export default [
     path: "brand/LinkedinAds",
     tags: ["BrandLinkedinAds", "linkedIn"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LinkedinAdsCircleClr",
@@ -3417,7 +3002,6 @@ export default [
     path: "brand/LinkedinAdsCircleClr",
     tags: ["BrandLinkedinAdsCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LinkedinCircleClr",
@@ -3425,7 +3009,6 @@ export default [
     path: "brand/LinkedinCircleClr",
     tags: ["BrandLinkedinCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LinkedInCompany",
@@ -3433,7 +3016,6 @@ export default [
     path: "brand/LinkedInCompany",
     tags: ["BrandLinkedInCompany", "linkedIn"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LinkedInGroups",
@@ -3441,7 +3023,6 @@ export default [
     path: "brand/LinkedInGroups",
     tags: ["BrandLinkedInGroups", "linkedIn"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LinkedinGroupsCircleClr",
@@ -3449,7 +3030,6 @@ export default [
     path: "brand/LinkedinGroupsCircleClr",
     tags: ["BrandLinkedinGroupsCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LinkedinSquareClr",
@@ -3457,7 +3037,6 @@ export default [
     path: "brand/LinkedinSquareClr",
     tags: ["BrandLinkedinSquareClr", "brand", "linkedin"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LinkfluenceClr",
@@ -3465,7 +3044,6 @@ export default [
     path: "brand/LinkfluenceClr",
     tags: ["BrandLinkfluenceClr", "channel"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Lithium",
@@ -3473,7 +3051,6 @@ export default [
     path: "brand/Lithium",
     tags: ["BrandLithium", "lithium"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LithiumCircleClr",
@@ -3481,7 +3058,6 @@ export default [
     path: "brand/LithiumCircleClr",
     tags: ["BrandLithiumCircleClr", "lithium"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LithiumCommunity",
@@ -3489,7 +3065,6 @@ export default [
     path: "brand/LithiumCommunity",
     tags: ["BrandLithiumCommunity", "lithium"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LithiumSquareClr",
@@ -3497,7 +3072,6 @@ export default [
     path: "brand/LithiumSquareClr",
     tags: ["BrandLithiumSquareClr", "lithium"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LivechatClr",
@@ -3505,7 +3079,6 @@ export default [
     path: "brand/LivechatClr",
     tags: ["BrandLivechatClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Livechat",
@@ -3513,7 +3086,6 @@ export default [
     path: "brand/Livechat",
     tags: ["BrandLivechat"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LivechatCircleClr",
@@ -3521,7 +3093,6 @@ export default [
     path: "brand/LivechatCircleClr",
     tags: ["BrandLivechatCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LiveChatSquareClr",
@@ -3529,7 +3100,6 @@ export default [
     path: "brand/LiveChatSquareClr",
     tags: ["BrandLiveChatSquareClr", "live chat", "message", "chat bubble"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LiveEvent",
@@ -3537,7 +3107,6 @@ export default [
     path: "brand/LiveEvent",
     tags: ["BrandLiveEvent", "mic", "live", "event"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LiveEventCircleClr",
@@ -3545,7 +3114,6 @@ export default [
     path: "brand/LiveEventCircleClr",
     tags: ["BrandLiveEventCircleClr", "mic", "live", "event"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "LocationContentful",
@@ -3553,7 +3121,6 @@ export default [
     path: "brand/LocationContentful",
     tags: ["BrandLocationContentful", "contentful"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MagentoClr",
@@ -3561,7 +3128,6 @@ export default [
     path: "brand/MagentoClr",
     tags: ["BrandMagentoClr", "magento"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Magento",
@@ -3569,7 +3135,6 @@ export default [
     path: "brand/Magento",
     tags: ["BrandMagento", "magento"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MagentoCircleClr",
@@ -3577,7 +3142,6 @@ export default [
     path: "brand/MagentoCircleClr",
     tags: ["BrandMagentoCircleClr", "magento"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MagentoSquareClr",
@@ -3585,7 +3149,6 @@ export default [
     path: "brand/MagentoSquareClr",
     tags: ["BrandMagentoSquareClr", "magento"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Mailchimp",
@@ -3593,7 +3156,6 @@ export default [
     path: "brand/Mailchimp",
     tags: ["BrandMailchimp", "mail chimp"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MailchimpCircleClr",
@@ -3601,7 +3163,6 @@ export default [
     path: "brand/MailchimpCircleClr",
     tags: ["BrandMailchimpCircleClr", "mail chimp"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MailCircleClr",
@@ -3609,7 +3170,6 @@ export default [
     path: "brand/MailCircleClr",
     tags: ["BrandMailCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MarketoClr",
@@ -3617,7 +3177,6 @@ export default [
     path: "brand/MarketoClr",
     tags: ["BrandMarketoClr", "marketo"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Marketo",
@@ -3625,7 +3184,6 @@ export default [
     path: "brand/Marketo",
     tags: ["BrandMarketo", "marketo"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MarketoCircleClr",
@@ -3633,7 +3191,6 @@ export default [
     path: "brand/MarketoCircleClr",
     tags: ["BrandMarketoCircleClr", "brand", "marketo"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MastercardSquareClr",
@@ -3641,7 +3198,6 @@ export default [
     path: "brand/MastercardSquareClr",
     tags: ["BrandMastercardSquareClr", "mastercard"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MedalliaClr",
@@ -3649,7 +3205,6 @@ export default [
     path: "brand/MedalliaClr",
     tags: ["BrandMedalliaClr", "medallia"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Medallia",
@@ -3657,7 +3212,6 @@ export default [
     path: "brand/Medallia",
     tags: ["BrandMedallia", "medallia"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MedalliaCircleClr",
@@ -3665,7 +3219,6 @@ export default [
     path: "brand/MedalliaCircleClr",
     tags: ["BrandMedalliaCircleClr", "medallia"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MedalliaSquareClr",
@@ -3673,7 +3226,6 @@ export default [
     path: "brand/MedalliaSquareClr",
     tags: ["BrandMedalliaSquareClr", "medallia"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MediaOceanClr",
@@ -3681,7 +3233,6 @@ export default [
     path: "brand/MediaOceanClr",
     tags: ["BrandMediaOceanClr", "mediaOcean"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MediaOcean",
@@ -3689,7 +3240,6 @@ export default [
     path: "brand/MediaOcean",
     tags: ["BrandMediaOcean", "mediaOcean"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MediaplexClr",
@@ -3697,7 +3247,6 @@ export default [
     path: "brand/MediaplexClr",
     tags: ["BrandMediaplexClr", "channel"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MediaplexTextClr",
@@ -3705,7 +3254,6 @@ export default [
     path: "brand/MediaplexTextClr",
     tags: ["BrandMediaplexTextClr", "channel"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MediaValetClr",
@@ -3713,7 +3261,6 @@ export default [
     path: "brand/MediaValetClr",
     tags: ["BrandMediaValetClr", "media valet"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MediaValet",
@@ -3721,7 +3268,6 @@ export default [
     path: "brand/MediaValet",
     tags: ["BrandMediaValet", "mediavalet"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MediaValetCircleClr",
@@ -3729,7 +3275,6 @@ export default [
     path: "brand/MediaValetCircleClr",
     tags: ["BrandMediaValetCircleClr", "media valet"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MediaValetSquareClr",
@@ -3737,7 +3282,6 @@ export default [
     path: "brand/MediaValetSquareClr",
     tags: ["BrandMediaValetSquareClr", "media valet"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Medium",
@@ -3745,7 +3289,6 @@ export default [
     path: "brand/Medium",
     tags: ["BrandMedium", "medium"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MediumCircleClr",
@@ -3753,7 +3296,6 @@ export default [
     path: "brand/MediumCircleClr",
     tags: ["BrandMediumCircleClr", "medium"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MediumSquareClr",
@@ -3761,7 +3303,6 @@ export default [
     path: "brand/MediumSquareClr",
     tags: ["BrandMediumSquareClr", "medium"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MessageCircleClr",
@@ -3769,7 +3310,6 @@ export default [
     path: "brand/MessageCircleClr",
     tags: ["BrandMessageCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MicrosoftClr",
@@ -3777,7 +3317,6 @@ export default [
     path: "brand/MicrosoftClr",
     tags: ["BrandMicrosoftClr", "microsoft", "windows", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Microsoft",
@@ -3785,7 +3324,6 @@ export default [
     path: "brand/Microsoft",
     tags: ["BrandMicrosoft"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MicrosoftDynamicsClr",
@@ -3793,7 +3331,6 @@ export default [
     path: "brand/MicrosoftDynamicsClr",
     tags: ["BrandMicrosoftDynamicsClr", "msft dynamics", "dynamics"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MicrosoftDynamicsCircleClr",
@@ -3801,7 +3338,6 @@ export default [
     path: "brand/MicrosoftDynamicsCircleClr",
     tags: ["BrandMicrosoftDynamicsCircleClr", "msft dynamics", "dynamics"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MicrosoftDynamicsSquareClr",
@@ -3809,7 +3345,6 @@ export default [
     path: "brand/MicrosoftDynamicsSquareClr",
     tags: ["BrandMicrosoftDynamicsSquareClr", "msft dynamics", "dynamics"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MicrosoftExchangeClr",
@@ -3817,7 +3352,6 @@ export default [
     path: "brand/MicrosoftExchangeClr",
     tags: ["BrandMicrosoftExchangeClr", "microsoft exchange"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MicrosoftExchange",
@@ -3825,7 +3359,6 @@ export default [
     path: "brand/MicrosoftExchange",
     tags: ["BrandMicrosoftExchange", "microsoft exchange"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MicrosoftExchangeCircleClr",
@@ -3833,7 +3366,6 @@ export default [
     path: "brand/MicrosoftExchangeCircleClr",
     tags: ["BrandMicrosoftExchangeCircleClr", "microsoft exchange"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MicrosoftTeamsClr",
@@ -3841,7 +3373,6 @@ export default [
     path: "brand/MicrosoftTeamsClr",
     tags: ["BrandMicrosoftTeamsClr", "microsoft teams"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MicrosoftTeams",
@@ -3849,7 +3380,6 @@ export default [
     path: "brand/MicrosoftTeams",
     tags: ["BrandMicrosoftTeams", "microsoft", "teams"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MicrosoftTeamsCircleClr",
@@ -3857,7 +3387,6 @@ export default [
     path: "brand/MicrosoftTeamsCircleClr",
     tags: ["BrandMicrosoftTeamsCircleClr", "microsoft teams"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MicrosoftTeamsSquareClr",
@@ -3865,7 +3394,6 @@ export default [
     path: "brand/MicrosoftTeamsSquareClr",
     tags: ["BrandMicrosoftTeamsSquareClr", "microsoft teams"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MobileAdvertisingClr",
@@ -3873,7 +3401,6 @@ export default [
     path: "brand/MobileAdvertisingClr",
     tags: ["BrandMobileAdvertisingClr", "mobile advertising"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MobileAdvertising",
@@ -3881,7 +3408,6 @@ export default [
     path: "brand/MobileAdvertising",
     tags: ["BrandMobileAdvertising", "mobile advertising"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MobileAdvertisingCircleClr",
@@ -3889,7 +3415,6 @@ export default [
     path: "brand/MobileAdvertisingCircleClr",
     tags: ["BrandMobileAdvertisingCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MobileAppClr",
@@ -3897,7 +3422,6 @@ export default [
     path: "brand/MobileAppClr",
     tags: ["BrandMobileAppClr", "mobile app"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MobileApp",
@@ -3905,7 +3429,6 @@ export default [
     path: "brand/MobileApp",
     tags: ["BrandMobileApp", "mobile app"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MobileAppCircleClr",
@@ -3913,7 +3436,6 @@ export default [
     path: "brand/MobileAppCircleClr",
     tags: ["BrandMobileAppCircleClr", "mobile app"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ModCommerceClr",
@@ -3921,7 +3443,6 @@ export default [
     path: "brand/ModCommerceClr",
     tags: ["BrandModCommerceClr", "commerce"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MonoprixClr",
@@ -3929,7 +3450,6 @@ export default [
     path: "brand/MonoprixClr",
     tags: ["BrandMonoprixClr", "channel"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Monoprix",
@@ -3937,7 +3457,6 @@ export default [
     path: "brand/Monoprix",
     tags: ["BrandMonoprix", "monoprix"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MonoprixCircleClr",
@@ -3945,7 +3464,6 @@ export default [
     path: "brand/MonoprixCircleClr",
     tags: ["BrandMonoprixCircleClr", "monoprix"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MonoprixSquareClr",
@@ -3953,7 +3471,6 @@ export default [
     path: "brand/MonoprixSquareClr",
     tags: ["BrandMonoprixSquareClr", "monoprix"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MozillaClr",
@@ -3961,7 +3478,6 @@ export default [
     path: "brand/MozillaClr",
     tags: ["BrandMozillaClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Mozilla",
@@ -3969,7 +3485,6 @@ export default [
     path: "brand/Mozilla",
     tags: ["BrandMozilla"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MozillaCircleClr",
@@ -3977,7 +3492,6 @@ export default [
     path: "brand/MozillaCircleClr",
     tags: ["BrandMozillaCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MsftDynamics",
@@ -3985,7 +3499,6 @@ export default [
     path: "brand/MsftDynamics",
     tags: ["BrandMsftDynamics", "serviceNow", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MsSharepointClr",
@@ -3993,7 +3506,6 @@ export default [
     path: "brand/MsSharepointClr",
     tags: ["BrandMsSharepointClr", "microsoft", "sharepoint"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MultibancoSquareClr",
@@ -4001,7 +3513,6 @@ export default [
     path: "brand/MultibancoSquareClr",
     tags: ["BrandMultibancoSquareClr", "multibanco"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "MultiChannelClr",
@@ -4009,7 +3520,6 @@ export default [
     path: "brand/MultiChannelClr",
     tags: ["BrandMultiChannelClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NetcoreClr",
@@ -4017,7 +3527,6 @@ export default [
     path: "brand/NetcoreClr",
     tags: ["BrandNetcoreClr", "netcore"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Netcore",
@@ -4025,7 +3534,6 @@ export default [
     path: "brand/Netcore",
     tags: ["BrandNetcore", "netcore"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NetcoreCircleClr",
@@ -4033,7 +3541,6 @@ export default [
     path: "brand/NetcoreCircleClr",
     tags: ["BrandNetcoreCircleClr", "netcore"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NetcoreSquareClr",
@@ -4041,7 +3548,6 @@ export default [
     path: "brand/NetcoreSquareClr",
     tags: ["BrandNetcoreSquareClr", "netcore"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NewsClr",
@@ -4049,7 +3555,6 @@ export default [
     path: "brand/NewsClr",
     tags: ["BrandNewsClr", "news"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "News",
@@ -4057,7 +3562,6 @@ export default [
     path: "brand/News",
     tags: ["BrandNews", "news"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NewsCircleClr",
@@ -4065,7 +3569,6 @@ export default [
     path: "brand/NewsCircleClr",
     tags: ["BrandNewsCircleClr", "news"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NewscredClr",
@@ -4073,7 +3576,6 @@ export default [
     path: "brand/NewscredClr",
     tags: ["BrandNewscredClr", "newscred"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Newscred",
@@ -4081,7 +3583,6 @@ export default [
     path: "brand/Newscred",
     tags: ["BrandNewscred", "newscred"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NewscredCircleClr",
@@ -4089,7 +3590,6 @@ export default [
     path: "brand/NewscredCircleClr",
     tags: ["BrandNewscredCircleClr", "newscred"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NewscredSquareClr",
@@ -4097,7 +3597,6 @@ export default [
     path: "brand/NewscredSquareClr",
     tags: ["BrandNewscredSquareClr", "newscred"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NexmoClr",
@@ -4105,7 +3604,6 @@ export default [
     path: "brand/NexmoClr",
     tags: ["BrandNexmoClr", "nexmo"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Nexmo",
@@ -4113,7 +3611,6 @@ export default [
     path: "brand/Nexmo",
     tags: ["BrandNexmo", "nexmo"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NexmoCircleClr",
@@ -4121,7 +3618,6 @@ export default [
     path: "brand/NexmoCircleClr",
     tags: ["BrandNexmoCircleClr", "nexmo"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NextdoorClr",
@@ -4129,7 +3625,6 @@ export default [
     path: "brand/NextdoorClr",
     tags: ["BrandNextdoorClr", "nextdoor"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Nextdoor",
@@ -4137,7 +3632,6 @@ export default [
     path: "brand/Nextdoor",
     tags: ["BrandNextdoor", "nextdoor"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NextdoorCircleClr",
@@ -4145,7 +3639,6 @@ export default [
     path: "brand/NextdoorCircleClr",
     tags: ["BrandNextdoorCircleClr", "brand", "nextdoor"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NextdoorSquareClr",
@@ -4153,7 +3646,6 @@ export default [
     path: "brand/NextdoorSquareClr",
     tags: ["BrandNextdoorSquareClr", "nextdoor"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Nike",
@@ -4161,7 +3653,6 @@ export default [
     path: "brand/Nike",
     tags: ["BrandNike", "nike"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NikeCircleClr",
@@ -4169,7 +3660,6 @@ export default [
     path: "brand/NikeCircleClr",
     tags: ["BrandNikeCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NikeCircle",
@@ -4177,7 +3667,6 @@ export default [
     path: "brand/NikeCircle",
     tags: ["BrandNikeCircle", "nike"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NikeComClr",
@@ -4185,7 +3674,6 @@ export default [
     path: "brand/NikeComClr",
     tags: ["BrandNikeComClr", "nike"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NikeCom",
@@ -4193,7 +3681,6 @@ export default [
     path: "brand/NikeCom",
     tags: ["BrandNikeCom", "nike"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NikeSquare",
@@ -4201,7 +3688,6 @@ export default [
     path: "brand/NikeSquare",
     tags: ["BrandNikeSquare", "nike", "channel"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NrcClr",
@@ -4209,7 +3695,6 @@ export default [
     path: "brand/NrcClr",
     tags: ["BrandNrcClr", "nrc"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Nrc",
@@ -4217,7 +3702,6 @@ export default [
     path: "brand/Nrc",
     tags: ["BrandNrc", "nrc"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NrcCircleClr",
@@ -4225,7 +3709,6 @@ export default [
     path: "brand/NrcCircleClr",
     tags: ["BrandNrcCircleClr", "nrc"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NtcClr",
@@ -4233,7 +3716,6 @@ export default [
     path: "brand/NtcClr",
     tags: ["BrandNtcClr", "ntc"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Ntc",
@@ -4241,7 +3723,6 @@ export default [
     path: "brand/Ntc",
     tags: ["BrandNtc", "ntc"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "NtcCircleClr",
@@ -4249,7 +3730,6 @@ export default [
     path: "brand/NtcCircleClr",
     tags: ["BrandNtcCircleClr", "ntc"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Okta",
@@ -4257,7 +3737,6 @@ export default [
     path: "brand/Okta",
     tags: ["BrandOkta", "okta"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "OracleCircleClr",
@@ -4272,7 +3751,6 @@ export default [
       "brand",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "OracleEloqua",
@@ -4280,7 +3758,6 @@ export default [
     path: "brand/OracleEloqua",
     tags: ["BrandOracleEloqua", "oracle", "eloqua"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   // {
   //   name: "OracleResponsys",
@@ -4288,15 +3765,13 @@ export default [
   //   path: "brand/OracleResponsys",
   //   tags: ["BrandOracleResponsys", "oracle", "responsys"],
   //   category: "brand",
-  //   filePath: path.join(process.cwd(), '/data/brand/')
-  // },
+  //// },
   {
     name: "Outbound",
     fullName: "BrandOutbound",
     path: "brand/Outbound",
     tags: ["BrandOutbound", "outbound"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "OutboundCircleClr",
@@ -4304,7 +3779,6 @@ export default [
     path: "brand/OutboundCircleClr",
     tags: ["BrandOutboundCircleClr", "outbound"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "OutlookClr",
@@ -4312,7 +3786,6 @@ export default [
     path: "brand/OutlookClr",
     tags: ["BrandOutlookClr", "outlook", "microsoft"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "OutlookCircleClr",
@@ -4320,7 +3793,6 @@ export default [
     path: "brand/OutlookCircleClr",
     tags: ["BrandOutlookCircleClr", "outlook", "microsoft"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "OutlookSquareClr",
@@ -4328,7 +3800,6 @@ export default [
     path: "brand/OutlookSquareClr",
     tags: ["BrandOutlookSquareClr", "outlook", "microsoft"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "OutOfHomeClr",
@@ -4336,7 +3807,6 @@ export default [
     path: "brand/OutOfHomeClr",
     tags: ["BrandOutOfHomeClr", "out-of-home advertising"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "OutOfHome",
@@ -4344,7 +3814,6 @@ export default [
     path: "brand/OutOfHome",
     tags: ["BrandOutOfHome", "out-of-home advertising"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "OutOfHomeCircleClr",
@@ -4352,7 +3821,6 @@ export default [
     path: "brand/OutOfHomeCircleClr",
     tags: ["BrandOutOfHomeCircleClr", "out-of-home advertising"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "OxxoSquareClr",
@@ -4360,7 +3828,6 @@ export default [
     path: "brand/OxxoSquareClr",
     tags: ["BrandOxxoSquareClr", "oxxo"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PaidSearchClr",
@@ -4368,7 +3835,6 @@ export default [
     path: "brand/PaidSearchClr",
     tags: ["BrandPaidSearchClr", "paid search"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PaidSearch",
@@ -4376,7 +3842,6 @@ export default [
     path: "brand/PaidSearch",
     tags: ["BrandPaidSearch", "paid search"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PaidSearchCircleClr",
@@ -4384,7 +3849,6 @@ export default [
     path: "brand/PaidSearchCircleClr",
     tags: ["BrandPaidSearchCircleClr", "paid search"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Partnership",
@@ -4392,7 +3856,6 @@ export default [
     path: "brand/Partnership",
     tags: ["BrandPartnership", "partnership"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PartnershipCircleClr",
@@ -4400,7 +3863,6 @@ export default [
     path: "brand/PartnershipCircleClr",
     tags: ["BrandPartnershipCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PaynowClr",
@@ -4408,7 +3870,6 @@ export default [
     path: "brand/PaynowClr",
     tags: ["BrandPaynowClr", "paynow"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PepsiClr",
@@ -4416,7 +3877,6 @@ export default [
     path: "brand/PepsiClr",
     tags: ["BrandPepsiClr", "pepsi"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Pepsi",
@@ -4424,7 +3884,6 @@ export default [
     path: "brand/Pepsi",
     tags: ["BrandPepsi", "pepsi"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PepsiCircleClr",
@@ -4432,7 +3891,6 @@ export default [
     path: "brand/PepsiCircleClr",
     tags: ["BrandPepsiCircleClr", "pepsi"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PepsiSquareClr",
@@ -4440,7 +3898,6 @@ export default [
     path: "brand/PepsiSquareClr",
     tags: ["BrandPepsiSquareClr", "pepsi"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PhoneClr",
@@ -4448,7 +3905,6 @@ export default [
     path: "brand/PhoneClr",
     tags: ["BrandPhoneClr", "phone", "telephone"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Phone",
@@ -4456,7 +3912,6 @@ export default [
     path: "brand/Phone",
     tags: ["BrandPhone", "phone", "telephone"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PhoneCircleClr",
@@ -4464,7 +3919,6 @@ export default [
     path: "brand/PhoneCircleClr",
     tags: ["BrandPhoneCircleClr", "phone", "telephone"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PinterestClr",
@@ -4472,7 +3926,6 @@ export default [
     path: "brand/PinterestClr",
     tags: ["BrandPinterestClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Pinterest",
@@ -4480,7 +3933,6 @@ export default [
     path: "brand/Pinterest",
     tags: ["BrandPinterest"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PinterestAds",
@@ -4488,7 +3940,6 @@ export default [
     path: "brand/PinterestAds",
     tags: ["BrandPinterestAds", "pinterest"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PinterestAdsCircleClr",
@@ -4496,7 +3947,6 @@ export default [
     path: "brand/PinterestAdsCircleClr",
     tags: ["BrandPinterestAdsCircleClr", "pinterest"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PinterestCircleClr",
@@ -4504,7 +3954,6 @@ export default [
     path: "brand/PinterestCircleClr",
     tags: ["BrandPinterestCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PinterestShare",
@@ -4512,7 +3961,6 @@ export default [
     path: "brand/PinterestShare",
     tags: ["BrandPinterestShare", "pinterest", "share", "upload"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PluckClr",
@@ -4520,7 +3968,6 @@ export default [
     path: "brand/PluckClr",
     tags: ["BrandPluckClr", "pluck"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Pluck",
@@ -4528,7 +3975,6 @@ export default [
     path: "brand/Pluck",
     tags: ["BrandPluck", "pluck"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PluckCircleClr",
@@ -4536,7 +3982,6 @@ export default [
     path: "brand/PluckCircleClr",
     tags: ["BrandPluckCircleClr", "pluck"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PluckSquareClr",
@@ -4544,7 +3989,6 @@ export default [
     path: "brand/PluckSquareClr",
     tags: ["BrandPluckSquareClr", "pluck"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PodcastCircleClr",
@@ -4552,7 +3996,6 @@ export default [
     path: "brand/PodcastCircleClr",
     tags: ["BrandPodcastCircleClr", "audio", "radio", "podcasts"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PowerBIClr",
@@ -4560,7 +4003,6 @@ export default [
     path: "brand/PowerBIClr",
     tags: ["BrandPowerBIClr", "power BI"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PowerBI",
@@ -4568,7 +4010,6 @@ export default [
     path: "brand/PowerBI",
     tags: ["BrandPowerBI", "power BI"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PowerBICircleClr",
@@ -4576,7 +4017,6 @@ export default [
     path: "brand/PowerBICircleClr",
     tags: ["BrandPowerBICircleClr", "power BI"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PowerBISquareClr",
@@ -4584,7 +4024,6 @@ export default [
     path: "brand/PowerBISquareClr",
     tags: ["BrandPowerBISquareClr", "power BI"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PowerReviewClr",
@@ -4592,7 +4031,6 @@ export default [
     path: "brand/PowerReviewClr",
     tags: ["BrandPowerReviewClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PowerReview",
@@ -4600,7 +4038,6 @@ export default [
     path: "brand/PowerReview",
     tags: ["BrandPowerReview"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PowerreviewsCircleClr",
@@ -4608,7 +4045,6 @@ export default [
     path: "brand/PowerreviewsCircleClr",
     tags: ["BrandPowerreviewsCircleClr", "PowerReviews"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PowerreviewsSquareClr",
@@ -4616,7 +4052,6 @@ export default [
     path: "brand/PowerreviewsSquareClr",
     tags: ["BrandPowerreviewsSquareClr", "power review"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PressRelease",
@@ -4624,7 +4059,6 @@ export default [
     path: "brand/PressRelease",
     tags: ["BrandPressRelease", "pressRelease"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PressReleaseCircleClr",
@@ -4632,7 +4066,6 @@ export default [
     path: "brand/PressReleaseCircleClr",
     tags: ["BrandPressReleaseCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Print",
@@ -4640,7 +4073,6 @@ export default [
     path: "brand/Print",
     tags: ["BrandPrint", "print"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PrintCircleClr",
@@ -4648,7 +4080,6 @@ export default [
     path: "brand/PrintCircleClr",
     tags: ["BrandPrintCircleClr", "print"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PromptPayClr",
@@ -4656,7 +4087,6 @@ export default [
     path: "brand/PromptPayClr",
     tags: ["BrandPromptPayClr", "promptPay"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ProofpointClr",
@@ -4664,7 +4094,6 @@ export default [
     path: "brand/ProofpointClr",
     tags: ["BrandProofpointClr", "proofpoint"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Proofpoint",
@@ -4672,7 +4101,6 @@ export default [
     path: "brand/Proofpoint",
     tags: ["BrandProofpoint", "proofpoint"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ProofpointCircleClr",
@@ -4680,7 +4108,6 @@ export default [
     path: "brand/ProofpointCircleClr",
     tags: ["BrandProofpointCircleClr", "proofpoint"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ProofpointSquareClr",
@@ -4688,7 +4115,6 @@ export default [
     path: "brand/ProofpointSquareClr",
     tags: ["BrandProofpointSquareClr", "proofpoint"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ProofpointText",
@@ -4696,7 +4122,6 @@ export default [
     path: "brand/ProofpointText",
     tags: ["BrandProofpointText", "proofpoint", "nexgate"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "PTwoFourSquareClr",
@@ -4704,7 +4129,6 @@ export default [
     path: "brand/PTwoFourSquareClr",
     tags: ["BrandPTwoFourSquareClr", "pTwoFou", "p24"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "QuoraClr",
@@ -4712,7 +4136,6 @@ export default [
     path: "brand/QuoraClr",
     tags: ["BrandQuoraClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Quora",
@@ -4720,7 +4143,6 @@ export default [
     path: "brand/Quora",
     tags: ["BrandQuora"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "QuoraCircleClr",
@@ -4728,7 +4150,6 @@ export default [
     path: "brand/QuoraCircleClr",
     tags: ["BrandQuoraCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Radio",
@@ -4736,7 +4157,6 @@ export default [
     path: "brand/Radio",
     tags: ["BrandRadio", "radio"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "RadioCircleClr",
@@ -4744,7 +4164,6 @@ export default [
     path: "brand/RadioCircleClr",
     tags: ["BrandRadioCircleClr", "radio"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ReclameAquiClr",
@@ -4752,7 +4171,6 @@ export default [
     path: "brand/ReclameAquiClr",
     tags: ["BrandReclameAquiClr", "reclame aqui"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ReclameAqui",
@@ -4760,7 +4178,6 @@ export default [
     path: "brand/ReclameAqui",
     tags: ["BrandReclameAqui", "reclame aqui"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ReclameAquiCircleClr",
@@ -4768,7 +4185,6 @@ export default [
     path: "brand/ReclameAquiCircleClr",
     tags: ["BrandReclameAquiCircleClr", "reclame aqui"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ReclameAquiSquareClr",
@@ -4776,7 +4192,6 @@ export default [
     path: "brand/ReclameAquiSquareClr",
     tags: ["BrandReclameAquiSquareClr", "reclame aqui"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "RedditClr",
@@ -4784,7 +4199,6 @@ export default [
     path: "brand/RedditClr",
     tags: ["BrandRedditClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Reddit",
@@ -4792,7 +4206,6 @@ export default [
     path: "brand/Reddit",
     tags: ["BrandReddit"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "RedditCircleClr",
@@ -4800,7 +4213,6 @@ export default [
     path: "brand/RedditCircleClr",
     tags: ["BrandRedditCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "RedditSquareClr",
@@ -4808,7 +4220,6 @@ export default [
     path: "brand/RedditSquareClr",
     tags: ["BrandRedditSquareClr", "brand", "reddit"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "RenrenClr",
@@ -4816,7 +4227,6 @@ export default [
     path: "brand/RenrenClr",
     tags: ["BrandRenrenClr", "renren"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Renren",
@@ -4824,7 +4234,6 @@ export default [
     path: "brand/Renren",
     tags: ["BrandRenren", "renren"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "RenrenCircleClr",
@@ -4832,7 +4241,6 @@ export default [
     path: "brand/RenrenCircleClr",
     tags: ["BrandRenrenCircleClr", "renren"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "RenrenSquareClr",
@@ -4840,7 +4248,6 @@ export default [
     path: "brand/RenrenSquareClr",
     tags: ["BrandRenrenSquareClr", "ren ren"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ResponsysCircleClr",
@@ -4848,7 +4255,6 @@ export default [
     path: "brand/ResponsysCircleClr",
     tags: ["BrandResponsysCircleClr", "brand", "oracle", "brand", "responsys"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Reviews",
@@ -4856,7 +4262,6 @@ export default [
     path: "brand/Reviews",
     tags: ["BrandReviews", "review"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ReviewsCircleClr",
@@ -4864,7 +4269,6 @@ export default [
     path: "brand/ReviewsCircleClr",
     tags: ["BrandReviewsCircleClr", "Review"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "RightNow",
@@ -4872,7 +4276,6 @@ export default [
     path: "brand/RightNow",
     tags: ["BrandRightNow", "oracle", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Rivery",
@@ -4880,7 +4283,6 @@ export default [
     path: "brand/Rivery",
     tags: ["BrandRivery", "rivery"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "RoyalCaninClr",
@@ -4888,7 +4290,6 @@ export default [
     path: "brand/RoyalCaninClr",
     tags: ["BrandRoyalCaninClr", "channel"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "RssFeedsCircleClr",
@@ -4896,7 +4297,6 @@ export default [
     path: "brand/RssFeedsCircleClr",
     tags: ["BrandRssFeedsCircleClr", "RSS Feeds"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "RssFeedsCircle",
@@ -4904,7 +4304,6 @@ export default [
     path: "brand/RssFeedsCircle",
     tags: ["BrandRssFeedsCircle", "rss feeds"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SafeGuardClr",
@@ -4912,7 +4311,6 @@ export default [
     path: "brand/SafeGuardClr",
     tags: ["BrandSafeGuardClr", "channel"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SalesforceClr",
@@ -4920,7 +4318,6 @@ export default [
     path: "brand/SalesforceClr",
     tags: ["BrandSalesforceClr", "salesforce", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Salesforce",
@@ -4928,7 +4325,6 @@ export default [
     path: "brand/Salesforce",
     tags: ["BrandSalesforce", "salesforce", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SalesforceCircleClr",
@@ -4936,7 +4332,6 @@ export default [
     path: "brand/SalesforceCircleClr",
     tags: ["BrandSalesforceCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SamsungCircleClr",
@@ -4944,7 +4339,6 @@ export default [
     path: "brand/SamsungCircleClr",
     tags: ["BrandSamsungCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SamsungMembersClr",
@@ -4952,7 +4346,6 @@ export default [
     path: "brand/SamsungMembersClr",
     tags: ["BrandSamsungMembersClr", "samsung"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SamsungMembers",
@@ -4960,7 +4353,6 @@ export default [
     path: "brand/SamsungMembers",
     tags: ["BrandSamsungMembers", "samsung"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SamsungMembersSquareClr",
@@ -4968,7 +4360,6 @@ export default [
     path: "brand/SamsungMembersSquareClr",
     tags: ["BrandSamsungMembersSquareClr", "samsung"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Sap",
@@ -4976,7 +4367,6 @@ export default [
     path: "brand/Sap",
     tags: ["BrandSap", "SAP", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SapAribaClr",
@@ -4984,7 +4374,6 @@ export default [
     path: "brand/SapAribaClr",
     tags: ["BrandSapAribaClr", "SAP Ariba"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SapAriba",
@@ -4992,7 +4381,6 @@ export default [
     path: "brand/SapAriba",
     tags: ["BrandSapAriba", "SAP Ariba"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SapCircleClr",
@@ -5000,7 +4388,6 @@ export default [
     path: "brand/SapCircleClr",
     tags: ["BrandSapCircleClr", "SAP", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SapHybrisClr",
@@ -5008,7 +4395,6 @@ export default [
     path: "brand/SapHybrisClr",
     tags: ["BrandSapHybrisClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SapHybrisTextClr",
@@ -5016,7 +4402,6 @@ export default [
     path: "brand/SapHybrisTextClr",
     tags: ["BrandSapHybrisTextClr", "channel", "sap", "Hybris"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SapSquareClr",
@@ -5024,7 +4409,6 @@ export default [
     path: "brand/SapSquareClr",
     tags: ["BrandSapSquareClr", "SAP", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SepaDirectDebitSquareClr",
@@ -5032,7 +4416,6 @@ export default [
     path: "brand/SepaDirectDebitSquareClr",
     tags: ["BrandSepaDirectDebitSquareClr", "sepaDirectDebit"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ServiceNowClr",
@@ -5040,7 +4423,6 @@ export default [
     path: "brand/ServiceNowClr",
     tags: ["BrandServiceNowClr", "service now"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ServiceNow",
@@ -5048,7 +4430,6 @@ export default [
     path: "brand/ServiceNow",
     tags: ["BrandServiceNow", "serviceNow", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ServiceNowCircleClr",
@@ -5056,7 +4437,6 @@ export default [
     path: "brand/ServiceNowCircleClr",
     tags: ["BrandServiceNowCircleClr", "service now"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ServiceNowSquareClr",
@@ -5064,7 +4444,6 @@ export default [
     path: "brand/ServiceNowSquareClr",
     tags: ["BrandServiceNowSquareClr", "service now"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ShopifyCircleClr",
@@ -5072,7 +4451,6 @@ export default [
     path: "brand/ShopifyCircleClr",
     tags: ["BrandShopifyCircleClr", "brand", "shopify"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ShutterStockClr",
@@ -5080,7 +4458,6 @@ export default [
     path: "brand/ShutterStockClr",
     tags: ["BrandShutterStockClr", "channel", "shutter Stock"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SiemensClr",
@@ -5088,7 +4465,6 @@ export default [
     path: "brand/SiemensClr",
     tags: ["BrandSiemensClr", "channel", "siemens"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SignalClr",
@@ -5096,7 +4472,6 @@ export default [
     path: "brand/SignalClr",
     tags: ["BrandSignalClr", "signal chat channel", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Signal",
@@ -5104,7 +4479,6 @@ export default [
     path: "brand/Signal",
     tags: ["BrandSignal", "signal chat channel", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SignalCircleClr",
@@ -5112,7 +4486,6 @@ export default [
     path: "brand/SignalCircleClr",
     tags: ["BrandSignalCircleClr", "signal chat channel", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SignalSquareClr",
@@ -5120,7 +4493,6 @@ export default [
     path: "brand/SignalSquareClr",
     tags: ["BrandSignalSquareClr", "signal"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SignalWireClr",
@@ -5128,7 +4500,6 @@ export default [
     path: "brand/SignalWireClr",
     tags: ["BrandSignalWireClr", "brand", "signalWire"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SignalWire",
@@ -5136,7 +4507,6 @@ export default [
     path: "brand/SignalWire",
     tags: ["BrandSignalWire", "brand", "signalWire"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SignalWireCircle",
@@ -5144,7 +4514,6 @@ export default [
     path: "brand/SignalWireCircle",
     tags: ["BrandSignalWireCircle", "brand", "signalWire"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SinaWeiboClr",
@@ -5152,7 +4521,6 @@ export default [
     path: "brand/SinaWeiboClr",
     tags: ["BrandSinaWeiboClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SinaWeibo",
@@ -5160,7 +4528,6 @@ export default [
     path: "brand/SinaWeibo",
     tags: ["BrandSinaWeibo"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SinaWeiboCircleClr",
@@ -5168,7 +4535,6 @@ export default [
     path: "brand/SinaWeiboCircleClr",
     tags: ["BrandSinaWeiboCircleClr", "sina weibo", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SinaWeiboCircle",
@@ -5176,7 +4542,6 @@ export default [
     path: "brand/SinaWeiboCircle",
     tags: ["BrandSinaWeiboCircle", "sina weibo", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SinaWeiboSquareClr",
@@ -5184,7 +4549,6 @@ export default [
     path: "brand/SinaWeiboSquareClr",
     tags: ["BrandSinaWeiboSquareClr", "sina weibo", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SiteClr",
@@ -5192,7 +4556,6 @@ export default [
     path: "brand/SiteClr",
     tags: ["BrandSiteClr", "site ops"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Site",
@@ -5200,7 +4563,6 @@ export default [
     path: "brand/Site",
     tags: ["BrandSite", "site ops"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SiteCircleClr",
@@ -5208,7 +4570,6 @@ export default [
     path: "brand/SiteCircleClr",
     tags: ["BrandSiteCircleClr", "site ops"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SitecoreClr",
@@ -5216,7 +4577,6 @@ export default [
     path: "brand/SitecoreClr",
     tags: ["BrandSitecoreClr", "sitecore"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Sitecore",
@@ -5224,7 +4584,6 @@ export default [
     path: "brand/Sitecore",
     tags: ["BrandSitecore", "sitecore"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SlackClr",
@@ -5232,7 +4591,6 @@ export default [
     path: "brand/SlackClr",
     tags: ["BrandSlackClr", "slack"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Slack",
@@ -5240,7 +4598,6 @@ export default [
     path: "brand/Slack",
     tags: ["BrandSlack", "slack"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SlackAddFile",
@@ -5248,7 +4605,6 @@ export default [
     path: "brand/SlackAddFile",
     tags: ["BrandSlackAddFile", "add file", "slack"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SlackCall",
@@ -5256,7 +4612,6 @@ export default [
     path: "brand/SlackCall",
     tags: ["BrandSlackCall", "call", "headphones", "slack"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SlackCircleClr",
@@ -5264,7 +4619,6 @@ export default [
     path: "brand/SlackCircleClr",
     tags: ["BrandSlackCircleClr", "slack"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SlackDMs",
@@ -5272,7 +4626,6 @@ export default [
     path: "brand/SlackDMs",
     tags: ["BrandSlackDMs", "message", "chat", "dm", "slack"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SlackExcelAssetClr",
@@ -5280,7 +4633,6 @@ export default [
     path: "brand/SlackExcelAssetClr",
     tags: ["BrandSlackExcelAssetClr", "slack", "excel asset"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SlackHome",
@@ -5288,7 +4640,6 @@ export default [
     path: "brand/SlackHome",
     tags: ["BrandSlackHome", "home", "slack", "house"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SlackPdfAssetClr",
@@ -5296,7 +4647,6 @@ export default [
     path: "brand/SlackPdfAssetClr",
     tags: ["BrandSlackPdfAssetClr", "slack", "pdf asset"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SlackPowepointAssetClr",
@@ -5304,7 +4654,6 @@ export default [
     path: "brand/SlackPowepointAssetClr",
     tags: ["BrandSlackPowepointAssetClr", "slack", "powerpoint asset"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SlackSquareClr",
@@ -5312,7 +4661,6 @@ export default [
     path: "brand/SlackSquareClr",
     tags: ["BrandSlackSquareClr", "slack"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SlackWordAssetClr",
@@ -5320,7 +4668,6 @@ export default [
     path: "brand/SlackWordAssetClr",
     tags: ["BrandSlackWordAssetClr", "slack", "word asset"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SlackYou",
@@ -5328,7 +4675,6 @@ export default [
     path: "brand/SlackYou",
     tags: ["BrandSlackYou", "face", "slack"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SlideshareClr",
@@ -5336,7 +4682,6 @@ export default [
     path: "brand/SlideshareClr",
     tags: ["BrandSlideshareClr", "slideshare", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Slideshare",
@@ -5344,7 +4689,6 @@ export default [
     path: "brand/Slideshare",
     tags: ["BrandSlideshare", "slideshare"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SlideshareCircleClr",
@@ -5352,7 +4696,6 @@ export default [
     path: "brand/SlideshareCircleClr",
     tags: ["BrandSlideshareCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SmsCircleClr",
@@ -5360,7 +4703,6 @@ export default [
     path: "brand/SmsCircleClr",
     tags: ["BrandSmsCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SmsCircle",
@@ -5368,7 +4710,6 @@ export default [
     path: "brand/SmsCircle",
     tags: ["BrandSmsCircle", "sms"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SmsGlobalClr",
@@ -5376,7 +4717,6 @@ export default [
     path: "brand/SmsGlobalClr",
     tags: ["BrandSmsGlobalClr", "brand", "sms global"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SmsGlobal",
@@ -5384,7 +4724,6 @@ export default [
     path: "brand/SmsGlobal",
     tags: ["BrandSmsGlobal", "brand", "sms global"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SmsGlobalCircleClr",
@@ -5392,7 +4731,6 @@ export default [
     path: "brand/SmsGlobalCircleClr",
     tags: ["BrandSmsGlobalCircleClr", "brand", "sms global"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SmsGlobalSquareClr",
@@ -5400,7 +4738,6 @@ export default [
     path: "brand/SmsGlobalSquareClr",
     tags: ["BrandSmsGlobalSquareClr", "brand", "sms global"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SmsHubClr",
@@ -5408,7 +4745,6 @@ export default [
     path: "brand/SmsHubClr",
     tags: ["BrandSmsHubClr", "sms", "hub"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SmsHub",
@@ -5416,7 +4752,6 @@ export default [
     path: "brand/SmsHub",
     tags: ["BrandSmsHub", "sms hub"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SmsHubCircleClr",
@@ -5424,7 +4759,6 @@ export default [
     path: "brand/SmsHubCircleClr",
     tags: ["BrandSmsHubCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SmsHubSquareClr",
@@ -5432,7 +4766,6 @@ export default [
     path: "brand/SmsHubSquareClr",
     tags: ["BrandSmsHubSquareClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SmsSquareClr",
@@ -5440,7 +4773,6 @@ export default [
     path: "brand/SmsSquareClr",
     tags: ["BrandSmsSquareClr", "chat", "message", "text message"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SnapchatClr",
@@ -5448,7 +4780,6 @@ export default [
     path: "brand/SnapchatClr",
     tags: ["BrandSnapchatClr", "snapchat"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Snapchat",
@@ -5456,7 +4787,6 @@ export default [
     path: "brand/Snapchat",
     tags: ["BrandSnapchat", "snapchat"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SnapchatAds",
@@ -5464,7 +4794,6 @@ export default [
     path: "brand/SnapchatAds",
     tags: ["BrandSnapchatAds", "snapchat"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SnapchatCircleClr",
@@ -5472,7 +4801,6 @@ export default [
     path: "brand/SnapchatCircleClr",
     tags: ["BrandSnapchatCircleClr", "brand", "snapchat"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SnapchatScreenshot",
@@ -5480,7 +4808,6 @@ export default [
     path: "brand/SnapchatScreenshot",
     tags: ["BrandSnapchatScreenshot", "screenshot", "snapchat"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SnapchatView",
@@ -5488,7 +4815,6 @@ export default [
     path: "brand/SnapchatView",
     tags: ["BrandSnapchatView", "view", "eye", "overview"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SnkrClr",
@@ -5496,7 +4822,6 @@ export default [
     path: "brand/SnkrClr",
     tags: ["BrandSnkrClr", "snkrs"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Snkr",
@@ -5504,7 +4829,6 @@ export default [
     path: "brand/Snkr",
     tags: ["BrandSnkr", "snkrs"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SnkrCircleClr",
@@ -5512,7 +4836,6 @@ export default [
     path: "brand/SnkrCircleClr",
     tags: ["BrandSnkrCircleClr", "snkrs"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SnowflakeClr",
@@ -5520,7 +4843,6 @@ export default [
     path: "brand/SnowflakeClr",
     tags: ["BrandSnowflakeClr", "snowflake"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Snowflake",
@@ -5528,7 +4850,6 @@ export default [
     path: "brand/Snowflake",
     tags: ["BrandSnowflake", "snowflake"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SnowflakeCircleClr",
@@ -5536,7 +4857,6 @@ export default [
     path: "brand/SnowflakeCircleClr",
     tags: ["BrandSnowflakeCircleClr", "snowflake"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SnowflakeSquareClr",
@@ -5544,7 +4864,6 @@ export default [
     path: "brand/SnowflakeSquareClr",
     tags: ["BrandSnowflakeSquareClr", "snowflake"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SocialFeedbackClr",
@@ -5552,7 +4871,6 @@ export default [
     path: "brand/SocialFeedbackClr",
     tags: ["BrandSocialFeedbackClr", "social feedback"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SocialFeedbackCircleClr",
@@ -5560,7 +4878,6 @@ export default [
     path: "brand/SocialFeedbackCircleClr",
     tags: ["BrandSocialFeedbackCircleClr", "Social Feedback App"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SocialFeedbackCircle",
@@ -5568,7 +4885,6 @@ export default [
     path: "brand/SocialFeedbackCircle",
     tags: ["BrandSocialFeedbackCircle", "social feedback"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SocialFeedbackSquareClr",
@@ -5576,7 +4892,6 @@ export default [
     path: "brand/SocialFeedbackSquareClr",
     tags: ["BrandSocialFeedbackSquareClr", "feedback"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SoundCloudClr",
@@ -5584,7 +4899,6 @@ export default [
     path: "brand/SoundCloudClr",
     tags: ["BrandSoundCloudClr", "sound cloud"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SoundCloud",
@@ -5592,7 +4906,6 @@ export default [
     path: "brand/SoundCloud",
     tags: ["BrandSoundCloud", "sound cloud"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SoundCloudCircleClr",
@@ -5600,7 +4913,6 @@ export default [
     path: "brand/SoundCloudCircleClr",
     tags: ["BrandSoundCloudCircleClr", "sound cloud"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SoundCloudSquareClr",
@@ -5608,7 +4920,6 @@ export default [
     path: "brand/SoundCloudSquareClr",
     tags: ["BrandSoundCloudSquareClr", "sound cloud"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SourceCircleClr",
@@ -5616,7 +4927,6 @@ export default [
     path: "brand/SourceCircleClr",
     tags: ["BrandSourceCircleClr", "source"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrClr",
@@ -5624,7 +4934,6 @@ export default [
     path: "brand/SprinklrClr",
     tags: ["BrandSprinklrClr", "sprinklr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Sprinklr",
@@ -5632,7 +4941,6 @@ export default [
     path: "brand/Sprinklr",
     tags: ["BrandSprinklr", "sprinklr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrAIClr",
@@ -5647,7 +4955,6 @@ export default [
       "ai",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrAiCircleClr",
@@ -5663,7 +4970,6 @@ export default [
       "ai",
     ],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrAiWand",
@@ -5671,7 +4977,6 @@ export default [
     path: "brand/SprinklrAiWand",
     tags: ["BrandSprinklrAiWand", "sprinklr", "wand", "Ai"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrAlertsClr",
@@ -5679,7 +4984,6 @@ export default [
     path: "brand/SprinklrAlertsClr",
     tags: ["BrandSprinklrAlertsClr", "alerts"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrAlerts",
@@ -5687,7 +4991,6 @@ export default [
     path: "brand/SprinklrAlerts",
     tags: ["BrandSprinklrAlerts", "alerts", "sprinklr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrAlertsCircleClr",
@@ -5695,7 +4998,6 @@ export default [
     path: "brand/SprinklrAlertsCircleClr",
     tags: ["BrandSprinklrAlertsCircleClr", "sprinklr alerts"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrAlertsSquareClr",
@@ -5703,7 +5005,6 @@ export default [
     path: "brand/SprinklrAlertsSquareClr",
     tags: ["BrandSprinklrAlertsSquareClr", "alerts"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrBetaClr",
@@ -5711,7 +5012,6 @@ export default [
     path: "brand/SprinklrBetaClr",
     tags: ["BrandSprinklrBetaClr", "sprinklr", "BETA"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrBetaCircleClr",
@@ -5719,7 +5019,6 @@ export default [
     path: "brand/SprinklrBetaCircleClr",
     tags: ["BrandSprinklrBetaCircleClr", "sprinklr", "BETA"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrChatClr",
@@ -5727,7 +5026,6 @@ export default [
     path: "brand/SprinklrChatClr",
     tags: ["BrandSprinklrChatClr", "chat", "live chat"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrChatCircleClr",
@@ -5735,7 +5033,6 @@ export default [
     path: "brand/SprinklrChatCircleClr",
     tags: ["BrandSprinklrChatCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrChatSquareClr",
@@ -5743,7 +5040,6 @@ export default [
     path: "brand/SprinklrChatSquareClr",
     tags: ["BrandSprinklrChatSquareClr", "chat", "sprinklr chat"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrCircleClr",
@@ -5751,7 +5047,6 @@ export default [
     path: "brand/SprinklrCircleClr",
     tags: ["BrandSprinklrCircleClr", "sprinklr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrCircle",
@@ -5759,7 +5054,6 @@ export default [
     path: "brand/SprinklrCircle",
     tags: ["BrandSprinklrCircle", "sprinklr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrLogoTextClr",
@@ -5767,7 +5061,6 @@ export default [
     path: "brand/SprinklrLogoTextClr",
     tags: ["BrandSprinklrLogoTextClr", "sprinklr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrTextClr",
@@ -5775,7 +5068,6 @@ export default [
     path: "brand/SprinklrTextClr",
     tags: ["BrandSprinklrTextClr", "sprinklr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrUatClr",
@@ -5783,7 +5075,6 @@ export default [
     path: "brand/SprinklrUatClr",
     tags: ["BrandSprinklrUatClr", "sprinklr", "UAT"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrUatCircleClr",
@@ -5791,7 +5082,6 @@ export default [
     path: "brand/SprinklrUatCircleClr",
     tags: ["BrandSprinklrUatCircleClr", "sprinklr UAT", "Uat"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SprinklrVoiceClr",
@@ -5799,7 +5089,6 @@ export default [
     path: "brand/SprinklrVoiceClr",
     tags: ["BrandSprinklrVoiceClr", "voice", "call"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "StackExchangeClr",
@@ -5807,7 +5096,6 @@ export default [
     path: "brand/StackExchangeClr",
     tags: ["BrandStackExchangeClr", "stack exchange"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "StackExchange",
@@ -5815,7 +5103,6 @@ export default [
     path: "brand/StackExchange",
     tags: ["BrandStackExchange", "stackExchange"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "StackExchangeCircleClr",
@@ -5823,7 +5110,6 @@ export default [
     path: "brand/StackExchangeCircleClr",
     tags: ["BrandStackExchangeCircleClr", "stackExchange"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "StackExchangeLine",
@@ -5831,7 +5117,6 @@ export default [
     path: "brand/StackExchangeLine",
     tags: ["BrandStackExchangeLine", "stackExchange"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "StackExchangeSquareClr",
@@ -5839,7 +5124,6 @@ export default [
     path: "brand/StackExchangeSquareClr",
     tags: ["BrandStackExchangeSquareClr", "stack exchange"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "StackOverflowClr",
@@ -5847,7 +5131,6 @@ export default [
     path: "brand/StackOverflowClr",
     tags: ["BrandStackOverflowClr", "stack", "overflow"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "StackOverflowLineClr",
@@ -5855,7 +5138,6 @@ export default [
     path: "brand/StackOverflowLineClr",
     tags: ["BrandStackOverflowLineClr", "stack", "overflow"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "StripeClr",
@@ -5863,7 +5145,6 @@ export default [
     path: "brand/StripeClr",
     tags: ["BrandStripeClr", "brand", "stripe"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "StripeCircleClr",
@@ -5871,7 +5152,6 @@ export default [
     path: "brand/StripeCircleClr",
     tags: ["BrandStripeCircleClr", "brand", "stripe"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "StripeSquareClr",
@@ -5879,7 +5159,6 @@ export default [
     path: "brand/StripeSquareClr",
     tags: ["BrandStripeSquareClr", "brand", "stripe"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "StripeSubscriptionClr",
@@ -5887,7 +5166,6 @@ export default [
     path: "brand/StripeSubscriptionClr",
     tags: ["BrandStripeSubscriptionClr", "Stripe"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Suggestion",
@@ -5895,7 +5173,6 @@ export default [
     path: "brand/Suggestion",
     tags: ["BrandSuggestion", "suggestion"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SuggestionCircleClr",
@@ -5903,7 +5180,6 @@ export default [
     path: "brand/SuggestionCircleClr",
     tags: ["BrandSuggestionCircleClr", "suggestion"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SurveyCircleClr",
@@ -5911,7 +5187,6 @@ export default [
     path: "brand/SurveyCircleClr",
     tags: ["BrandSurveyCircleClr", "survey"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SurveyMonkeyClr",
@@ -5919,7 +5194,6 @@ export default [
     path: "brand/SurveyMonkeyClr",
     tags: ["BrandSurveyMonkeyClr", "survey monkey"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SurveyMonkey",
@@ -5927,7 +5201,6 @@ export default [
     path: "brand/SurveyMonkey",
     tags: ["BrandSurveyMonkey", "survey monkey"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "SurveyMonkeyCircleClr",
@@ -5935,7 +5208,6 @@ export default [
     path: "brand/SurveyMonkeyCircleClr",
     tags: ["BrandSurveyMonkeyCircleClr", "survey monkey"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TableauClr",
@@ -5943,7 +5215,6 @@ export default [
     path: "brand/TableauClr",
     tags: ["BrandTableauClr", "tableau"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Tableau",
@@ -5951,7 +5222,6 @@ export default [
     path: "brand/Tableau",
     tags: ["BrandTableau", "tableau"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TealiumClr",
@@ -5959,7 +5229,6 @@ export default [
     path: "brand/TealiumClr",
     tags: ["BrandTealiumClr", "tealium"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Tealium",
@@ -5967,7 +5236,6 @@ export default [
     path: "brand/Tealium",
     tags: ["BrandTealium", "tealium"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Telegram",
@@ -5975,7 +5243,6 @@ export default [
     path: "brand/Telegram",
     tags: ["BrandTelegram", "telegram", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TelegramCircleClr",
@@ -5983,7 +5250,6 @@ export default [
     path: "brand/TelegramCircleClr",
     tags: ["BrandTelegramCircleClr", "telegram", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TelegramCircle",
@@ -5991,7 +5257,6 @@ export default [
     path: "brand/TelegramCircle",
     tags: ["BrandTelegramCircle", "telegram"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TelegramSquareClr",
@@ -5999,7 +5264,6 @@ export default [
     path: "brand/TelegramSquareClr",
     tags: ["BrandTelegramSquareClr", "brand", "telegram"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TencentWeiboClr",
@@ -6007,7 +5271,6 @@ export default [
     path: "brand/TencentWeiboClr",
     tags: ["BrandTencentWeiboClr", "tencent weibo"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TencentWeibo",
@@ -6015,7 +5278,6 @@ export default [
     path: "brand/TencentWeibo",
     tags: ["BrandTencentWeibo", "tencent weibo"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TencentWeiboCircleClr",
@@ -6023,7 +5285,6 @@ export default [
     path: "brand/TencentWeiboCircleClr",
     tags: ["BrandTencentWeiboCircleClr", "tencent weibo"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TencentWeiboSquareClr",
@@ -6031,7 +5292,6 @@ export default [
     path: "brand/TencentWeiboSquareClr",
     tags: ["BrandTencentWeiboSquareClr", "tencent", "weibo"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TiktokClr",
@@ -6039,7 +5299,6 @@ export default [
     path: "brand/TiktokClr",
     tags: ["BrandTiktokClr", "tiktok", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Tiktok",
@@ -6047,7 +5306,6 @@ export default [
     path: "brand/Tiktok",
     tags: ["BrandTiktok", "tiktok", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TiktokAds",
@@ -6055,7 +5313,6 @@ export default [
     path: "brand/TiktokAds",
     tags: ["BrandTiktokAds", "tiktok ads"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TiktokAdsCircleClr",
@@ -6063,7 +5320,6 @@ export default [
     path: "brand/TiktokAdsCircleClr",
     tags: ["BrandTiktokAdsCircleClr", "tiktok ads"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TiktokCircleClr",
@@ -6071,7 +5327,6 @@ export default [
     path: "brand/TiktokCircleClr",
     tags: ["BrandTiktokCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TiktokSquareClr",
@@ -6079,7 +5334,6 @@ export default [
     path: "brand/TiktokSquareClr",
     tags: ["BrandTiktokSquareClr", "tiktok", "channel"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TiktokVerifiedClr",
@@ -6087,7 +5341,6 @@ export default [
     path: "brand/TiktokVerifiedClr",
     tags: ["BrandTiktokVerifiedClr", "tiktok", "bluetick", "verified"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TMallClr",
@@ -6095,7 +5348,6 @@ export default [
     path: "brand/TMallClr",
     tags: ["BrandTMallClr", "t mall"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TMall",
@@ -6103,7 +5355,6 @@ export default [
     path: "brand/TMall",
     tags: ["BrandTMall", "t mall"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TMallCircleClr",
@@ -6111,7 +5362,6 @@ export default [
     path: "brand/TMallCircleClr",
     tags: ["BrandTMallCircleClr", "t mall"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TreasureData",
@@ -6119,7 +5369,6 @@ export default [
     path: "brand/TreasureData",
     tags: ["BrandTreasureData", "treasure data"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TrustPilotClr",
@@ -6127,7 +5376,6 @@ export default [
     path: "brand/TrustPilotClr",
     tags: ["BrandTrustPilotClr", "trust pilot"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TrustPilot",
@@ -6135,7 +5383,6 @@ export default [
     path: "brand/TrustPilot",
     tags: ["BrandTrustPilot", "trust pilot"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TrustpilotCircleClr",
@@ -6143,7 +5390,6 @@ export default [
     path: "brand/TrustpilotCircleClr",
     tags: ["BrandTrustpilotCircleClr", "trust pilot"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TrustPilotSquareClr",
@@ -6151,7 +5397,6 @@ export default [
     path: "brand/TrustPilotSquareClr",
     tags: ["BrandTrustPilotSquareClr", "trust pilot"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TumblrClr",
@@ -6159,7 +5404,6 @@ export default [
     path: "brand/TumblrClr",
     tags: ["BrandTumblrClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Tumblr",
@@ -6167,7 +5411,6 @@ export default [
     path: "brand/Tumblr",
     tags: ["BrandTumblr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TumblrCircleClr",
@@ -6175,7 +5418,6 @@ export default [
     path: "brand/TumblrCircleClr",
     tags: ["BrandTumblrCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TvClr",
@@ -6183,7 +5425,6 @@ export default [
     path: "brand/TvClr",
     tags: ["BrandTvClr", "television"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Tv",
@@ -6191,7 +5432,6 @@ export default [
     path: "brand/Tv",
     tags: ["BrandTv", "television"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TvCircleClr",
@@ -6199,7 +5439,6 @@ export default [
     path: "brand/TvCircleClr",
     tags: ["BrandTvCircleClr", "television"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TwilioClr",
@@ -6207,7 +5446,6 @@ export default [
     path: "brand/TwilioClr",
     tags: ["BrandTwilioClr", "twilio"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Twilio",
@@ -6215,7 +5453,6 @@ export default [
     path: "brand/Twilio",
     tags: ["BrandTwilio", "twilio"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TwilioCircleClr",
@@ -6223,7 +5460,6 @@ export default [
     path: "brand/TwilioCircleClr",
     tags: ["BrandTwilioCircleClr", "twilio"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TwitchClr",
@@ -6231,7 +5467,6 @@ export default [
     path: "brand/TwitchClr",
     tags: ["BrandTwitchClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Twitch",
@@ -6239,7 +5474,6 @@ export default [
     path: "brand/Twitch",
     tags: ["BrandTwitch"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TwitchCircleClr",
@@ -6247,7 +5481,6 @@ export default [
     path: "brand/TwitchCircleClr",
     tags: ["BrandTwitchCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TwitterClr",
@@ -6255,7 +5488,6 @@ export default [
     path: "brand/TwitterClr",
     tags: ["BrandTwitterClr", "twitter", "x"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Twitter",
@@ -6263,7 +5495,6 @@ export default [
     path: "brand/Twitter",
     tags: ["BrandTwitter", "twitter", "x"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TwitterAds",
@@ -6271,7 +5502,6 @@ export default [
     path: "brand/TwitterAds",
     tags: ["BrandTwitterAds", "twitter", "ads"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TwitterCircleClr",
@@ -6279,7 +5509,6 @@ export default [
     path: "brand/TwitterCircleClr",
     tags: ["BrandTwitterCircleClr", "twitter", "x"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TwitterCircle",
@@ -6287,7 +5516,6 @@ export default [
     path: "brand/TwitterCircle",
     tags: ["BrandTwitterCircle", "twitter", "x"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TwitterSquareClr",
@@ -6295,7 +5523,6 @@ export default [
     path: "brand/TwitterSquareClr",
     tags: ["BrandTwitterSquareClr", "twitter", "x"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TwitterVerifiedBlueClr",
@@ -6303,7 +5530,6 @@ export default [
     path: "brand/TwitterVerifiedBlueClr",
     tags: ["BrandTwitterVerifiedBlueClr", "verify", "twitter", "tick"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TwitterVerifiedGoldClr",
@@ -6311,7 +5537,6 @@ export default [
     path: "brand/TwitterVerifiedGoldClr",
     tags: ["BrandTwitterVerifiedGoldClr", "verify", "twitter", "tick"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "TwitterVerifiedGreyClr",
@@ -6319,7 +5544,6 @@ export default [
     path: "brand/TwitterVerifiedGreyClr",
     tags: ["BrandTwitterVerifiedGreyClr", "verify", "twitter", "tick"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Ugc",
@@ -6327,7 +5551,6 @@ export default [
     path: "brand/Ugc",
     tags: ["BrandUgc", "ugc"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "UgcCircleClr",
@@ -6335,7 +5558,6 @@ export default [
     path: "brand/UgcCircleClr",
     tags: ["BrandUgcCircleClr", "ugc"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "UnderArmour",
@@ -6343,7 +5565,6 @@ export default [
     path: "brand/UnderArmour",
     tags: ["BrandUnderArmour", "under armour"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "UnderArmourCirclerClr",
@@ -6351,7 +5572,6 @@ export default [
     path: "brand/UnderArmourCirclerClr",
     tags: ["BrandUnderArmourCirclerClr", "under armour"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "UpiClr",
@@ -6359,7 +5579,6 @@ export default [
     path: "brand/UpiClr",
     tags: ["BrandUpiClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "UserFeedback",
@@ -6367,7 +5586,6 @@ export default [
     path: "brand/UserFeedback",
     tags: ["BrandUserFeedback", "user feedback"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "UserFeedbackCircleClr",
@@ -6375,7 +5593,6 @@ export default [
     path: "brand/UserFeedbackCircleClr",
     tags: ["BrandUserFeedbackCircleClr", "user feedback"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "UserFeedbackSquareClr",
@@ -6383,7 +5600,6 @@ export default [
     path: "brand/UserFeedbackSquareClr",
     tags: ["BrandUserFeedbackSquareClr", "feedback"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "VectramindClr",
@@ -6391,7 +5607,6 @@ export default [
     path: "brand/VectramindClr",
     tags: ["BrandVectramindClr", "vectramind"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Vectramind",
@@ -6399,7 +5614,6 @@ export default [
     path: "brand/Vectramind",
     tags: ["BrandVectramind", "vectramind"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ViberClr",
@@ -6407,7 +5621,6 @@ export default [
     path: "brand/ViberClr",
     tags: ["BrandViberClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Viber",
@@ -6415,7 +5628,6 @@ export default [
     path: "brand/Viber",
     tags: ["BrandViber"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ViberCircleClr",
@@ -6423,7 +5635,6 @@ export default [
     path: "brand/ViberCircleClr",
     tags: ["BrandViberCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ViberCircle",
@@ -6431,7 +5642,6 @@ export default [
     path: "brand/ViberCircle",
     tags: ["BrandViberCircle", "viber"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ViberSquareClr",
@@ -6439,7 +5649,6 @@ export default [
     path: "brand/ViberSquareClr",
     tags: ["BrandViberSquareClr", "brand", "viber"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "VideoCommentsCircleClr",
@@ -6447,7 +5656,6 @@ export default [
     path: "brand/VideoCommentsCircleClr",
     tags: ["BrandVideoCommentsCircleClr", "Video Comments"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "VidmobClr",
@@ -6455,7 +5663,6 @@ export default [
     path: "brand/VidmobClr",
     tags: ["BrandVidmobClr", "channel", "vidmob"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "VisaClr",
@@ -6463,7 +5670,6 @@ export default [
     path: "brand/VisaClr",
     tags: ["BrandVisaClr", "visa"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "VkClr",
@@ -6471,7 +5677,6 @@ export default [
     path: "brand/VkClr",
     tags: ["BrandVkClr", "VK"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Vk",
@@ -6479,7 +5684,6 @@ export default [
     path: "brand/Vk",
     tags: ["BrandVk", "VK"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "VkCircleClr",
@@ -6487,7 +5691,6 @@ export default [
     path: "brand/VkCircleClr",
     tags: ["BrandVkCircleClr", "VK"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "VkSquareClr",
@@ -6495,7 +5698,6 @@ export default [
     path: "brand/VkSquareClr",
     tags: ["BrandVkSquareClr", "vk"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "VoiceCircleClr",
@@ -6503,7 +5705,6 @@ export default [
     path: "brand/VoiceCircleClr",
     tags: ["BrandVoiceCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "VoiceSquareClr",
@@ -6511,7 +5712,6 @@ export default [
     path: "brand/VoiceSquareClr",
     tags: ["BrandVoiceSquareClr", "voice", "call"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WebClr",
@@ -6519,7 +5719,6 @@ export default [
     path: "brand/WebClr",
     tags: ["BrandWebClr", "web"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Web",
@@ -6527,7 +5726,6 @@ export default [
     path: "brand/Web",
     tags: ["BrandWeb", "web"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WebCircleClr",
@@ -6535,7 +5733,6 @@ export default [
     path: "brand/WebCircleClr",
     tags: ["BrandWebCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Webinar",
@@ -6543,7 +5740,6 @@ export default [
     path: "brand/Webinar",
     tags: ["BrandWebinar", "webinar"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WebinarCircleClr",
@@ -6551,7 +5747,6 @@ export default [
     path: "brand/WebinarCircleClr",
     tags: ["BrandWebinarCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WebsiteClr",
@@ -6559,7 +5754,6 @@ export default [
     path: "brand/WebsiteClr",
     tags: ["BrandWebsiteClr", "website"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Website",
@@ -6567,7 +5761,6 @@ export default [
     path: "brand/Website",
     tags: ["BrandWebsite", "website"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WebSquareClr",
@@ -6575,7 +5768,6 @@ export default [
     path: "brand/WebSquareClr",
     tags: ["BrandWebSquareClr", "web"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WechatClr",
@@ -6583,7 +5775,6 @@ export default [
     path: "brand/WechatClr",
     tags: ["BrandWechatClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Wechat",
@@ -6591,7 +5782,6 @@ export default [
     path: "brand/Wechat",
     tags: ["BrandWechat"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WechatCircleClr",
@@ -6599,7 +5789,6 @@ export default [
     path: "brand/WechatCircleClr",
     tags: ["BrandWechatCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WeChatPaySquareClr",
@@ -6607,7 +5796,6 @@ export default [
     path: "brand/WeChatPaySquareClr",
     tags: ["BrandWeChatPaySquareClr", "weChatPay"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WechatSquareClr",
@@ -6615,7 +5803,6 @@ export default [
     path: "brand/WechatSquareClr",
     tags: ["BrandWechatSquareClr", "brand", "wechat"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Whatsapp",
@@ -6623,7 +5810,6 @@ export default [
     path: "brand/Whatsapp",
     tags: ["BrandWhatsapp", "whatsapp", "messaging", "chat"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WhatsappBusinessCircleClr",
@@ -6631,7 +5817,6 @@ export default [
     path: "brand/WhatsappBusinessCircleClr",
     tags: ["BrandWhatsappBusinessCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WhatsappCircleClr",
@@ -6639,7 +5824,6 @@ export default [
     path: "brand/WhatsappCircleClr",
     tags: ["BrandWhatsappCircleClr", "whatsapp", "messaging", "chat"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WhatsappCircle",
@@ -6647,7 +5831,6 @@ export default [
     path: "brand/WhatsappCircle",
     tags: ["BrandWhatsappCircle", "whatsapp"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WhatsappDocThumbnailClr",
@@ -6655,7 +5838,6 @@ export default [
     path: "brand/WhatsappDocThumbnailClr",
     tags: ["BrandWhatsappDocThumbnailClr", "whatsapp", "thumbnail"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WhatsappPptThumbnailClr",
@@ -6663,7 +5845,6 @@ export default [
     path: "brand/WhatsappPptThumbnailClr",
     tags: ["BrandWhatsappPptThumbnailClr", "whatsapp", "thumbnail"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WhatsappSheetThumbnailClr",
@@ -6671,7 +5852,6 @@ export default [
     path: "brand/WhatsappSheetThumbnailClr",
     tags: ["BrandWhatsappSheetThumbnailClr", "whatsapp", "thumbnail"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WhatsappSquareClr",
@@ -6679,7 +5859,6 @@ export default [
     path: "brand/WhatsappSquareClr",
     tags: ["BrandWhatsappSquareClr", "whatsapp", "messaging", "chat"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WhirlpoolClr",
@@ -6687,7 +5866,6 @@ export default [
     path: "brand/WhirlpoolClr",
     tags: ["BrandWhirlpoolClr", "channel", "whirlpool"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WhitePaperCircleClr",
@@ -6695,7 +5873,6 @@ export default [
     path: "brand/WhitePaperCircleClr",
     tags: ["BrandWhitePaperCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WordpressClr",
@@ -6703,7 +5880,6 @@ export default [
     path: "brand/WordpressClr",
     tags: ["BrandWordpressClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Wordpress",
@@ -6711,7 +5887,6 @@ export default [
     path: "brand/Wordpress",
     tags: ["BrandWordpress"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WordpressCircleClr",
@@ -6719,7 +5894,6 @@ export default [
     path: "brand/WordpressCircleClr",
     tags: ["BrandWordpressCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WordpressSquareClr",
@@ -6727,7 +5901,6 @@ export default [
     path: "brand/WordpressSquareClr",
     tags: ["BrandWordpressSquareClr", "wordpress"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WorkflowClr",
@@ -6735,7 +5908,6 @@ export default [
     path: "brand/WorkflowClr",
     tags: ["BrandWorkflowClr", "workflow", "sprinklr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WorkflowCircleClr",
@@ -6743,7 +5915,6 @@ export default [
     path: "brand/WorkflowCircleClr",
     tags: ["BrandWorkflowCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "WorkflowSquareClr",
@@ -6751,7 +5922,6 @@ export default [
     path: "brand/WorkflowSquareClr",
     tags: ["BrandWorkflowSquareClr", "workflow", "sprinklr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "XiaohongshuClr",
@@ -6759,7 +5929,6 @@ export default [
     path: "brand/XiaohongshuClr",
     tags: ["BrandXiaohongshuClr", "Xiaohongshu"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Xiaohongshu",
@@ -6767,7 +5936,6 @@ export default [
     path: "brand/Xiaohongshu",
     tags: ["BrandXiaohongshu", "Xiaohongshu"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "XiaohongshuCircleClr",
@@ -6775,7 +5943,6 @@ export default [
     path: "brand/XiaohongshuCircleClr",
     tags: ["BrandXiaohongshuCircleClr", "Xiaohongshu"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "XingClr",
@@ -6783,7 +5950,6 @@ export default [
     path: "brand/XingClr",
     tags: ["BrandXingClr", "xing"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Xing",
@@ -6791,7 +5957,6 @@ export default [
     path: "brand/Xing",
     tags: ["BrandXing", "xing"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "XingCircleClr",
@@ -6799,7 +5964,6 @@ export default [
     path: "brand/XingCircleClr",
     tags: ["BrandXingCircleClr", "xing"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "YahooClr",
@@ -6807,7 +5971,6 @@ export default [
     path: "brand/YahooClr",
     tags: ["BrandYahooClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Yahoo",
@@ -6815,7 +5978,6 @@ export default [
     path: "brand/Yahoo",
     tags: ["BrandYahoo"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "YahooAds",
@@ -6823,7 +5985,6 @@ export default [
     path: "brand/YahooAds",
     tags: ["BrandYahooAds", "yahoo ads"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "YahooAdsCircleClr",
@@ -6831,7 +5992,6 @@ export default [
     path: "brand/YahooAdsCircleClr",
     tags: ["BrandYahooAdsCircleClr", "yahoo ads"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "YahooCircleClr",
@@ -6839,7 +5999,6 @@ export default [
     path: "brand/YahooCircleClr",
     tags: ["BrandYahooCircleClr"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "YammerClr",
@@ -6847,7 +6006,6 @@ export default [
     path: "brand/YammerClr",
     tags: ["BrandYammerClr", "brand", "yammer microsoft"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Yammer",
@@ -6855,7 +6013,6 @@ export default [
     path: "brand/Yammer",
     tags: ["BrandYammer", "brand", "yammer microsoft"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "YammerCircleClr",
@@ -6863,7 +6020,6 @@ export default [
     path: "brand/YammerCircleClr",
     tags: ["BrandYammerCircleClr", "brand", "yammer microsoft"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "YammerSquareClr",
@@ -6871,7 +6027,6 @@ export default [
     path: "brand/YammerSquareClr",
     tags: ["BrandYammerSquareClr", "brand", "yammer microsoft"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "YelpClr",
@@ -6879,7 +6034,6 @@ export default [
     path: "brand/YelpClr",
     tags: ["BrandYelpClr", "yelp"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Yelp",
@@ -6887,7 +6041,6 @@ export default [
     path: "brand/Yelp",
     tags: ["BrandYelp", "yelp"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "YelpCircleClr",
@@ -6895,7 +6048,6 @@ export default [
     path: "brand/YelpCircleClr",
     tags: ["BrandYelpCircleClr", "yelp"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "YelpSquareClr",
@@ -6903,7 +6055,6 @@ export default [
     path: "brand/YelpSquareClr",
     tags: ["BrandYelpSquareClr", "yelp"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "YextClr",
@@ -6911,7 +6062,6 @@ export default [
     path: "brand/YextClr",
     tags: ["BrandYextClr", "yext"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Yext",
@@ -6919,7 +6069,6 @@ export default [
     path: "brand/Yext",
     tags: ["BrandYext", "yext"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "YextCircleClr",
@@ -6927,7 +6076,6 @@ export default [
     path: "brand/YextCircleClr",
     tags: ["BrandYextCircleClr", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "YextSquareClr",
@@ -6935,7 +6083,6 @@ export default [
     path: "brand/YextSquareClr",
     tags: ["BrandYextSquareClr", "yext"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "YoutubeClr",
@@ -6943,7 +6090,6 @@ export default [
     path: "brand/YoutubeClr",
     tags: ["BrandYoutubeClr", "youtube", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Youtube",
@@ -6951,7 +6097,6 @@ export default [
     path: "brand/Youtube",
     tags: ["BrandYoutube", "youtube", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "YoutubeCircleClr",
@@ -6959,7 +6104,6 @@ export default [
     path: "brand/YoutubeCircleClr",
     tags: ["BrandYoutubeCircleClr", "youtube", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "YoutubeSquareClr",
@@ -6967,7 +6111,6 @@ export default [
     path: "brand/YoutubeSquareClr",
     tags: ["BrandYoutubeSquareClr", "youtube", "brand"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ZendeskClr",
@@ -6975,7 +6118,6 @@ export default [
     path: "brand/ZendeskClr",
     tags: ["BrandZendeskClr", "zendesk"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Zendesk",
@@ -6983,7 +6125,6 @@ export default [
     path: "brand/Zendesk",
     tags: ["BrandZendesk", "zendesk"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ZendeskCircleClr",
@@ -6991,7 +6132,6 @@ export default [
     path: "brand/ZendeskCircleClr",
     tags: ["BrandZendeskCircleClr", "zendesk"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ZendeskSquareClr",
@@ -6999,7 +6139,6 @@ export default [
     path: "brand/ZendeskSquareClr",
     tags: ["BrandZendeskSquareClr", "zendesk"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ZendeskSupportClr",
@@ -7007,7 +6146,6 @@ export default [
     path: "brand/ZendeskSupportClr",
     tags: ["BrandZendeskSupportClr", "zendesk"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ZendeskSupportCircleClr",
@@ -7015,7 +6153,6 @@ export default [
     path: "brand/ZendeskSupportCircleClr",
     tags: ["BrandZendeskSupportCircleClr", "zendesk"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ZendeskSupportSquareClr",
@@ -7023,7 +6160,6 @@ export default [
     path: "brand/ZendeskSupportSquareClr",
     tags: ["BrandZendeskSupportSquareClr", "zendesk"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ZimbraClr",
@@ -7031,7 +6167,6 @@ export default [
     path: "brand/ZimbraClr",
     tags: ["BrandZimbraClr", "zimbra"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Zimbra",
@@ -7039,7 +6174,6 @@ export default [
     path: "brand/Zimbra",
     tags: ["BrandZimbra", "zimbra"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ZimbraCircleClr",
@@ -7047,7 +6181,6 @@ export default [
     path: "brand/ZimbraCircleClr",
     tags: ["BrandZimbraCircleClr", "zimbra"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ZimbraSquareClr",
@@ -7055,7 +6188,6 @@ export default [
     path: "brand/ZimbraSquareClr",
     tags: ["BrandZimbraSquareClr", "zimbra"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ZoomClr",
@@ -7063,7 +6195,6 @@ export default [
     path: "brand/ZoomClr",
     tags: ["BrandZoomClr", "zoom"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "Zoom",
@@ -7071,7 +6202,6 @@ export default [
     path: "brand/Zoom",
     tags: ["BrandZoom", "zoom"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ZoomCircleClr",
@@ -7079,7 +6209,6 @@ export default [
     path: "brand/ZoomCircleClr",
     tags: ["BrandZoomCircleClr", "zoom"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "ZoomSquareClr",
@@ -7087,7 +6216,6 @@ export default [
     path: "brand/ZoomSquareClr",
     tags: ["BrandZoomSquareClr", "zoom"],
     category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
   },
   {
     name: "AddColumnLeft",
@@ -7102,7 +6230,6 @@ export default [
       "column",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "AddColumnRight",
@@ -7117,7 +6244,6 @@ export default [
       "column",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "AddRowBottom",
@@ -7125,7 +6251,6 @@ export default [
     path: "line/AddRowBottom",
     tags: ["LineAddRowBottom", "add bottom", "cells", "table", "grid", "row"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "AddRowTop",
@@ -7133,7 +6258,6 @@ export default [
     path: "line/AddRowTop",
     tags: ["LineAddRowTop", "add above", "cells", "table", "grid", "row"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "AddTable",
@@ -7148,7 +6272,6 @@ export default [
       "square",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Aggregation",
@@ -7156,7 +6279,6 @@ export default [
     path: "line/Aggregation",
     tags: ["LineAggregation"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "AiBot",
@@ -7164,7 +6286,6 @@ export default [
     path: "line/AiBot",
     tags: ["LineAiBot"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "AnnouncementCircle",
@@ -7172,7 +6293,6 @@ export default [
     path: "line/AnnouncementCircle",
     tags: ["LineAnnouncementCircle", "Speaker", "Declaration", "Broadcast"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Apply",
@@ -7180,7 +6300,6 @@ export default [
     path: "line/Apply",
     tags: ["LineApply", "Logic", "Application", "Insert", "Connect"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Arrow",
@@ -7188,7 +6307,6 @@ export default [
     path: "line/Arrow",
     tags: ["LineArrow", "front", "go forward", "point", "next"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "ArrowUturnDown",
@@ -7203,7 +6321,6 @@ export default [
       "navigation",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Attachment",
@@ -7211,7 +6328,6 @@ export default [
     path: "line/Attachment",
     tags: ["LineAttachment", "attachment", "attach", "paper clip"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "AuditChecklist",
@@ -7219,7 +6335,6 @@ export default [
     path: "line/AuditChecklist",
     tags: ["LineAuditChecklist", "tick list", "approved", "text"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Back",
@@ -7227,7 +6342,6 @@ export default [
     path: "line/Back",
     tags: ["LineBack", "arrow", "respond", "go back", "return", "previous"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Backfill",
@@ -7235,7 +6349,6 @@ export default [
     path: "line/Backfill",
     tags: ["LineBackfill", "fill", "embankment", "refill"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "BoldText",
@@ -7243,7 +6356,6 @@ export default [
     path: "line/BoldText",
     tags: ["LineBoldText", "text formatting", "edit text", "bold"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Box",
@@ -7251,7 +6363,6 @@ export default [
     path: "line/Box",
     tags: ["LineBox", "box", "square", "content", "block", "rectangle"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "BulletList",
@@ -7259,7 +6370,6 @@ export default [
     path: "line/BulletList",
     tags: ["LineBulletList", "bullet points", "list", "check list", "text"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Card",
@@ -7267,7 +6377,6 @@ export default [
     path: "line/Card",
     tags: ["LineCard", "cards", "ID card", "identification"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "ChangeCaseText",
@@ -7275,7 +6384,6 @@ export default [
     path: "line/ChangeCaseText",
     tags: ["LineChangeCaseText", "text formatting", "edit text", "case chane"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "ClearFormatting",
@@ -7283,7 +6391,6 @@ export default [
     path: "line/ClearFormatting",
     tags: ["LineClearFormatting", "text", "italics", "formatting"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "CodeBlock",
@@ -7291,7 +6398,6 @@ export default [
     path: "line/CodeBlock",
     tags: ["LineCodeBlock", "code", "svg", "block code"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Complete",
@@ -7305,7 +6411,6 @@ export default [
       "tick circle",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "CornerRadius",
@@ -7313,7 +6418,6 @@ export default [
     path: "line/CornerRadius",
     tags: ["LineCornerRadius", "radius", "curve", "arc", "border"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Crop",
@@ -7321,7 +6425,6 @@ export default [
     path: "line/Crop",
     tags: ["LineCrop", "crop", "cut", "resize", "cut off"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "CsatRating",
@@ -7329,7 +6432,6 @@ export default [
     path: "line/CsatRating",
     tags: ["LineCsatRating", "Rating", "Grading.Rank"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "DataChart",
@@ -7337,7 +6439,6 @@ export default [
     path: "line/DataChart",
     tags: ["LineDataChart", "charts", "information", "analytics", "no data"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "DeleteColumn",
@@ -7345,7 +6446,6 @@ export default [
     path: "line/DeleteColumn",
     tags: ["LineDeleteColumn", "delete", "cells", "table", "grid", "column"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "DeleteRow",
@@ -7353,7 +6453,6 @@ export default [
     path: "line/DeleteRow",
     tags: ["LineDeleteRow", "delete", "cells", "table", "grid", "row"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "DeleteTable",
@@ -7361,7 +6460,6 @@ export default [
     path: "line/DeleteTable",
     tags: ["LineDeleteTable", "delete", "cells", "table", "grid"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   // {
   //   name: "DistributedControlPanel",
@@ -7375,8 +6473,7 @@ export default [
   //     "slider",
   //   ],
   //   category: "line",
-//     filePath: path.join(process.cwd(), '/data/line",
-// /')// 
+//   /')// 
 //   },
   {
     name: "Divider",
@@ -7384,7 +6481,6 @@ export default [
     path: "line/Divider",
     tags: ["LineDivider", "divide", "separate", "table", "grid", "row"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "DoubleLine",
@@ -7399,7 +6495,6 @@ export default [
       "parallel line",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "DoubleTick",
@@ -7414,7 +6509,6 @@ export default [
       "Tick done",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "DropDown",
@@ -7422,7 +6516,6 @@ export default [
     path: "line/DropDown",
     tags: ["LineDropDown", "field", "menu", "expand down"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "EditLayout",
@@ -7430,7 +6523,6 @@ export default [
     path: "line/EditLayout",
     tags: ["LineEditLayout"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Engage",
@@ -7438,7 +6530,6 @@ export default [
     path: "line/Engage",
     tags: ["LineEngage", "arrow", "reverse", "repeat"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "ErrorState",
@@ -7446,7 +6537,6 @@ export default [
     path: "line/ErrorState",
     tags: ["LineErrorState", "warning", "alert", "mistake", "not working"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "ExpandView",
@@ -7454,7 +6544,6 @@ export default [
     path: "line/ExpandView",
     tags: ["LineExpandView", "open", "view", "detail", "arrow", "enlarge"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "FacebookComment",
@@ -7462,7 +6551,6 @@ export default [
     path: "line/FacebookComment",
     tags: ["LineFacebookComment", "facebook", "comment"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "FacebookLike",
@@ -7470,7 +6558,6 @@ export default [
     path: "line/FacebookLike",
     tags: ["LineFacebookLike", "facebook", "like"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "FacebookMarketplace",
@@ -7484,7 +6571,6 @@ export default [
       "marketplace",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "FacebookMenu",
@@ -7492,7 +6578,6 @@ export default [
     path: "line/FacebookMenu",
     tags: ["LineFacebookMenu", "facebook", "channel", "fb", "menu"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "FacebookNotification",
@@ -7506,7 +6591,6 @@ export default [
       "Notifications",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "FacebookProfile",
@@ -7514,7 +6598,6 @@ export default [
     path: "line/FacebookProfile",
     tags: ["LineFacebookProfile", "facebook", "channel", "fb", "profile"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "FacebookShare",
@@ -7522,7 +6605,6 @@ export default [
     path: "line/FacebookShare",
     tags: ["LineFacebookShare", "facebook", "share"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "FacebookWatch",
@@ -7530,7 +6612,6 @@ export default [
     path: "line/FacebookWatch",
     tags: ["LineFacebookWatch", "facebook", "channel", "fb", "watch"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "FormatText",
@@ -7538,7 +6619,6 @@ export default [
     path: "line/FormatText",
     tags: ["LineFormatText", "text formatting", "edit text", "format"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "FundingInstrument",
@@ -7546,7 +6626,6 @@ export default [
     path: "line/FundingInstrument",
     tags: ["LineFundingInstrument"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Grouping",
@@ -7554,7 +6633,6 @@ export default [
     path: "line/Grouping",
     tags: ["LineGrouping", "group by", "manage", "add lines"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "GuestUser",
@@ -7567,7 +6645,6 @@ export default [
       "restricted access user",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "GuestUserGroup",
@@ -7581,7 +6658,6 @@ export default [
       "grouping",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Halfscreen",
@@ -7589,7 +6665,6 @@ export default [
     path: "line/Halfscreen",
     tags: ["LineHalfscreen"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Hashtag",
@@ -7597,7 +6672,6 @@ export default [
     path: "line/Hashtag",
     tags: ["LineHashtag", "Number", "Label"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "InstagramAdd",
@@ -7605,7 +6679,6 @@ export default [
     path: "line/InstagramAdd",
     tags: ["LineInstagramAdd", "Instagram", "channel"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "InstagramProfile",
@@ -7613,7 +6686,6 @@ export default [
     path: "line/InstagramProfile",
     tags: ["LineInstagramProfile", "Instagram", "channel"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "InstagramReels",
@@ -7621,7 +6693,6 @@ export default [
     path: "line/InstagramReels",
     tags: ["LineInstagramReels", "Instagram", "channel"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "InstagramSave",
@@ -7629,7 +6700,6 @@ export default [
     path: "line/InstagramSave",
     tags: ["LineInstagramSave", "Instagram", "save"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "InstagramSearch",
@@ -7637,7 +6707,6 @@ export default [
     path: "line/InstagramSearch",
     tags: ["LineInstagramSearch", "Instagram", "channel"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "InstagramShare",
@@ -7645,7 +6714,6 @@ export default [
     path: "line/InstagramShare",
     tags: ["LineInstagramShare", "Instagram", "share"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "InstagramStory",
@@ -7659,7 +6727,6 @@ export default [
       "temporary story",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "InstagranComment",
@@ -7667,7 +6734,6 @@ export default [
     path: "line/InstagranComment",
     tags: ["LineInstagranComment", "Instagram", "comment"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "ItalicText",
@@ -7675,7 +6741,6 @@ export default [
     path: "line/ItalicText",
     tags: ["LineItalicText", "text formatting", "edit text", "italic"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "KeywordList",
@@ -7683,7 +6748,6 @@ export default [
     path: "line/KeywordList",
     tags: ["LineKeywordList", "key", "dash"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "LinkChart",
@@ -7691,7 +6755,6 @@ export default [
     path: "line/LinkChart",
     tags: ["LineLinkChart", "chart", "post"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   // {
   //   name: "LinkedInComment",
@@ -7699,31 +6762,27 @@ export default [
   //   path: "line/LinkedInComment",
   //   tags: ["LineLinkedInComment", "LinkedIn", "comment"],
   //   category: "line",
-  //   filePath: path.join(process.cwd(), '/data/line/')
-  // },
+  //// },
   // {
   //   name: "LinkedInLike",
   //   fullName: "LineLinkedInLike",
   //   path: "line/LinkedInLike",
   //   tags: ["LineLinkedInLike", "LinkedIn", "Like"],
   //   category: "line",
-  //   filePath: path.join(process.cwd(), '/data/line/')
-  // },
+  //// },
   // {
   //   name: "LinkedInShare",
   //   fullName: "LineLinkedInShare",
   //   path: "line/LinkedInShare",
   //   tags: ["LineLinkedInShare", "LinkedIn", "share"],
   //   category: "line",
-  //   filePath: path.join(process.cwd(), '/data/line/')
-  // },
+  //// },
   {
     name: "List",
     fullName: "LineList",
     path: "line/List",
     tags: ["LineList", "Hamburger", "List View"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Lowercase",
@@ -7731,7 +6790,6 @@ export default [
     path: "line/Lowercase",
     tags: ["LineLowercase", "case", "text", "format", "alphabet", "letter"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "ManageColumns",
@@ -7739,7 +6797,6 @@ export default [
     path: "line/ManageColumns",
     tags: ["LineManageColumns", "columns", "arrow", "lines", "enter"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "MappedArrow",
@@ -7755,7 +6812,6 @@ export default [
       "right",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Media",
@@ -7771,7 +6827,6 @@ export default [
       "no media",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Menu",
@@ -7787,7 +6842,6 @@ export default [
       "more",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "MetricArrow",
@@ -7802,7 +6856,6 @@ export default [
       "data",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "MetricArrowDown",
@@ -7810,7 +6863,6 @@ export default [
     path: "line/MetricArrowDown",
     tags: ["LineMetricArrowDown", "arrow", "insights", "down", "metric"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "MultiSelect",
@@ -7818,7 +6870,6 @@ export default [
     path: "line/MultiSelect",
     tags: ["LineMultiSelect", "multiple", "points", "list"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "NewsFeed",
@@ -7826,7 +6877,6 @@ export default [
     path: "line/NewsFeed",
     tags: ["LineNewsFeed", "news bulletin", "social feed", "information"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "NodeDown",
@@ -7840,7 +6890,6 @@ export default [
       "fallback node",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "NpsRating",
@@ -7848,7 +6897,6 @@ export default [
     path: "line/NpsRating",
     tags: ["LineNpsRating", "Rating", "Grading.Rank"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Number",
@@ -7856,7 +6904,6 @@ export default [
     path: "line/Number",
     tags: ["LineNumber", "count", "digits", "sequence", "oder", "serial"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Percent",
@@ -7864,7 +6911,6 @@ export default [
     path: "line/Percent",
     tags: ["LinePercent", "percentage"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "PlusOne",
@@ -7872,7 +6918,6 @@ export default [
     path: "line/PlusOne",
     tags: ["LinePlusOne", "plus like", "add one", "one", "plus one"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Post",
@@ -7880,7 +6925,6 @@ export default [
     path: "line/Post",
     tags: ["LinePost", "Message", "isometric.social", "dialogue"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Power",
@@ -7888,7 +6932,6 @@ export default [
     path: "line/Power",
     tags: ["LinePower", "activate", "power", "on", "switch", "setting"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Pulse",
@@ -7896,7 +6939,6 @@ export default [
     path: "line/Pulse",
     tags: ["LinePulse", "ekg", "line", "smart alerts", "alert"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Quote",
@@ -7904,7 +6946,6 @@ export default [
     path: "line/Quote",
     tags: ["LineQuote", "toDoTips", "quote", "quotation", "hints", "tips"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Rename",
@@ -7912,7 +6953,6 @@ export default [
     path: "line/Rename",
     tags: ["LineRename", "Label", "Customize", "Edit"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Respond",
@@ -7920,7 +6960,6 @@ export default [
     path: "line/Respond",
     tags: ["LineRespond", "quick reply", "reply", "go back", "back", "arrow"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "ShortText",
@@ -7928,7 +6967,6 @@ export default [
     path: "line/ShortText",
     tags: ["LineShortText", "Short answer", "Text"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "SidePane",
@@ -7936,7 +6974,6 @@ export default [
     path: "line/SidePane",
     tags: ["LineSidePane", "expand", "collapse", "third pane"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Sigma",
@@ -7944,7 +6981,6 @@ export default [
     path: "line/Sigma",
     tags: ["LineSigma", "sigma", "greek alphabet"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "SingleLineText",
@@ -7952,7 +6988,6 @@ export default [
     path: "line/SingleLineText",
     tags: ["LineSingleLineText", "sentence", "line", "text"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "SingleSelect",
@@ -7960,7 +6995,6 @@ export default [
     path: "line/SingleSelect",
     tags: ["LineSingleSelect", "On", "Button"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "SkipBackward",
@@ -7975,7 +7009,6 @@ export default [
       "previous",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "SkipForward",
@@ -7991,7 +7024,6 @@ export default [
       "next",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "SortAsc",
@@ -7999,7 +7031,6 @@ export default [
     path: "line/SortAsc",
     tags: ["LineSortAsc", "order", "ascending", "arrange", "organize"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "SortDesc",
@@ -8007,7 +7038,6 @@ export default [
     path: "line/SortDesc",
     tags: ["LineSortDesc", "order", "ascending", "arrange", "organize"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Spelling",
@@ -8015,7 +7045,6 @@ export default [
     path: "line/Spelling",
     tags: ["LineSpelling", "abc", "text", "format", "spelling", "Misspelled"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "SquareCorner",
@@ -8023,7 +7052,6 @@ export default [
     path: "line/SquareCorner",
     tags: ["LineSquareCorner", "rectangle", "frame", "square"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "SquareCorners",
@@ -8039,7 +7067,6 @@ export default [
       "target",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "StackedBar",
@@ -8047,7 +7074,6 @@ export default [
     path: "line/StackedBar",
     tags: ["LineStackedBar", "chart", "analytics", "data"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "StrikeThroughText",
@@ -8055,7 +7081,6 @@ export default [
     path: "line/StrikeThroughText",
     tags: ["LineStrikeThroughText", "text formatting", "edit text", "strike"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Subtract",
@@ -8071,7 +7096,6 @@ export default [
       "negative",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TableGrid",
@@ -8079,7 +7103,6 @@ export default [
     path: "line/TableGrid",
     tags: ["LineTableGrid", "cells", "table", "grid"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TaggedChat",
@@ -8095,7 +7118,6 @@ export default [
       "leave chat",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TargetMetric",
@@ -8103,7 +7125,6 @@ export default [
     path: "line/TargetMetric",
     tags: ["LineTargetMetric", "target graph"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TextAlignCenter",
@@ -8118,7 +7139,6 @@ export default [
       "centre align",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TextAlignJustify",
@@ -8134,7 +7154,6 @@ export default [
       "justify",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TextAlignLeft",
@@ -8151,7 +7170,6 @@ export default [
       "lines",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TextAlignRight",
@@ -8166,7 +7184,6 @@ export default [
       "right align",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TextArea",
@@ -8174,7 +7191,6 @@ export default [
     path: "line/TextArea",
     tags: ["LineTextArea", "Text", "Name", "Title", "Font"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TextHeight",
@@ -8182,7 +7198,6 @@ export default [
     path: "line/TextHeight",
     tags: ["LineTextHeight", "text", "format", "font size", "height"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TextHeightOne",
@@ -8190,7 +7205,6 @@ export default [
     path: "line/TextHeightOne",
     tags: ["LineTextHeightOne", "H", "text format", "height"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TextHeightTwo",
@@ -8198,7 +7212,6 @@ export default [
     path: "line/TextHeightTwo",
     tags: ["LineTextHeightTwo", "H", "text format", "height"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TickMacro",
@@ -8213,7 +7226,6 @@ export default [
       "approved",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TiktokDiscover",
@@ -8221,7 +7233,6 @@ export default [
     path: "line/TiktokDiscover",
     tags: ["LineTiktokDiscover", "tiktok"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TiktokInbox",
@@ -8229,7 +7240,6 @@ export default [
     path: "line/TiktokInbox",
     tags: ["LineTiktokInbox", "tiktok"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TiktokMe",
@@ -8237,7 +7247,6 @@ export default [
     path: "line/TiktokMe",
     tags: ["LineTiktokMe", "tiktok"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Timezone",
@@ -8245,7 +7254,6 @@ export default [
     path: "line/Timezone",
     tags: ["LineTimezone", "global"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TitleCase",
@@ -8253,7 +7261,6 @@ export default [
     path: "line/TitleCase",
     tags: ["LineTitleCase", "case", "text", "format", "alphabet", "letter"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "ToneSmiley",
@@ -8261,7 +7268,6 @@ export default [
     path: "line/ToneSmiley",
     tags: ["LineToneSmiley", "face", "modify tone", "happy"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TwitterComment",
@@ -8269,7 +7275,6 @@ export default [
     path: "line/TwitterComment",
     tags: ["LineTwitterComment", "comment", "twitter"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TwitterFeature",
@@ -8277,7 +7282,6 @@ export default [
     path: "line/TwitterFeature",
     tags: ["LineTwitterFeature", "twitter"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TwitterLike",
@@ -8285,7 +7289,6 @@ export default [
     path: "line/TwitterLike",
     tags: ["LineTwitterLike", "like", "love", "twitter"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TwitterListen",
@@ -8293,7 +7296,6 @@ export default [
     path: "line/TwitterListen",
     tags: ["LineTwitterListen", "twitter"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TwitterMessage",
@@ -8301,7 +7303,6 @@ export default [
     path: "line/TwitterMessage",
     tags: ["LineTwitterMessage", "twitter", "messag"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TwitterNotification",
@@ -8309,7 +7310,6 @@ export default [
     path: "line/TwitterNotification",
     tags: ["LineTwitterNotification", "twitter"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TwitterRetweet",
@@ -8317,7 +7317,6 @@ export default [
     path: "line/TwitterRetweet",
     tags: ["LineTwitterRetweet", "share", "retweet", "twitter"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "TwitterSearch",
@@ -8325,7 +7324,6 @@ export default [
     path: "line/TwitterSearch",
     tags: ["LineTwitterSearch", "twitter"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "UnderlineText",
@@ -8333,7 +7331,6 @@ export default [
     path: "line/UnderlineText",
     tags: ["LineUnderlineText", "text formatting", "edit text", "underline"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "UnmappedArrows",
@@ -8349,7 +7346,6 @@ export default [
       "right",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Uppercase",
@@ -8357,7 +7353,6 @@ export default [
     path: "line/Uppercase",
     tags: ["LineUppercase", "case", "text", "format", "alphabet", "letter"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "UpperFirst",
@@ -8365,7 +7360,6 @@ export default [
     path: "line/UpperFirst",
     tags: ["LineUpperFirst", "case", "text", "format", "alphabet", "letter"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "UserSuggestion",
@@ -8373,7 +7367,6 @@ export default [
     path: "line/UserSuggestion",
     tags: ["LineUserSuggestion", "Opinion", "Suggest", "Advice", "Customer"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Visualization",
@@ -8381,7 +7374,6 @@ export default [
     path: "line/Visualization",
     tags: ["LineVisualization"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "VisualRegion",
@@ -8389,7 +7381,6 @@ export default [
     path: "line/VisualRegion",
     tags: ["LineVisualRegion", "focus", "target", "central"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "VizArea",
@@ -8397,7 +7388,6 @@ export default [
     path: "line/VizArea",
     tags: ["LineVizArea", "Visualisation"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "VizAreaSpline",
@@ -8405,7 +7395,6 @@ export default [
     path: "line/VizAreaSpline",
     tags: ["LineVizAreaSpline", "Visualisation"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "VizBar",
@@ -8413,7 +7402,6 @@ export default [
     path: "line/VizBar",
     tags: ["LineVizBar", "Visualisation"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "VizBubble",
@@ -8421,7 +7409,6 @@ export default [
     path: "line/VizBubble",
     tags: ["LineVizBubble", "Visualisation"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "VizColumn",
@@ -8429,7 +7416,6 @@ export default [
     path: "line/VizColumn",
     tags: ["LineVizColumn", "Visualisation"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "VizCombination",
@@ -8437,7 +7423,6 @@ export default [
     path: "line/VizCombination",
     tags: ["LineVizCombination", "Visualisation"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "VizDualAxis",
@@ -8445,7 +7430,6 @@ export default [
     path: "line/VizDualAxis",
     tags: ["LineVizDualAxis", "Visualisation"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "VizFunnel",
@@ -8453,7 +7437,6 @@ export default [
     path: "line/VizFunnel",
     tags: ["LineVizFunnel", "Visualisation"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "VizHcTreeMap",
@@ -8461,7 +7444,6 @@ export default [
     path: "line/VizHcTreeMap",
     tags: ["LineVizHcTreeMap", "Visualisation"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "VizLines",
@@ -8469,7 +7451,6 @@ export default [
     path: "line/VizLines",
     tags: ["LineVizLines", "Visualisation"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "VizPie",
@@ -8477,7 +7458,6 @@ export default [
     path: "line/VizPie",
     tags: ["LineVizPie", "Visualisation"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "VizPost",
@@ -8485,7 +7465,6 @@ export default [
     path: "line/VizPost",
     tags: ["LineVizPost", "Visualisation"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "VizSpline",
@@ -8493,7 +7472,6 @@ export default [
     path: "line/VizSpline",
     tags: ["LineVizSpline", "Visualisation"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "VizStackedBar",
@@ -8501,7 +7479,6 @@ export default [
     path: "line/VizStackedBar",
     tags: ["LineVizStackedBar", "Visualisation"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "VizStackedColumn",
@@ -8509,7 +7486,6 @@ export default [
     path: "line/VizStackedColumn",
     tags: ["LineVizStackedColumn", "Visualisation"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "VizTable",
@@ -8517,7 +7493,6 @@ export default [
     path: "line/VizTable",
     tags: ["LineVizTable", "Visualisation"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "VizWordCloud",
@@ -8525,7 +7500,6 @@ export default [
     path: "line/VizWordCloud",
     tags: ["LineVizWordCloud", "Visualisation"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Voicemail",
@@ -8533,7 +7507,6 @@ export default [
     path: "line/Voicemail",
     tags: ["LineVoicemail", "recording", "voice", "tape"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Website",
@@ -8541,7 +7514,6 @@ export default [
     path: "line/Website",
     tags: ["LineWebsite", "digital platform", "screen tab"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "YoutubeCreate",
@@ -8549,7 +7521,6 @@ export default [
     path: "line/YoutubeCreate",
     tags: ["LineYoutubeCreate", "youtube"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "YoutubeDislike",
@@ -8557,7 +7528,6 @@ export default [
     path: "line/YoutubeDislike",
     tags: ["LineYoutubeDislike", "Youtube", "Dislike"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "YoutubeDownload",
@@ -8565,7 +7535,6 @@ export default [
     path: "line/YoutubeDownload",
     tags: ["LineYoutubeDownload", "Youtube", "download"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "YoutubeLike",
@@ -8573,7 +7542,6 @@ export default [
     path: "line/YoutubeLike",
     tags: ["LineYoutubeLike", "Youtube", "Like"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "YoutubeSave",
@@ -8581,7 +7549,6 @@ export default [
     path: "line/YoutubeSave",
     tags: ["LineYoutubeSave", "Youtube", "Save"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "YoutubeShare",
@@ -8589,7 +7556,6 @@ export default [
     path: "line/YoutubeShare",
     tags: ["LineYoutubeShare", "Youtube", "Share"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "YoutubeShorts",
@@ -8597,7 +7563,6 @@ export default [
     path: "line/YoutubeShorts",
     tags: ["LineYoutubeShorts", "youtube"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "YoutubeSubscription",
@@ -8605,7 +7570,6 @@ export default [
     path: "line/YoutubeSubscription",
     tags: ["LineYoutubeSubscription", "youtube"],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "ZoomIn",
@@ -8620,7 +7584,6 @@ export default [
       "magnifying glass",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "ZoomOut",
@@ -8635,7 +7598,6 @@ export default [
       "magnifying glass",
     ],
     category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
   },
   {
     name: "Activity",
@@ -8643,7 +7605,6 @@ export default [
     path: "placeholder/Activity",
     tags: ["PlaceholderActivity"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AdsCreativeManagerClr",
@@ -8657,7 +7618,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AdsCreativeManager",
@@ -8665,7 +7625,6 @@ export default [
     path: "placeholder/AdsCreativeManager",
     tags: ["PlaceholderAdsCreativeManager", "ads", "modern ads", "launchpad"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AdsInsightAnalystClr",
@@ -8679,7 +7638,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AdsInsightAnalyst",
@@ -8687,7 +7645,6 @@ export default [
     path: "placeholder/AdsInsightAnalyst",
     tags: ["PlaceholderAdsInsightAnalyst", "ads", "modern ads", "launchpad"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AdsMediaManagerClr",
@@ -8701,7 +7658,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AdsMediaManager",
@@ -8709,7 +7665,6 @@ export default [
     path: "placeholder/AdsMediaManager",
     tags: ["PlaceholderAdsMediaManager", "ads", "modern ads", "launchpad"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AdsReporting",
@@ -8722,7 +7677,6 @@ export default [
       "modern ads",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AdvanceInsightsClr",
@@ -8735,7 +7689,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AdvanceInsights",
@@ -8748,7 +7701,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AlertClr",
@@ -8756,7 +7708,6 @@ export default [
     path: "placeholder/AlertClr",
     tags: ["PlaceholderAlertClr", "caution", "exclamation", "aware", "notify"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "Approval",
@@ -8764,7 +7715,6 @@ export default [
     path: "placeholder/Approval",
     tags: ["PlaceholderApproval", "illustration", "creative approval"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ApproverClr",
@@ -8777,7 +7727,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "Approver",
@@ -8785,7 +7734,6 @@ export default [
     path: "placeholder/Approver",
     tags: ["PlaceholderApprover", "modern marketing", "marketing", "launchpad"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AreaClr",
@@ -8793,7 +7741,6 @@ export default [
     path: "placeholder/AreaClr",
     tags: ["PlaceholderAreaClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AreaEmptyClr",
@@ -8801,7 +7748,6 @@ export default [
     path: "placeholder/AreaEmptyClr",
     tags: ["PlaceholderAreaEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AreaErrorClr",
@@ -8809,7 +7755,6 @@ export default [
     path: "placeholder/AreaErrorClr",
     tags: ["PlaceholderAreaErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AreaLoadingClr",
@@ -8817,7 +7762,6 @@ export default [
     path: "placeholder/AreaLoadingClr",
     tags: ["PlaceholderAreaLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AreaPercentageClr",
@@ -8825,7 +7769,6 @@ export default [
     path: "placeholder/AreaPercentageClr",
     tags: ["PlaceholderAreaPercentageClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AreaPercentageSelectedClr",
@@ -8833,7 +7776,6 @@ export default [
     path: "placeholder/AreaPercentageSelectedClr",
     tags: ["PlaceholderAreaPercentageSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AreaPreviewClr",
@@ -8841,7 +7783,6 @@ export default [
     path: "placeholder/AreaPreviewClr",
     tags: ["PlaceholderAreaPreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AreaSelectedClr",
@@ -8849,7 +7790,6 @@ export default [
     path: "placeholder/AreaSelectedClr",
     tags: ["PlaceholderAreaSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AreaSplineClr",
@@ -8857,7 +7797,6 @@ export default [
     path: "placeholder/AreaSplineClr",
     tags: ["PlaceholderAreaSplineClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AreaSplineEmptyClr",
@@ -8865,7 +7804,6 @@ export default [
     path: "placeholder/AreaSplineEmptyClr",
     tags: ["PlaceholderAreaSplineEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AreaSplineErrorClr",
@@ -8873,7 +7811,6 @@ export default [
     path: "placeholder/AreaSplineErrorClr",
     tags: ["PlaceholderAreaSplineErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AreaSplineLoadingClr",
@@ -8881,7 +7818,6 @@ export default [
     path: "placeholder/AreaSplineLoadingClr",
     tags: ["PlaceholderAreaSplineLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AreaSplinePreviewClr",
@@ -8889,7 +7825,6 @@ export default [
     path: "placeholder/AreaSplinePreviewClr",
     tags: ["PlaceholderAreaSplinePreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AreaSplineSelectedClr",
@@ -8897,7 +7832,6 @@ export default [
     path: "placeholder/AreaSplineSelectedClr",
     tags: ["PlaceholderAreaSplineSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AudienceStreamClr",
@@ -8905,7 +7839,6 @@ export default [
     path: "placeholder/AudienceStreamClr",
     tags: ["PlaceholderAudienceStreamClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AudienceStreamPreviewClr",
@@ -8913,7 +7846,6 @@ export default [
     path: "placeholder/AudienceStreamPreviewClr",
     tags: ["PlaceholderAudienceStreamPreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "AudienceStreamSelectedClr",
@@ -8921,7 +7853,6 @@ export default [
     path: "placeholder/AudienceStreamSelectedClr",
     tags: ["PlaceholderAudienceStreamSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "BarClr",
@@ -8929,7 +7860,6 @@ export default [
     path: "placeholder/BarClr",
     tags: ["PlaceholderBarClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "BarEmptyClr",
@@ -8937,7 +7867,6 @@ export default [
     path: "placeholder/BarEmptyClr",
     tags: ["PlaceholderBarEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "BarErrorClr",
@@ -8945,7 +7874,6 @@ export default [
     path: "placeholder/BarErrorClr",
     tags: ["PlaceholderBarErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "BarLoadingClr",
@@ -8953,7 +7881,6 @@ export default [
     path: "placeholder/BarLoadingClr",
     tags: ["PlaceholderBarLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "BarPreviewClr",
@@ -8961,7 +7888,6 @@ export default [
     path: "placeholder/BarPreviewClr",
     tags: ["PlaceholderBarPreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "BarSelectedClr",
@@ -8969,7 +7895,6 @@ export default [
     path: "placeholder/BarSelectedClr",
     tags: ["PlaceholderBarSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "BenchmarkingInsightsClr",
@@ -8982,7 +7907,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "BenchmarkingInsights",
@@ -8995,7 +7919,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "Browser",
@@ -9009,7 +7932,6 @@ export default [
       "not working",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "BubbleClr",
@@ -9017,7 +7939,6 @@ export default [
     path: "placeholder/BubbleClr",
     tags: ["PlaceholderBubbleClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "BubbleEmptyClr",
@@ -9025,7 +7946,6 @@ export default [
     path: "placeholder/BubbleEmptyClr",
     tags: ["PlaceholderBubbleEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "BubbleErrorClr",
@@ -9033,7 +7953,6 @@ export default [
     path: "placeholder/BubbleErrorClr",
     tags: ["PlaceholderBubbleErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "BubbleLoadingClr",
@@ -9041,7 +7960,6 @@ export default [
     path: "placeholder/BubbleLoadingClr",
     tags: ["PlaceholderBubbleLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "BubblePreviewClr",
@@ -9049,7 +7967,6 @@ export default [
     path: "placeholder/BubblePreviewClr",
     tags: ["PlaceholderBubblePreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "BubbleSelectedClr",
@@ -9057,7 +7974,6 @@ export default [
     path: "placeholder/BubbleSelectedClr",
     tags: ["PlaceholderBubbleSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CampaignAnalysisClr",
@@ -9070,7 +7986,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CampaignAnalysis",
@@ -9083,7 +7998,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CampaignMarketerClr",
@@ -9096,7 +8010,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CampaignMarketer",
@@ -9109,7 +8022,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CareAgentPersonaClr",
@@ -9123,7 +8035,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CareAgentPersona",
@@ -9131,7 +8042,6 @@ export default [
     path: "placeholder/CareAgentPersona",
     tags: ["PlaceholderCareAgentPersona", "care", "launchpad", "agent persona"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ChordClr",
@@ -9139,7 +8049,6 @@ export default [
     path: "placeholder/ChordClr",
     tags: ["PlaceholderChordClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ChordOverviewPreviewClr",
@@ -9147,7 +8056,6 @@ export default [
     path: "placeholder/ChordOverviewPreviewClr",
     tags: ["PlaceholderChordOverviewPreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ChordSelectedClr",
@@ -9155,7 +8063,6 @@ export default [
     path: "placeholder/ChordSelectedClr",
     tags: ["PlaceholderChordSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CloudClr",
@@ -9163,7 +8070,6 @@ export default [
     path: "placeholder/CloudClr",
     tags: ["PlaceholderCloudClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CloudSelectedClr",
@@ -9171,7 +8077,6 @@ export default [
     path: "placeholder/CloudSelectedClr",
     tags: ["PlaceholderCloudSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ColumnClr",
@@ -9179,7 +8084,6 @@ export default [
     path: "placeholder/ColumnClr",
     tags: ["PlaceholderColumnClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ColumnEmptyClr",
@@ -9187,7 +8091,6 @@ export default [
     path: "placeholder/ColumnEmptyClr",
     tags: ["PlaceholderColumnEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ColumnErrorClr",
@@ -9195,7 +8098,6 @@ export default [
     path: "placeholder/ColumnErrorClr",
     tags: ["PlaceholderColumnErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ColumnLoadingClr",
@@ -9203,7 +8105,6 @@ export default [
     path: "placeholder/ColumnLoadingClr",
     tags: ["PlaceholderColumnLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ColumnPreviewClr",
@@ -9211,7 +8112,6 @@ export default [
     path: "placeholder/ColumnPreviewClr",
     tags: ["PlaceholderColumnPreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ColumnSelectedClr",
@@ -9219,7 +8119,6 @@ export default [
     path: "placeholder/ColumnSelectedClr",
     tags: ["PlaceholderColumnSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CombinationClr",
@@ -9227,7 +8126,6 @@ export default [
     path: "placeholder/CombinationClr",
     tags: ["PlaceholderCombinationClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CombinationEmptyClr",
@@ -9235,7 +8133,6 @@ export default [
     path: "placeholder/CombinationEmptyClr",
     tags: ["PlaceholderCombinationEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CombinationErrorClr",
@@ -9243,7 +8140,6 @@ export default [
     path: "placeholder/CombinationErrorClr",
     tags: ["PlaceholderCombinationErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CombinationLoadingClr",
@@ -9251,7 +8147,6 @@ export default [
     path: "placeholder/CombinationLoadingClr",
     tags: ["PlaceholderCombinationLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CombinationPreviewClr",
@@ -9259,7 +8154,6 @@ export default [
     path: "placeholder/CombinationPreviewClr",
     tags: ["PlaceholderCombinationPreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CombinationSelectedClr",
@@ -9267,7 +8161,6 @@ export default [
     path: "placeholder/CombinationSelectedClr",
     tags: ["PlaceholderCombinationSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CommunityManagementClr",
@@ -9280,7 +8173,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CommunityManagement",
@@ -9293,7 +8185,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "Contacts",
@@ -9301,7 +8192,6 @@ export default [
     path: "placeholder/Contacts",
     tags: ["PlaceholderContacts", "illustration", "no contacts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ContentCreatorClr",
@@ -9314,7 +8204,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ContentCreator",
@@ -9327,7 +8216,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ContentManagerClr",
@@ -9340,7 +8228,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ContentManager",
@@ -9353,7 +8240,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ContentMarketing",
@@ -9366,7 +8252,6 @@ export default [
       "modern ads",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CounterClr",
@@ -9374,7 +8259,6 @@ export default [
     path: "placeholder/CounterClr",
     tags: ["PlaceholderCounterClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   // {
   //   name: "CounterLoadingClr",
@@ -9382,8 +8266,7 @@ export default [
   //   path: "placeholder/CounterLoadingClr",
   //   tags: ["PlaceholderCounterLoadingClr", "Loading state"],
   //   category: "placeholder",
-//     filePath: path.join(process.cwd(), '/data/placeholder",
-// /')// 
+//   /')// 
 //   },
   {
     name: "CounterEmptyClr",
@@ -9391,7 +8274,6 @@ export default [
     path: "placeholder/CounterEmptyClr",
     tags: ["PlaceholderCounterEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CounterErrorClr",
@@ -9399,7 +8281,6 @@ export default [
     path: "placeholder/CounterErrorClr",
     tags: ["PlaceholderCounterErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CounterPreviewClr",
@@ -9407,7 +8288,6 @@ export default [
     path: "placeholder/CounterPreviewClr",
     tags: ["PlaceholderCounterPreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CounterSelectedClr",
@@ -9415,7 +8295,6 @@ export default [
     path: "placeholder/CounterSelectedClr",
     tags: ["PlaceholderCounterSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CounterSummaryClr",
@@ -9423,7 +8302,6 @@ export default [
     path: "placeholder/CounterSummaryClr",
     tags: ["PlaceholderCounterSummaryClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CounterSummaryErrorClr",
@@ -9431,7 +8309,6 @@ export default [
     path: "placeholder/CounterSummaryErrorClr",
     tags: ["PlaceholderCounterSummaryErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CounterSummaryLoadingClr",
@@ -9439,7 +8316,6 @@ export default [
     path: "placeholder/CounterSummaryLoadingClr",
     tags: ["PlaceholderCounterSummaryLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CounterSummaryPreviewClr",
@@ -9447,7 +8323,6 @@ export default [
     path: "placeholder/CounterSummaryPreviewClr",
     tags: ["PlaceholderCounterSummaryPreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CounterSummarySelectedClr",
@@ -9455,7 +8330,6 @@ export default [
     path: "placeholder/CounterSummarySelectedClr",
     tags: ["PlaceholderCounterSummarySelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CrisisManagementHubClr",
@@ -9468,7 +8342,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "CrisisManagementHub",
@@ -9481,7 +8354,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "DataError",
@@ -9496,7 +8368,6 @@ export default [
       "Unavailable",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "DeleteMessage",
@@ -9504,7 +8375,6 @@ export default [
     path: "placeholder/DeleteMessage",
     tags: ["PlaceholderDeleteMessage", "trash", "dump", "remove"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "DocumentError",
@@ -9512,7 +8382,6 @@ export default [
     path: "placeholder/DocumentError",
     tags: ["PlaceholderDocumentError"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "DualAxisClr",
@@ -9520,7 +8389,6 @@ export default [
     path: "placeholder/DualAxisClr",
     tags: ["PlaceholderDualAxisClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "DualAxisPreviewClr",
@@ -9528,7 +8396,6 @@ export default [
     path: "placeholder/DualAxisPreviewClr",
     tags: ["PlaceholderDualAxisPreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "DualAxisSelectedClr",
@@ -9536,7 +8403,6 @@ export default [
     path: "placeholder/DualAxisSelectedClr",
     tags: ["PlaceholderDualAxisSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "EmployeeAdvocacyClr",
@@ -9549,7 +8415,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "EmployeeAdvocacy",
@@ -9562,7 +8427,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "EngagementThumbnail01",
@@ -9574,7 +8438,6 @@ export default [
       "engagement",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "EngagementThumbnail02",
@@ -9586,7 +8449,6 @@ export default [
       "engagement",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "EngagementThumbnail03",
@@ -9598,7 +8460,6 @@ export default [
       "engagement",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "EngagementThumbnail04",
@@ -9610,7 +8471,6 @@ export default [
       "engagement",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "EngagementThumbnail05",
@@ -9622,7 +8482,6 @@ export default [
       "engagement",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "EngagementThumbnail06",
@@ -9634,7 +8493,6 @@ export default [
       "engagement",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ErrorClr",
@@ -9642,7 +8500,6 @@ export default [
     path: "placeholder/ErrorClr",
     tags: ["PlaceholderErrorClr", "404", "mistake", "flaw"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "Error",
@@ -9656,7 +8513,6 @@ export default [
       "500",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "Expired",
@@ -9664,7 +8520,6 @@ export default [
     path: "placeholder/Expired",
     tags: ["PlaceholderExpired", "expired", "clock", "time up"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "FallbackAdsClr",
@@ -9678,7 +8533,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "FallbackCareClr",
@@ -9686,7 +8540,6 @@ export default [
     path: "placeholder/FallbackCareClr",
     tags: ["PlaceholderFallbackCareClr", "Modern Care", "Care", "launchpad"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "FallbackEngagementClr",
@@ -9699,7 +8552,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "FallbackMarketingClr",
@@ -9712,7 +8564,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "FallbackResearchClr",
@@ -9725,7 +8576,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "FunnelClr",
@@ -9733,7 +8583,6 @@ export default [
     path: "placeholder/FunnelClr",
     tags: ["PlaceholderFunnelClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "FunnelEmptyClr",
@@ -9741,7 +8590,6 @@ export default [
     path: "placeholder/FunnelEmptyClr",
     tags: ["PlaceholderFunnelEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "FunnelErrorClr",
@@ -9749,7 +8597,6 @@ export default [
     path: "placeholder/FunnelErrorClr",
     tags: ["PlaceholderFunnelErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "FunnelLoadingClr",
@@ -9757,7 +8604,6 @@ export default [
     path: "placeholder/FunnelLoadingClr",
     tags: ["PlaceholderFunnelLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "FunnelPreviewClr",
@@ -9765,7 +8611,6 @@ export default [
     path: "placeholder/FunnelPreviewClr",
     tags: ["PlaceholderFunnelPreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "FunnelSelectedClr",
@@ -9773,7 +8618,6 @@ export default [
     path: "placeholder/FunnelSelectedClr",
     tags: ["PlaceholderFunnelSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "GenderClr",
@@ -9781,7 +8625,6 @@ export default [
     path: "placeholder/GenderClr",
     tags: ["PlaceholderGenderClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "GenderDistributionEmptyClr",
@@ -9789,7 +8632,6 @@ export default [
     path: "placeholder/GenderDistributionEmptyClr",
     tags: ["PlaceholderGenderDistributionEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "GenderDistributionErrorClr",
@@ -9797,7 +8639,6 @@ export default [
     path: "placeholder/GenderDistributionErrorClr",
     tags: ["PlaceholderGenderDistributionErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "GenderDistributionLoadingClr",
@@ -9805,7 +8646,6 @@ export default [
     path: "placeholder/GenderDistributionLoadingClr",
     tags: ["PlaceholderGenderDistributionLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "GenderSelectedClr",
@@ -9813,7 +8653,6 @@ export default [
     path: "placeholder/GenderSelectedClr",
     tags: ["PlaceholderGenderSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "GenericError",
@@ -9821,7 +8660,6 @@ export default [
     path: "placeholder/GenericError",
     tags: ["PlaceholderGenericError", "404", "generic error"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "GeoMapClr",
@@ -9829,7 +8667,6 @@ export default [
     path: "placeholder/GeoMapClr",
     tags: ["PlaceholderGeoMapClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "GeoMapErrorClr",
@@ -9837,7 +8674,6 @@ export default [
     path: "placeholder/GeoMapErrorClr",
     tags: ["PlaceholderGeoMapErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "GeoMapLoadingClr",
@@ -9845,7 +8681,6 @@ export default [
     path: "placeholder/GeoMapLoadingClr",
     tags: ["PlaceholderGeoMapLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "GeoMapSelectedClr",
@@ -9853,7 +8688,6 @@ export default [
     path: "placeholder/GeoMapSelectedClr",
     tags: ["PlaceholderGeoMapSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "GeoSentimentDistributionPreviewClr",
@@ -9861,7 +8695,6 @@ export default [
     path: "placeholder/GeoSentimentDistributionPreviewClr",
     tags: ["PlaceholderGeoSentimentDistributionPreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "GroupedSummaryEmptyClr",
@@ -9869,7 +8702,6 @@ export default [
     path: "placeholder/GroupedSummaryEmptyClr",
     tags: ["PlaceholderGroupedSummaryEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "GroupedSummaryErrorClr",
@@ -9877,7 +8709,6 @@ export default [
     path: "placeholder/GroupedSummaryErrorClr",
     tags: ["PlaceholderGroupedSummaryErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "GroupedSummaryLoadingClr",
@@ -9885,7 +8716,6 @@ export default [
     path: "placeholder/GroupedSummaryLoadingClr",
     tags: ["PlaceholderGroupedSummaryLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "GroupedSummaryTableClr",
@@ -9893,7 +8723,6 @@ export default [
     path: "placeholder/GroupedSummaryTableClr",
     tags: ["PlaceholderGroupedSummaryTableClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "GroupedSummaryTableSelectedClr",
@@ -9901,7 +8730,6 @@ export default [
     path: "placeholder/GroupedSummaryTableSelectedClr",
     tags: ["PlaceholderGroupedSummaryTableSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "InboundAgentPersonaClr",
@@ -9915,7 +8743,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "InboundAgentPersona",
@@ -9928,7 +8755,6 @@ export default [
       "agent persona",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "LanguageClr",
@@ -9936,7 +8762,6 @@ export default [
     path: "placeholder/LanguageClr",
     tags: ["PlaceholderLanguageClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "LanguageSelectedClr",
@@ -9944,7 +8769,6 @@ export default [
     path: "placeholder/LanguageSelectedClr",
     tags: ["PlaceholderLanguageSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "LineChartClr",
@@ -9952,7 +8776,6 @@ export default [
     path: "placeholder/LineChartClr",
     tags: ["PlaceholderLineChartClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "LineEmptyClr",
@@ -9960,7 +8783,6 @@ export default [
     path: "placeholder/LineEmptyClr",
     tags: ["PlaceholderLineEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "LineErrorClr",
@@ -9968,7 +8790,6 @@ export default [
     path: "placeholder/LineErrorClr",
     tags: ["PlaceholderLineErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "LineLoadingClr",
@@ -9976,7 +8797,6 @@ export default [
     path: "placeholder/LineLoadingClr",
     tags: ["PlaceholderLineLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "LinePreviewClr",
@@ -9984,7 +8804,6 @@ export default [
     path: "placeholder/LinePreviewClr",
     tags: ["PlaceholderLinePreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "LineSelectedClr",
@@ -9992,7 +8811,6 @@ export default [
     path: "placeholder/LineSelectedClr",
     tags: ["PlaceholderLineSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "LinkClr",
@@ -10000,7 +8818,6 @@ export default [
     path: "placeholder/LinkClr",
     tags: ["PlaceholderLinkClr"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "LinkEmptyClr",
@@ -10008,7 +8825,6 @@ export default [
     path: "placeholder/LinkEmptyClr",
     tags: ["PlaceholderLinkEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "LinkErrorClr",
@@ -10016,7 +8832,6 @@ export default [
     path: "placeholder/LinkErrorClr",
     tags: ["PlaceholderLinkErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "LinkLoadingClr",
@@ -10024,7 +8839,6 @@ export default [
     path: "placeholder/LinkLoadingClr",
     tags: ["PlaceholderLinkLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "LinkSelectedClr",
@@ -10032,7 +8846,6 @@ export default [
     path: "placeholder/LinkSelectedClr",
     tags: ["PlaceholderLinkSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ListeningThumbnail01",
@@ -10044,7 +8857,6 @@ export default [
       "listening",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ListeningThumbnail02",
@@ -10056,7 +8868,6 @@ export default [
       "listening",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ListeningThumbnail03",
@@ -10068,7 +8879,6 @@ export default [
       "listening",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ListeningThumbnail04",
@@ -10080,7 +8890,6 @@ export default [
       "listening",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ListeningThumbnail05",
@@ -10092,7 +8901,6 @@ export default [
       "listening",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ListeningThumbnail06",
@@ -10104,7 +8912,6 @@ export default [
       "listening",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "LoadingClr",
@@ -10112,7 +8919,6 @@ export default [
     path: "placeholder/LoadingClr",
     tags: ["PlaceholderLoadingClr", "error", "lost"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "LocationClr",
@@ -10120,7 +8926,6 @@ export default [
     path: "placeholder/LocationClr",
     tags: ["PlaceholderLocationClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "LocationSelectedClr",
@@ -10128,7 +8933,6 @@ export default [
     path: "placeholder/LocationSelectedClr",
     tags: ["PlaceholderLocationSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "MarketingManagerClr",
@@ -10141,7 +8945,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "MarketingManager",
@@ -10154,7 +8957,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "MediaInsights",
@@ -10167,7 +8969,6 @@ export default [
       "modern research",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "MediaMonitoringAnalyticsClr",
@@ -10180,7 +8981,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "MediaMonitoringAnalytics",
@@ -10193,7 +8993,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoAccess",
@@ -10207,7 +9006,6 @@ export default [
       "no permission",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoAcessError",
@@ -10221,7 +9019,6 @@ export default [
       "403",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoActivity",
@@ -10229,7 +9026,6 @@ export default [
     path: "placeholder/NoActivity",
     tags: ["PlaceholderNoActivity", "illustration", "activity"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoAnalytics",
@@ -10243,7 +9039,6 @@ export default [
       "illustration",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoCase",
@@ -10251,7 +9046,6 @@ export default [
     path: "placeholder/NoCase",
     tags: ["PlaceholderNoCase", "illustration", "cases"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoCaseDetails",
@@ -10259,7 +9053,6 @@ export default [
     path: "placeholder/NoCaseDetails",
     tags: ["PlaceholderNoCaseDetails", "case", "ticket", "no case present"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoCases",
@@ -10267,7 +9060,6 @@ export default [
     path: "placeholder/NoCases",
     tags: ["PlaceholderNoCases", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoCluster",
@@ -10280,7 +9072,6 @@ export default [
       "conversational cluster",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoCompetitiors",
@@ -10288,7 +9079,6 @@ export default [
     path: "placeholder/NoCompetitiors",
     tags: ["PlaceholderNoCompetitiors", "illustration", "competition", "flags"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoConversations",
@@ -10296,7 +9086,6 @@ export default [
     path: "placeholder/NoConversations",
     tags: ["PlaceholderNoConversations", "illustration", "chat", "messages"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoData",
@@ -10304,7 +9093,6 @@ export default [
     path: "placeholder/NoData",
     tags: ["PlaceholderNoData", "no courses", "empty", "lost"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoEvents",
@@ -10318,7 +9106,6 @@ export default [
       "illustration",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoFavourites",
@@ -10332,7 +9119,6 @@ export default [
       "reports",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoFolders",
@@ -10347,7 +9133,6 @@ export default [
       "no category",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoImage",
@@ -10355,7 +9140,6 @@ export default [
     path: "placeholder/NoImage",
     tags: ["PlaceholderNoImage", "image", "media", "illustration picture"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoInput",
@@ -10363,7 +9147,6 @@ export default [
     path: "placeholder/NoInput",
     tags: ["PlaceholderNoInput", "input field", "illustration"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoLists",
@@ -10371,7 +9154,6 @@ export default [
     path: "placeholder/NoLists",
     tags: ["PlaceholderNoLists", "illustration", "excel", "sheets"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoMessagesClr",
@@ -10379,7 +9161,6 @@ export default [
     path: "placeholder/NoMessagesClr",
     tags: ["PlaceholderNoMessagesClr"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoMessages",
@@ -10394,7 +9175,6 @@ export default [
       "illustration",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoNotes",
@@ -10402,7 +9182,6 @@ export default [
     path: "placeholder/NoNotes",
     tags: ["PlaceholderNoNotes", "notes", "Illustration"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoNotification",
@@ -10410,7 +9189,6 @@ export default [
     path: "placeholder/NoNotification",
     tags: ["PlaceholderNoNotification", "illustration", "notify", "bell"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoPosts",
@@ -10418,7 +9196,6 @@ export default [
     path: "placeholder/NoPosts",
     tags: ["PlaceholderNoPosts", "illustration", "social", "dialogue"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoProduct",
@@ -10426,7 +9203,6 @@ export default [
     path: "placeholder/NoProduct",
     tags: ["PlaceholderNoProduct", "no products found", "no assets"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoProperties",
@@ -10441,7 +9217,6 @@ export default [
       "list",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoRankings",
@@ -10449,7 +9224,6 @@ export default [
     path: "placeholder/NoRankings",
     tags: ["PlaceholderNoRankings", "illustration", "star", "award"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoRecomendations",
@@ -10457,7 +9231,6 @@ export default [
     path: "placeholder/NoRecomendations",
     tags: ["PlaceholderNoRecomendations", "illustration"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoRecommendations",
@@ -10470,7 +9243,6 @@ export default [
       "illustration",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoReports",
@@ -10478,7 +9250,6 @@ export default [
     path: "placeholder/NoReports",
     tags: ["PlaceholderNoReports", "illustration", "report", "data"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoSearches",
@@ -10486,7 +9257,6 @@ export default [
     path: "placeholder/NoSearches",
     tags: ["PlaceholderNoSearches", "illustration", "search", "find"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoStories",
@@ -10494,7 +9264,6 @@ export default [
     path: "placeholder/NoStories",
     tags: ["PlaceholderNoStories", "illustration", "news feed"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoTasks",
@@ -10502,7 +9271,6 @@ export default [
     path: "placeholder/NoTasks",
     tags: ["PlaceholderNoTasks", "illustration", "tasks"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoTemplates",
@@ -10510,7 +9278,6 @@ export default [
     path: "placeholder/NoTemplates",
     tags: ["PlaceholderNoTemplates", "template", "illustration"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoThemes",
@@ -10518,7 +9285,6 @@ export default [
     path: "placeholder/NoThemes",
     tags: ["PlaceholderNoThemes", "theme", "wheel", "chart"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoTickets",
@@ -10532,7 +9298,6 @@ export default [
       "ticket",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoTopic",
@@ -10540,7 +9305,6 @@ export default [
     path: "placeholder/NoTopic",
     tags: ["PlaceholderNoTopic", "topic", "listening", "research"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NoUsers",
@@ -10548,7 +9312,6 @@ export default [
     path: "placeholder/NoUsers",
     tags: ["PlaceholderNoUsers", "subscriber", "person", "profile"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "NullWidgetClr",
@@ -10556,7 +9319,6 @@ export default [
     path: "placeholder/NullWidgetClr",
     tags: ["PlaceholderNullWidgetClr"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "OutboundAgentPersonaClr",
@@ -10570,7 +9332,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "OutboundAgentPersona",
@@ -10583,7 +9344,6 @@ export default [
       "agent persona",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PacingProgressViewEmptyClr",
@@ -10591,7 +9351,6 @@ export default [
     path: "placeholder/PacingProgressViewEmptyClr",
     tags: ["PlaceholderPacingProgressViewEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PacingProgressViewErrorClr",
@@ -10599,7 +9358,6 @@ export default [
     path: "placeholder/PacingProgressViewErrorClr",
     tags: ["PlaceholderPacingProgressViewErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PacingProgressViewLoadingClr",
@@ -10607,7 +9365,6 @@ export default [
     path: "placeholder/PacingProgressViewLoadingClr",
     tags: ["PlaceholderPacingProgressViewLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PageNotFound",
@@ -10621,7 +9378,6 @@ export default [
       "404",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PercentageAreaPreviewClr",
@@ -10629,7 +9385,6 @@ export default [
     path: "placeholder/PercentageAreaPreviewClr",
     tags: ["PlaceholderPercentageAreaPreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PieClr",
@@ -10637,7 +9392,6 @@ export default [
     path: "placeholder/PieClr",
     tags: ["PlaceholderPieClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PieEmptyClr",
@@ -10645,7 +9399,6 @@ export default [
     path: "placeholder/PieEmptyClr",
     tags: ["PlaceholderPieEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PieErrorClr",
@@ -10653,7 +9406,6 @@ export default [
     path: "placeholder/PieErrorClr",
     tags: ["PlaceholderPieErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PieLoadingClr",
@@ -10661,7 +9413,6 @@ export default [
     path: "placeholder/PieLoadingClr",
     tags: ["PlaceholderPieLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PiePreviewClr",
@@ -10669,7 +9420,6 @@ export default [
     path: "placeholder/PiePreviewClr",
     tags: ["PlaceholderPiePreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PieSelectedClr",
@@ -10677,7 +9427,6 @@ export default [
     path: "placeholder/PieSelectedClr",
     tags: ["PlaceholderPieSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PivotTableEmptyClr",
@@ -10685,7 +9434,6 @@ export default [
     path: "placeholder/PivotTableEmptyClr",
     tags: ["PlaceholderPivotTableEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PivotTableErrorClr",
@@ -10693,7 +9441,6 @@ export default [
     path: "placeholder/PivotTableErrorClr",
     tags: ["PlaceholderPivotTableErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PivotTableLoadingClr",
@@ -10701,7 +9448,6 @@ export default [
     path: "placeholder/PivotTableLoadingClr",
     tags: ["PlaceholderPivotTableLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PostcardClr",
@@ -10709,7 +9455,6 @@ export default [
     path: "placeholder/PostcardClr",
     tags: ["PlaceholderPostcardClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PostCardEmptyClr",
@@ -10717,7 +9462,6 @@ export default [
     path: "placeholder/PostCardEmptyClr",
     tags: ["PlaceholderPostCardEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PostCardLoadingClr",
@@ -10725,7 +9469,6 @@ export default [
     path: "placeholder/PostCardLoadingClr",
     tags: ["PlaceholderPostCardLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PostCardPreviewClr",
@@ -10733,7 +9476,6 @@ export default [
     path: "placeholder/PostCardPreviewClr",
     tags: ["PlaceholderPostCardPreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PostCardSelectedClr",
@@ -10741,7 +9483,6 @@ export default [
     path: "placeholder/PostCardSelectedClr",
     tags: ["PlaceholderPostCardSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "PostCarErrorClr",
@@ -10749,7 +9490,6 @@ export default [
     path: "placeholder/PostCarErrorClr",
     tags: ["PlaceholderPostCarErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ProfileBasedListening",
@@ -10762,7 +9502,6 @@ export default [
       "profile",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "Puzzle",
@@ -10770,7 +9509,6 @@ export default [
     path: "placeholder/Puzzle",
     tags: ["PlaceholderPuzzle", "illustration", "support system"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "QuadrantMatrixPreviewClr",
@@ -10778,7 +9516,6 @@ export default [
     path: "placeholder/QuadrantMatrixPreviewClr",
     tags: ["PlaceholderQuadrantMatrixPreviewClr", "preview", "quadrant matrix"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "QualityManagerClr",
@@ -10786,7 +9523,6 @@ export default [
     path: "placeholder/QualityManagerClr",
     tags: ["PlaceholderQualityManagerClr", "Modern Care", "Care", "launchpad"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "QualityManager",
@@ -10794,7 +9530,6 @@ export default [
     path: "placeholder/QualityManager",
     tags: ["PlaceholderQualityManager", "care", "launchpad"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "QueryBasedListening",
@@ -10807,7 +9542,6 @@ export default [
       "query",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ReportingThumbnail01",
@@ -10819,7 +9553,6 @@ export default [
       "reporting",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ReportingThumbnail02",
@@ -10831,7 +9564,6 @@ export default [
       "reporting",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ReportingThumbnail03",
@@ -10843,7 +9575,6 @@ export default [
       "reporting",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ReportingThumbnail04",
@@ -10855,7 +9586,6 @@ export default [
       "reporting",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ReportingThumbnail05",
@@ -10867,7 +9597,6 @@ export default [
       "reporting",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ReportingThumbnail06",
@@ -10879,7 +9608,6 @@ export default [
       "reporting",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "RequesterClr",
@@ -10892,7 +9620,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "Requester",
@@ -10905,7 +9632,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ResearchThumbnail01",
@@ -10917,7 +9643,6 @@ export default [
       "research",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ResearchThumbnail02",
@@ -10929,7 +9654,6 @@ export default [
       "research",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ResearchThumbnail03",
@@ -10941,7 +9665,6 @@ export default [
       "research",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ResearchThumbnail04",
@@ -10953,7 +9676,6 @@ export default [
       "research",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ResearchThumbnail05",
@@ -10965,7 +9687,6 @@ export default [
       "research",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "ResearchThumbnail06",
@@ -10977,7 +9698,6 @@ export default [
       "research",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "RuleEngine",
@@ -10985,7 +9705,6 @@ export default [
     path: "placeholder/RuleEngine",
     tags: ["PlaceholderRuleEngine", "illustration", "rules"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SentimentDistributionPreviewClr",
@@ -10993,7 +9712,6 @@ export default [
     path: "placeholder/SentimentDistributionPreviewClr",
     tags: ["PlaceholderSentimentDistributionPreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SmartAlertClr",
@@ -11007,7 +9725,6 @@ export default [
       "alert configuration",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SmartClusterClr",
@@ -11021,7 +9738,6 @@ export default [
       "reporting",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SmartClusterEmptyClr",
@@ -11029,7 +9745,6 @@ export default [
     path: "placeholder/SmartClusterEmptyClr",
     tags: ["PlaceholderSmartClusterEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SmartClusterLoadingClr",
@@ -11037,7 +9752,6 @@ export default [
     path: "placeholder/SmartClusterLoadingClr",
     tags: ["PlaceholderSmartClusterLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SocialAdvertising",
@@ -11050,7 +9764,6 @@ export default [
       "modern ads",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SocialPerformanceAnalyticsClr",
@@ -11063,7 +9776,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SocialPerformanceAnalytics",
@@ -11076,7 +9788,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SocialPlanningPublishingClr",
@@ -11089,7 +9800,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SocialPlanningPublishing",
@@ -11102,7 +9812,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SplineClr",
@@ -11110,7 +9819,6 @@ export default [
     path: "placeholder/SplineClr",
     tags: ["PlaceholderSplineClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SplineEmptyClr",
@@ -11118,7 +9826,6 @@ export default [
     path: "placeholder/SplineEmptyClr",
     tags: ["PlaceholderSplineEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SplineErrorClr",
@@ -11126,7 +9833,6 @@ export default [
     path: "placeholder/SplineErrorClr",
     tags: ["PlaceholderSplineErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SplineLoadingClr",
@@ -11134,7 +9840,6 @@ export default [
     path: "placeholder/SplineLoadingClr",
     tags: ["PlaceholderSplineLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SplinePreviewClr",
@@ -11142,7 +9847,6 @@ export default [
     path: "placeholder/SplinePreviewClr",
     tags: ["PlaceholderSplinePreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SplineSelectedClr",
@@ -11150,7 +9854,6 @@ export default [
     path: "placeholder/SplineSelectedClr",
     tags: ["PlaceholderSplineSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SprinklrCircle",
@@ -11158,7 +9861,6 @@ export default [
     path: "placeholder/SprinklrCircle",
     tags: ["PlaceholderSprinklrCircle", "illustration", "sprinklr"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SprinklrSquare",
@@ -11166,7 +9868,6 @@ export default [
     path: "placeholder/SprinklrSquare",
     tags: ["PlaceholderSprinklrSquare", "sprinklr", "fallback"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "StackedBarClr",
@@ -11174,7 +9875,6 @@ export default [
     path: "placeholder/StackedBarClr",
     tags: ["PlaceholderStackedBarClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "StackedBarPreviewClr",
@@ -11182,7 +9882,6 @@ export default [
     path: "placeholder/StackedBarPreviewClr",
     tags: ["PlaceholderStackedBarPreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "StackedBarSelectedClr",
@@ -11190,7 +9889,6 @@ export default [
     path: "placeholder/StackedBarSelectedClr",
     tags: ["PlaceholderStackedBarSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "StackedColumnClr",
@@ -11198,7 +9896,6 @@ export default [
     path: "placeholder/StackedColumnClr",
     tags: ["PlaceholderStackedColumnClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "StackedColumnPreviewClr",
@@ -11206,7 +9903,6 @@ export default [
     path: "placeholder/StackedColumnPreviewClr",
     tags: ["PlaceholderStackedColumnPreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "StackedColumnSelectedClr",
@@ -11214,7 +9910,6 @@ export default [
     path: "placeholder/StackedColumnSelectedClr",
     tags: ["PlaceholderStackedColumnSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "StackedTwinClr",
@@ -11222,7 +9917,6 @@ export default [
     path: "placeholder/StackedTwinClr",
     tags: ["PlaceholderStackedTwinClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "StackedTwinSelectedClr",
@@ -11230,7 +9924,6 @@ export default [
     path: "placeholder/StackedTwinSelectedClr",
     tags: ["PlaceholderStackedTwinSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "StreamClr",
@@ -11238,7 +9931,6 @@ export default [
     path: "placeholder/StreamClr",
     tags: ["PlaceholderStreamClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "StreamPreviewClr",
@@ -11246,7 +9938,6 @@ export default [
     path: "placeholder/StreamPreviewClr",
     tags: ["PlaceholderStreamPreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "StreamSelectedClr",
@@ -11254,7 +9945,6 @@ export default [
     path: "placeholder/StreamSelectedClr",
     tags: ["PlaceholderStreamSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SubCampaign",
@@ -11269,7 +9959,6 @@ export default [
       "entity",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "Success",
@@ -11277,7 +9966,6 @@ export default [
     path: "placeholder/Success",
     tags: ["PlaceholderSuccess", "illustration", "new success", "win"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SummaryReportClr",
@@ -11285,7 +9973,6 @@ export default [
     path: "placeholder/SummaryReportClr",
     tags: ["PlaceholderSummaryReportClr"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SummaryTableClr",
@@ -11293,7 +9980,6 @@ export default [
     path: "placeholder/SummaryTableClr",
     tags: ["PlaceholderSummaryTableClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SummaryTableSelectedClr",
@@ -11301,7 +9987,6 @@ export default [
     path: "placeholder/SummaryTableSelectedClr",
     tags: ["PlaceholderSummaryTableSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SupervisorCareClr",
@@ -11315,7 +10000,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SupervisorCare",
@@ -11323,7 +10007,6 @@ export default [
     path: "placeholder/SupervisorCare",
     tags: ["PlaceholderSupervisorCare", "care", "launchpad", "agent persona"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SupervisorCareInboundClr",
@@ -11337,7 +10020,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SupervisorCareInbound",
@@ -11350,7 +10032,6 @@ export default [
       "agent persona",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SupervisorCareOmniChannelClr",
@@ -11363,7 +10044,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SupervisorCareOmniChannel",
@@ -11371,7 +10051,6 @@ export default [
     path: "placeholder/SupervisorCareOmniChannel",
     tags: ["PlaceholderSupervisorCareOmniChannel", "care", "launchpad"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SupervisorCareOutboundClr",
@@ -11385,7 +10064,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SupervisorCareOutbound",
@@ -11398,7 +10076,6 @@ export default [
       "agent persona",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SupervisorCareSocialClr",
@@ -11412,7 +10089,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SupervisorCareSocial",
@@ -11425,7 +10101,6 @@ export default [
       "agent persona",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SupervisorCareVoiceClr",
@@ -11439,7 +10114,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "SupervisorCareVoice",
@@ -11452,7 +10126,6 @@ export default [
       "agent persona",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TableClr",
@@ -11460,7 +10133,6 @@ export default [
     path: "placeholder/TableClr",
     tags: ["PlaceholderTableClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "Table",
@@ -11468,7 +10140,6 @@ export default [
     path: "placeholder/Table",
     tags: ["PlaceholderTable", "empty", "content", "placeholder"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TableEmptyClr",
@@ -11476,7 +10147,6 @@ export default [
     path: "placeholder/TableEmptyClr",
     tags: ["PlaceholderTableEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TableErrorClr",
@@ -11484,7 +10154,6 @@ export default [
     path: "placeholder/TableErrorClr",
     tags: ["PlaceholderTableErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TableLoadingClr",
@@ -11492,7 +10161,6 @@ export default [
     path: "placeholder/TableLoadingClr",
     tags: ["PlaceholderTableLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TablePreviewClr",
@@ -11500,7 +10168,6 @@ export default [
     path: "placeholder/TablePreviewClr",
     tags: ["PlaceholderTablePreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TableSelectedClr",
@@ -11508,7 +10175,6 @@ export default [
     path: "placeholder/TableSelectedClr",
     tags: ["PlaceholderTableSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TaskLockedClr",
@@ -11524,7 +10190,6 @@ export default [
       "card",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TextClr",
@@ -11532,7 +10197,6 @@ export default [
     path: "placeholder/TextClr",
     tags: ["PlaceholderTextClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TextEmptyClr",
@@ -11540,7 +10204,6 @@ export default [
     path: "placeholder/TextEmptyClr",
     tags: ["PlaceholderTextEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TextErrorClr",
@@ -11548,7 +10211,6 @@ export default [
     path: "placeholder/TextErrorClr",
     tags: ["PlaceholderTextErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TextLoadingClr",
@@ -11556,7 +10218,6 @@ export default [
     path: "placeholder/TextLoadingClr",
     tags: ["PlaceholderTextLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TextSelectedClr",
@@ -11564,7 +10225,6 @@ export default [
     path: "placeholder/TextSelectedClr",
     tags: ["PlaceholderTextSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TitleClr",
@@ -11572,7 +10232,6 @@ export default [
     path: "placeholder/TitleClr",
     tags: ["PlaceholderTitleClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TitleSelectedClr",
@@ -11580,7 +10239,6 @@ export default [
     path: "placeholder/TitleSelectedClr",
     tags: ["PlaceholderTitleSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TopicClusterClr",
@@ -11588,7 +10246,6 @@ export default [
     path: "placeholder/TopicClusterClr",
     tags: ["PlaceholderTopicClusterClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TopicClusterEmptyClr",
@@ -11596,7 +10253,6 @@ export default [
     path: "placeholder/TopicClusterEmptyClr",
     tags: ["PlaceholderTopicClusterEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TopicClusterErrorClr",
@@ -11604,7 +10260,6 @@ export default [
     path: "placeholder/TopicClusterErrorClr",
     tags: ["PlaceholderTopicClusterErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TopicClusterLoadingClr",
@@ -11612,7 +10267,6 @@ export default [
     path: "placeholder/TopicClusterLoadingClr",
     tags: ["PlaceholderTopicClusterLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TopicClusterSelectedClr",
@@ -11620,7 +10274,6 @@ export default [
     path: "placeholder/TopicClusterSelectedClr",
     tags: ["PlaceholderTopicClusterSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TreeMapClr",
@@ -11628,7 +10281,6 @@ export default [
     path: "placeholder/TreeMapClr",
     tags: ["PlaceholderTreeMapClr", "charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TreeMapEmptyClr",
@@ -11636,7 +10288,6 @@ export default [
     path: "placeholder/TreeMapEmptyClr",
     tags: ["PlaceholderTreeMapEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TreeMapErrorClr",
@@ -11644,7 +10295,6 @@ export default [
     path: "placeholder/TreeMapErrorClr",
     tags: ["PlaceholderTreeMapErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TreeMapLoadingClr",
@@ -11652,7 +10302,6 @@ export default [
     path: "placeholder/TreeMapLoadingClr",
     tags: ["PlaceholderTreeMapLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TreeMapPreviewClr",
@@ -11660,7 +10309,6 @@ export default [
     path: "placeholder/TreeMapPreviewClr",
     tags: ["PlaceholderTreeMapPreviewClr", "preview"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TreeMapSelectedClr",
@@ -11668,7 +10316,6 @@ export default [
     path: "placeholder/TreeMapSelectedClr",
     tags: ["PlaceholderTreeMapSelectedClr", "selected charts"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "TriggerDominos",
@@ -11676,7 +10323,6 @@ export default [
     path: "placeholder/TriggerDominos",
     tags: ["PlaceholderTriggerDominos", "illustration", "activate", "start"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "VisualListening",
@@ -11684,7 +10330,6 @@ export default [
     path: "placeholder/VisualListening",
     tags: ["PlaceholderVisualListening", "listening", "illustration", "visual"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "VoiceAgentPersonaClr",
@@ -11698,7 +10343,6 @@ export default [
       "launchpad",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "VoiceAgentPersona",
@@ -11711,7 +10355,6 @@ export default [
       "agent persona",
     ],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "VolumetricAlertClr",
@@ -11719,7 +10362,6 @@ export default [
     path: "placeholder/VolumetricAlertClr",
     tags: ["PlaceholderVolumetricAlertClr"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "WordCloudEmptyClr",
@@ -11727,7 +10369,6 @@ export default [
     path: "placeholder/WordCloudEmptyClr",
     tags: ["PlaceholderWordCloudEmptyClr", "empty state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "WordCloudErrorClr",
@@ -11735,7 +10376,6 @@ export default [
     path: "placeholder/WordCloudErrorClr",
     tags: ["PlaceholderWordCloudErrorClr", "error state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "WordCloudLoadingClr",
@@ -11743,7 +10383,6 @@ export default [
     path: "placeholder/WordCloudLoadingClr",
     tags: ["PlaceholderWordCloudLoadingClr", "Loading state"],
     category: "placeholder",
-    filePath: path.join(process.cwd(), '/data/placeholder/')
   },
   {
     name: "Api",
@@ -11751,7 +10390,6 @@ export default [
     path: "product/Api",
     tags: ["ProductApi", "Application Programming Interface"],
     category: "product",
-    filePath: path.join(process.cwd(), '/data/product/')
   },
   {
     name: "Integrations",
@@ -11766,7 +10404,6 @@ export default [
       "Unify",
     ],
     category: "product",
-    filePath: path.join(process.cwd(), '/data/product/')
   },
   {
     name: "IntegrationsApi",
@@ -11782,7 +10419,6 @@ export default [
       "Puzzle",
     ],
     category: "product",
-    filePath: path.join(process.cwd(), '/data/product/')
   },
   {
     name: "MarketPlace",
@@ -11790,7 +10426,6 @@ export default [
     path: "product/MarketPlace",
     tags: ["ProductMarketPlace", "Shop", "Buy", "Market", "Trade", "Bag"],
     category: "product",
-    filePath: path.join(process.cwd(), '/data/product/')
   },
   {
     name: "ModCare",
@@ -11798,7 +10433,6 @@ export default [
     path: "product/ModCare",
     tags: ["ProductModCare", "modern care"],
     category: "product",
-    filePath: path.join(process.cwd(), '/data/product/')
   },
   {
     name: "ModCommerce",
@@ -11806,7 +10440,6 @@ export default [
     path: "product/ModCommerce",
     tags: ["ProductModCommerce"],
     category: "product",
-    filePath: path.join(process.cwd(), '/data/product/')
   },
   {
     name: "ModCommunity",
@@ -11814,7 +10447,6 @@ export default [
     path: "product/ModCommunity",
     tags: ["ProductModCommunity"],
     category: "product",
-    filePath: path.join(process.cwd(), '/data/product/')
   },
   {
     name: "ModResearch",
@@ -11822,7 +10454,6 @@ export default [
     path: "product/ModResearch",
     tags: ["ProductModResearch", "modern research"],
     category: "product",
-    filePath: path.join(process.cwd(), '/data/product/')
   },
   {
     name: "Product",
@@ -11830,7 +10461,6 @@ export default [
     path: "product/Product",
     tags: ["ProductProduct", "shop", "bag", "shopping", "buy", "purchase"],
     category: "product",
-    filePath: path.join(process.cwd(), '/data/product/')
   },
   {
     name: "SprinklrInsight",
@@ -11838,7 +10468,6 @@ export default [
     path: "product/SprinklrInsight",
     tags: ["ProductSprinklrInsight", "insight", "research"],
     category: "product",
-    filePath: path.join(process.cwd(), '/data/product/')
   },
   {
     name: "SprinklrInsightCircle",
@@ -11846,7 +10475,6 @@ export default [
     path: "product/SprinklrInsightCircle",
     tags: ["ProductSprinklrInsightCircle", "insight", "research"],
     category: "product",
-    filePath: path.join(process.cwd(), '/data/product/')
   },
   {
     name: "SprinklrMarketing",
@@ -11854,7 +10482,6 @@ export default [
     path: "product/SprinklrMarketing",
     tags: ["ProductSprinklrMarketing", "marketing"],
     category: "product",
-    filePath: path.join(process.cwd(), '/data/product/')
   },
   {
     name: "SprinklrMarketingCircle",
@@ -11862,7 +10489,6 @@ export default [
     path: "product/SprinklrMarketingCircle",
     tags: ["ProductSprinklrMarketingCircle", "marketing", "Advertising"],
     category: "product",
-    filePath: path.join(process.cwd(), '/data/product/')
   },
   {
     name: "SprinklrService",
@@ -11870,7 +10496,6 @@ export default [
     path: "product/SprinklrService",
     tags: ["ProductSprinklrService", "service", "care"],
     category: "product",
-    filePath: path.join(process.cwd(), '/data/product/')
   },
   {
     name: "SprinklrServiceCircle",
@@ -11878,7 +10503,6 @@ export default [
     path: "product/SprinklrServiceCircle",
     tags: ["ProductSprinklrServiceCircle", "service", "care"],
     category: "product",
-    filePath: path.join(process.cwd(), '/data/product/')
   },
   {
     name: "SprinklrSocial",
@@ -11886,7 +10510,6 @@ export default [
     path: "product/SprinklrSocial",
     tags: ["ProductSprinklrSocial", "social", "Engagement"],
     category: "product",
-    filePath: path.join(process.cwd(), '/data/product/')
   },
   {
     name: "SprinklrSocialCircle",
@@ -11894,7 +10517,6 @@ export default [
     path: "product/SprinklrSocialCircle",
     tags: ["ProductSprinklrSocialCircle", "social", "Engagement"],
     category: "product",
-    filePath: path.join(process.cwd(), '/data/product/')
   },
   {
     name: "Survey",
@@ -11902,7 +10524,6 @@ export default [
     path: "product/Survey",
     tags: ["ProductSurvey", "tasks", "notepad"],
     category: "product",
-    filePath: path.join(process.cwd(), '/data/product/')
   },
   {
     name: "AccountActivate",
@@ -11910,7 +10531,6 @@ export default [
     path: "solid/AccountActivate",
     tags: ["SolidAccountActivate", "profile", "card", "user", "active"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AccountGroup",
@@ -11918,7 +10538,6 @@ export default [
     path: "solid/AccountGroup",
     tags: ["SolidAccountGroup", "accounts", "multiple accounts"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Accounts",
@@ -11926,7 +10545,6 @@ export default [
     path: "solid/Accounts",
     tags: ["SolidAccounts", "profile", "portrait", "ID", "identification"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AccountSalesforce",
@@ -11934,7 +10552,6 @@ export default [
     path: "solid/AccountSalesforce",
     tags: ["SolidAccountSalesforce", "salesforce"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Activity",
@@ -11942,7 +10559,6 @@ export default [
     path: "solid/Activity",
     tags: ["SolidActivity", "actions", "tasks", "to do"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ActivityCircle",
@@ -11950,7 +10566,6 @@ export default [
     path: "solid/ActivityCircle",
     tags: ["SolidActivityCircle"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AdBreak",
@@ -11958,7 +10573,6 @@ export default [
     path: "solid/AdBreak",
     tags: ["SolidAdBreak", "ads", "Advertising", "break"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Add",
@@ -11966,7 +10580,6 @@ export default [
     path: "solid/Add",
     tags: ["SolidAdd", "addition", "plus", "positive"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AddAgent",
@@ -11974,7 +10587,6 @@ export default [
     path: "solid/AddAgent",
     tags: ["SolidAddAgent", "add", "agent", "user"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AddAsset",
@@ -11982,7 +10594,6 @@ export default [
     path: "solid/AddAsset",
     tags: ["SolidAddAsset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AddCircle",
@@ -11990,7 +10601,6 @@ export default [
     path: "solid/AddCircle",
     tags: ["SolidAddCircle", "addition", "plus", "positive"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AddContent",
@@ -11998,7 +10608,6 @@ export default [
     path: "solid/AddContent",
     tags: ["SolidAddContent", "content", "builder", "create", "request"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AddDocument",
@@ -12014,7 +10623,6 @@ export default [
       "page",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AddRecords",
@@ -12022,7 +10630,6 @@ export default [
     path: "solid/AddRecords",
     tags: ["SolidAddRecords", "add product variants", "multiple copy"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AddReply",
@@ -12030,7 +10637,6 @@ export default [
     path: "solid/AddReply",
     tags: ["SolidAddReply", "add", "reply", "respond"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AddToMdb",
@@ -12038,7 +10644,6 @@ export default [
     path: "solid/AddToMdb",
     tags: ["SolidAddToMdb", "Add", "column"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AddUser",
@@ -12046,7 +10651,6 @@ export default [
     path: "solid/AddUser",
     tags: ["SolidAddUser", "user", "add", "plus", "person", "additional"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Admin",
@@ -12054,7 +10658,6 @@ export default [
     path: "solid/Admin",
     tags: ["SolidAdmin", "trust user", "priority user", "administration"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Ads",
@@ -12062,7 +10665,6 @@ export default [
     path: "solid/Ads",
     tags: ["SolidAds", "advertisement", "square"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AdsComposer",
@@ -12077,7 +10679,6 @@ export default [
       "book",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AdSets",
@@ -12091,7 +10692,6 @@ export default [
       "multiple ads",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Advocacy",
@@ -12099,7 +10699,6 @@ export default [
     path: "solid/Advocacy",
     tags: ["SolidAdvocacy", "user", "person", "listen"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AfterCallWork",
@@ -12107,7 +10706,6 @@ export default [
     path: "solid/AfterCallWork",
     tags: ["SolidAfterCallWork", "call", "phone", "screen", "work"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Agent",
@@ -12115,7 +10713,6 @@ export default [
     path: "solid/Agent",
     tags: ["SolidAgent", "Agent", "Console", "Chat"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AgentAbsent",
@@ -12123,7 +10720,6 @@ export default [
     path: "solid/AgentAbsent",
     tags: ["SolidAgentAbsent", "agent", "unavailable", "absent"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AgentHandover",
@@ -12141,7 +10737,6 @@ export default [
       "move",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AgentStar",
@@ -12149,7 +10744,6 @@ export default [
     path: "solid/AgentStar",
     tags: ["SolidAgentStar", "star", "agent", "operator", "quality"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Agreement",
@@ -12157,7 +10751,6 @@ export default [
     path: "solid/Agreement",
     tags: ["SolidAgreement", "form", "SLA policy", "service level agreement"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AiChecklist",
@@ -12165,7 +10758,6 @@ export default [
     path: "solid/AiChecklist",
     tags: ["SolidAiChecklist", "ai", "checklist", "auto", "list"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Alarm",
@@ -12180,7 +10772,6 @@ export default [
       "reminder",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Album",
@@ -12188,7 +10779,6 @@ export default [
     path: "solid/Album",
     tags: ["SolidAlbum", "picture", "image", "photo", "template"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   // {
   //   name: "AlertWarning",
@@ -12196,8 +10786,7 @@ export default [
   //   path: "solid/AlertWarning",
   //   tags: ["SolidAlertWarning", "alert", "information", "data", "warning"],
   //   category: "solid",
-//     filePath: path.join(process.cwd(), '/data/solid",
-// /')// 
+//   /')// 
 //   },
   {
     name: "Alert",
@@ -12205,7 +10794,6 @@ export default [
     path: "solid/Alert",
     tags: ["SolidAlert", "alert", "error", "report", "exclamation"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AlignCenter",
@@ -12213,7 +10801,6 @@ export default [
     path: "solid/AlignCenter",
     tags: ["SolidAlignCenter", "Layout", "Object align"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AlignLeft",
@@ -12221,7 +10808,6 @@ export default [
     path: "solid/AlignLeft",
     tags: ["SolidAlignLeft", "Layout", "Object align"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AlignRight",
@@ -12229,7 +10815,6 @@ export default [
     path: "solid/AlignRight",
     tags: ["SolidAlignRight", "Layout", "Object align"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Allow",
@@ -12244,7 +10829,6 @@ export default [
       "open",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AltText",
@@ -12252,7 +10836,6 @@ export default [
     path: "solid/AltText",
     tags: ["SolidAltText", "text", "add text", "format text", "alternative"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Analytic",
@@ -12260,7 +10843,6 @@ export default [
     path: "solid/Analytic",
     tags: ["SolidAnalytic", "insights", "competitive", "smart", "analytics"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Annotation",
@@ -12268,7 +10850,6 @@ export default [
     path: "solid/Annotation",
     tags: ["SolidAnnotation", "foot notes", "message", "comment"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AnnotationBulb",
@@ -12276,7 +10857,6 @@ export default [
     path: "solid/AnnotationBulb",
     tags: ["SolidAnnotationBulb", "inspiration", "idea", "light"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Announce",
@@ -12292,7 +10872,6 @@ export default [
       "loud",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Announcement",
@@ -12306,7 +10885,6 @@ export default [
       "campaign",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Appointment",
@@ -12314,7 +10892,6 @@ export default [
     path: "solid/Appointment",
     tags: ["SolidAppointment", "scheduled appointment", "clock", "time"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AppointmentDecline",
@@ -12328,7 +10905,6 @@ export default [
       "date",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AppointmentPassed",
@@ -12341,7 +10917,6 @@ export default [
       "time passed",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AppointmentUpcoming",
@@ -12354,7 +10929,6 @@ export default [
       "time",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Approval",
@@ -12362,7 +10936,6 @@ export default [
     path: "solid/Approval",
     tags: ["SolidApproval"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ApprovedUserCircle",
@@ -12370,7 +10943,6 @@ export default [
     path: "solid/ApprovedUserCircle",
     tags: ["SolidApprovedUserCircle", "approve", "tick user", "verified user"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ApproveUser",
@@ -12378,7 +10950,6 @@ export default [
     path: "solid/ApproveUser",
     tags: ["SolidApproveUser", "assign agent", "person", "tick"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Archive",
@@ -12386,7 +10957,6 @@ export default [
     path: "solid/Archive",
     tags: ["SolidArchive", "download folder", "store cache"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ArchiveReddit",
@@ -12394,7 +10964,6 @@ export default [
     path: "solid/ArchiveReddit",
     tags: ["SolidArchiveReddit", "file", "reddit"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ArrowDownCircle",
@@ -12402,7 +10971,6 @@ export default [
     path: "solid/ArrowDownCircle",
     tags: ["SolidArrowDownCircle", "arrow", "pointer", "down"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ArrowReturned",
@@ -12418,7 +10986,6 @@ export default [
       "point",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ArrowRight",
@@ -12426,7 +10993,6 @@ export default [
     path: "solid/ArrowRight",
     tags: ["SolidArrowRight", "live chat", "send", "share", "point"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ArrowsForward",
@@ -12442,7 +11008,6 @@ export default [
       "point",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ArtificialIntelligence",
@@ -12459,7 +11024,6 @@ export default [
       "Technology",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Asset",
@@ -12467,7 +11031,6 @@ export default [
     path: "solid/Asset",
     tags: ["SolidAsset", "Asset", "Documents", "Board"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AssetCircle",
@@ -12475,7 +11038,6 @@ export default [
     path: "solid/AssetCircle",
     tags: ["SolidAssetCircle"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AssetObjectSalesforce",
@@ -12483,7 +11045,6 @@ export default [
     path: "solid/AssetObjectSalesforce",
     tags: ["SolidAssetObjectSalesforce", "salesforce"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AssignCall",
@@ -12498,7 +11059,6 @@ export default [
       "transfer call",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AssignCallCircle",
@@ -12513,7 +11073,6 @@ export default [
       "transfer call",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AssignTeam",
@@ -12521,7 +11080,6 @@ export default [
     path: "solid/AssignTeam",
     tags: ["SolidAssignTeam", "route to team", "arrow", "users"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AssignTo",
@@ -12529,7 +11087,6 @@ export default [
     path: "solid/AssignTo",
     tags: ["SolidAssignTo", "user", "arrow", "assign", "enter", "in"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Asterisk",
@@ -12537,7 +11094,6 @@ export default [
     path: "solid/Asterisk",
     tags: ["SolidAsterisk"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AttatchmentCircle",
@@ -12545,7 +11101,6 @@ export default [
     path: "solid/AttatchmentCircle",
     tags: ["SolidAttatchmentCircle", "attachment", "attach", "paper clip"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Attend",
@@ -12553,7 +11108,6 @@ export default [
     path: "solid/Attend",
     tags: ["SolidAttend", "unignore", "view", "eye", "on", "look"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Audience",
@@ -12561,7 +11115,6 @@ export default [
     path: "solid/Audience",
     tags: ["SolidAudience", "Audience", "People", "User"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Audio",
@@ -12569,7 +11122,6 @@ export default [
     path: "solid/Audio",
     tags: ["SolidAudio", "voice", "sound", "audio on", "speak"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AudioAsset",
@@ -12577,7 +11129,6 @@ export default [
     path: "solid/AudioAsset",
     tags: ["SolidAudioAsset", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "AudioWave",
@@ -12585,7 +11136,6 @@ export default [
     path: "solid/AudioWave",
     tags: ["SolidAudioWave", "audio", "voice", "wave"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Audit",
@@ -12593,7 +11143,6 @@ export default [
     path: "solid/Audit",
     tags: ["SolidAudit", "search", "find", "asses", "inspect", "examine"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Automation",
@@ -12607,7 +11156,6 @@ export default [
       "settings",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Award",
@@ -12622,7 +11170,6 @@ export default [
       "reward",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Backspace",
@@ -12630,7 +11177,6 @@ export default [
     path: "solid/Backspace",
     tags: ["SolidBackspace"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Bank",
@@ -12638,7 +11184,6 @@ export default [
     path: "solid/Bank",
     tags: ["SolidBank", "bank", "commerce", "building"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "BargeInCall",
@@ -12653,7 +11198,6 @@ export default [
       "interrupt",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "BarGraph",
@@ -12661,7 +11205,6 @@ export default [
     path: "solid/BarGraph",
     tags: ["SolidBarGraph", "performance", "analytics"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Battery",
@@ -12669,7 +11212,6 @@ export default [
     path: "solid/Battery",
     tags: ["SolidBattery", "battery", "charge", "mobile"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "BillingPlan",
@@ -12677,7 +11219,6 @@ export default [
     path: "solid/BillingPlan",
     tags: ["SolidBillingPlan", "money", "budget", "planning", "expense"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Block",
@@ -12696,7 +11237,6 @@ export default [
       "stop",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "BlockQuote",
@@ -12704,7 +11244,6 @@ export default [
     path: "solid/BlockQuote",
     tags: ["SolidBlockQuote", "quotes", "quotation", "formatting"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Bluetooth",
@@ -12712,7 +11251,6 @@ export default [
     path: "solid/Bluetooth",
     tags: ["SolidBluetooth", "bluetooth connect"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Board",
@@ -12720,7 +11258,6 @@ export default [
     path: "solid/Board",
     tags: ["SolidBoard", "picture", "image", "photo", "template", "pinterest"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "BoardsClr",
@@ -12728,7 +11265,6 @@ export default [
     path: "solid/BoardsClr",
     tags: ["SolidBoardsClr", "board", "asset", "folder"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Bookmark",
@@ -12736,7 +11272,6 @@ export default [
     path: "solid/Bookmark",
     tags: ["SolidBookmark", "mark", "save", "important", "tag"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Bot",
@@ -12744,7 +11279,6 @@ export default [
     path: "solid/Bot",
     tags: ["SolidBot", "ai", "smart"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "BottomAlign",
@@ -12752,7 +11286,6 @@ export default [
     path: "solid/BottomAlign",
     tags: ["SolidBottomAlign", "align", "arrow", "bottom line", "push"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Brand",
@@ -12760,7 +11293,6 @@ export default [
     path: "solid/Brand",
     tags: ["SolidBrand", "Brand", "Company"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "BrandGroup",
@@ -12768,7 +11300,6 @@ export default [
     path: "solid/BrandGroup",
     tags: ["SolidBrandGroup", "brand", "shield", "multiple brands"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Brief",
@@ -12776,7 +11307,6 @@ export default [
     path: "solid/Brief",
     tags: ["SolidBrief", "Brief", "Builder"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Briefcase",
@@ -12794,7 +11324,6 @@ export default [
       "company",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Browser",
@@ -12810,7 +11339,6 @@ export default [
       "domain",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Bubble",
@@ -12818,7 +11346,6 @@ export default [
     path: "solid/Bubble",
     tags: ["SolidBubble", "chart", "cluster"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Budget",
@@ -12826,7 +11353,6 @@ export default [
     path: "solid/Budget",
     tags: ["SolidBudget", "Budget", "Money", "budgeting"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Bulb",
@@ -12834,7 +11360,6 @@ export default [
     path: "solid/Bulb",
     tags: ["SolidBulb", "light bulb"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "BusinessLocation",
@@ -12842,7 +11367,6 @@ export default [
     path: "solid/BusinessLocation",
     tags: ["SolidBusinessLocation", "dollar sign", "money", "location"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CalendarDateRange",
@@ -12858,7 +11382,6 @@ export default [
       "date range",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Calender",
@@ -12866,7 +11389,6 @@ export default [
     path: "solid/Calender",
     tags: ["SolidCalender", "planner", "dates", "schedule"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CalenderTick",
@@ -12881,7 +11403,6 @@ export default [
       "date",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Call",
@@ -12889,7 +11410,6 @@ export default [
     path: "solid/Call",
     tags: ["SolidCall", "phone", "telephone", "voice"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Callback",
@@ -12903,7 +11423,6 @@ export default [
       "phone",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CallCircle",
@@ -12911,7 +11430,6 @@ export default [
     path: "solid/CallCircle",
     tags: ["SolidCallCircle", "call", "phone", "contact", "csm activity"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CallConnect",
@@ -12919,7 +11437,6 @@ export default [
     path: "solid/CallConnect",
     tags: ["SolidCallConnect", "phone", "connect", "redial", "rechurn"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CallDeflect",
@@ -12927,7 +11444,6 @@ export default [
     path: "solid/CallDeflect",
     tags: ["SolidCallDeflect", "miss", "transfer", "forward call"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CallLogs",
@@ -12935,7 +11451,6 @@ export default [
     path: "solid/CallLogs",
     tags: ["SolidCallLogs", "phone", "incoming", "outgoing", "logs"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CallReporting",
@@ -12951,7 +11466,6 @@ export default [
       "reporting",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CallSpeak",
@@ -12959,7 +11473,6 @@ export default [
     path: "solid/CallSpeak",
     tags: ["SolidCallSpeak", "call", "phone", "speak"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CallStatus",
@@ -12973,7 +11486,6 @@ export default [
       "phone",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Camera",
@@ -12981,7 +11493,6 @@ export default [
     path: "solid/Camera",
     tags: ["SolidCamera", "Photo", "Photography", "Lens"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CameraSwitch",
@@ -12989,7 +11500,6 @@ export default [
     path: "solid/CameraSwitch",
     tags: ["SolidCameraSwitch", "front camera", "back camera", "change"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Campaign",
@@ -12997,7 +11507,6 @@ export default [
     path: "solid/Campaign",
     tags: ["SolidCampaign", "Campaign", "Reach", "Brand"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CampaignCircle",
@@ -13005,7 +11514,6 @@ export default [
     path: "solid/CampaignCircle",
     tags: ["SolidCampaignCircle", "campaign", "mic", "advertising"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CampaignSalesforce",
@@ -13013,7 +11521,6 @@ export default [
     path: "solid/CampaignSalesforce",
     tags: ["SolidCampaignSalesforce", "salesforce"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CampaignSchedule",
@@ -13021,7 +11528,6 @@ export default [
     path: "solid/CampaignSchedule",
     tags: ["SolidCampaignSchedule", "mic", "campaign", "schedule", "calender"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CampaignView",
@@ -13036,7 +11542,6 @@ export default [
       "eye",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CanvasAsset",
@@ -13044,7 +11549,6 @@ export default [
     path: "solid/CanvasAsset",
     tags: ["SolidCanvasAsset", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CanvasAssetAlert",
@@ -13052,7 +11556,6 @@ export default [
     path: "solid/CanvasAssetAlert",
     tags: ["SolidCanvasAssetAlert", "canvas", "asset", "alert", "notification"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CaptionAsset",
@@ -13060,7 +11563,6 @@ export default [
     path: "solid/CaptionAsset",
     tags: ["SolidCaptionAsset", "asset", "captions", "carbon copy", "cc"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CarbonCopy",
@@ -13068,7 +11570,6 @@ export default [
     path: "solid/CarbonCopy",
     tags: ["SolidCarbonCopy", "cc", "copy to", "courtesy copy"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CardView",
@@ -13076,7 +11577,6 @@ export default [
     path: "solid/CardView",
     tags: ["SolidCardView", "card", "content", "view", "layout"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CardViewAlertClr",
@@ -13091,7 +11591,6 @@ export default [
       "notification",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Care",
@@ -13099,7 +11598,6 @@ export default [
     path: "solid/Care",
     tags: ["SolidCare", "hand", "heart", "love", "customer"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Carousel",
@@ -13116,7 +11614,6 @@ export default [
       "instagram",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Cart",
@@ -13124,7 +11621,6 @@ export default [
     path: "solid/Cart",
     tags: ["SolidCart", "shopping", "commerce", "buy", "purchase"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CartMoney",
@@ -13141,7 +11637,6 @@ export default [
       "cash",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Case",
@@ -13149,7 +11644,6 @@ export default [
     path: "solid/Case",
     tags: ["SolidCase", "Case", "Issue", "Crisis"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CaseCreationTime",
@@ -13157,7 +11651,6 @@ export default [
     path: "solid/CaseCreationTime",
     tags: ["SolidCaseCreationTime", "add time", "create time", "clock"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CaseSalesforce",
@@ -13165,7 +11658,6 @@ export default [
     path: "solid/CaseSalesforce",
     tags: ["SolidCaseSalesforce", "salesforce"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CaseSummary",
@@ -13173,7 +11665,6 @@ export default [
     path: "solid/CaseSummary",
     tags: ["SolidCaseSummary", "Ai", "wand", "summary"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Catalogue",
@@ -13190,7 +11681,6 @@ export default [
       "directory",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CenterAlign",
@@ -13198,7 +11688,6 @@ export default [
     path: "solid/CenterAlign",
     tags: ["SolidCenterAlign", "align", "arrow", "centre line", "push"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ChannelsSocial",
@@ -13206,7 +11695,6 @@ export default [
     path: "solid/ChannelsSocial",
     tags: ["SolidChannelsSocial", "social channels", "love", "heart", "like"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ChartSearch",
@@ -13221,7 +11709,6 @@ export default [
       "graph",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ChatBubble",
@@ -13229,7 +11716,6 @@ export default [
     path: "solid/ChatBubble",
     tags: ["SolidChatBubble", "Message", "Reply", "Respond", "Answer"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ChatTemplateAsset",
@@ -13237,7 +11723,6 @@ export default [
     path: "solid/ChatTemplateAsset",
     tags: ["SolidChatTemplateAsset", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ChatTriggerBox",
@@ -13245,7 +11730,6 @@ export default [
     path: "solid/ChatTriggerBox",
     tags: ["SolidChatTriggerBox", "live chat"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ChatTriggerCloud",
@@ -13253,7 +11737,6 @@ export default [
     path: "solid/ChatTriggerCloud",
     tags: ["SolidChatTriggerCloud", "live chat"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ChatTriggerEllipsis",
@@ -13261,7 +11744,6 @@ export default [
     path: "solid/ChatTriggerEllipsis",
     tags: ["SolidChatTriggerEllipsis", "live chat"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CheckBox",
@@ -13269,7 +11751,6 @@ export default [
     path: "solid/CheckBox",
     tags: ["SolidCheckBox", "tick", "square", "correct", "approved", "yes"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ChevronDown",
@@ -13277,7 +11758,6 @@ export default [
     path: "solid/ChevronDown",
     tags: ["SolidChevronDown", "drop down", "arrow down", "more options"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ChevronDownCircle",
@@ -13292,7 +11772,6 @@ export default [
       "arrow",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ChevronLeft",
@@ -13300,7 +11779,6 @@ export default [
     path: "solid/ChevronLeft",
     tags: ["SolidChevronLeft", "chevron", "left", "arrow", "point"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ChevronRight",
@@ -13308,7 +11786,6 @@ export default [
     path: "solid/ChevronRight",
     tags: ["SolidChevronRight", "chevron", "right", "arrow", "point"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ChevronUp",
@@ -13316,7 +11793,6 @@ export default [
     path: "solid/ChevronUp",
     tags: ["SolidChevronUp", "arrow up", "more options", "pointer", "up"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ChevronUpCircle",
@@ -13331,7 +11807,6 @@ export default [
       "arrow",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ChiScoreCircle",
@@ -13347,7 +11822,6 @@ export default [
       "csm activity",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Circle",
@@ -13355,7 +11829,6 @@ export default [
     path: "solid/Circle",
     tags: ["SolidCircle", "round", "button"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CircleComment",
@@ -13370,7 +11843,6 @@ export default [
       "suggest",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ClimateChange",
@@ -13384,7 +11856,6 @@ export default [
       "Environment",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Clock",
@@ -13392,7 +11863,6 @@ export default [
     path: "solid/Clock",
     tags: ["SolidClock", "schedule", "time"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ClockUser",
@@ -13400,7 +11870,6 @@ export default [
     path: "solid/ClockUser",
     tags: ["SolidClockUser", "user", "time", "clock", "leave", "time off"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Clone",
@@ -13408,7 +11877,6 @@ export default [
     path: "solid/Clone",
     tags: ["SolidClone", "replicate", "copy", "duplicate", "add"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Close",
@@ -13416,7 +11884,6 @@ export default [
     path: "solid/Close",
     tags: ["SolidClose", "end", "cross", "reject", "terminat"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CloudCode",
@@ -13424,7 +11891,6 @@ export default [
     path: "solid/CloudCode",
     tags: ["SolidCloudCode", "deployment", "deploy", "settings", "code"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CloudUpload",
@@ -13432,7 +11898,6 @@ export default [
     path: "solid/CloudUpload",
     tags: ["SolidCloudUpload", "data integration", "data upload"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CloudUploadCircle",
@@ -13440,7 +11905,6 @@ export default [
     path: "solid/CloudUploadCircle",
     tags: ["SolidCloudUploadCircle", "data ingestion", "data upload"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Coaching",
@@ -13457,7 +11921,6 @@ export default [
       "coach",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Cobrowsing",
@@ -13465,7 +11928,6 @@ export default [
     path: "solid/Cobrowsing",
     tags: ["SolidCobrowsing", "screen", "video call", "computer"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CobrowsingCircle",
@@ -13473,7 +11935,6 @@ export default [
     path: "solid/CobrowsingCircle",
     tags: ["SolidCobrowsingCircle", "screen", "video call", "computer"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Code",
@@ -13481,7 +11942,6 @@ export default [
     path: "solid/Code",
     tags: ["SolidCode", "embedded code", "html"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CodeSquare",
@@ -13489,7 +11949,6 @@ export default [
     path: "solid/CodeSquare",
     tags: ["SolidCodeSquare", "html", "API"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CoinClr",
@@ -13497,7 +11956,6 @@ export default [
     path: "solid/CoinClr",
     tags: ["SolidCoinClr", "points", "advocacy", "money", "reward", "gold"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Collaborators",
@@ -13512,7 +11970,6 @@ export default [
       "circle",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CollaboratorsCircle",
@@ -13520,7 +11977,6 @@ export default [
     path: "solid/CollaboratorsCircle",
     tags: ["SolidCollaboratorsCircle", "collab", "Collaborator"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CollaboratorsSquare",
@@ -13528,7 +11984,6 @@ export default [
     path: "solid/CollaboratorsSquare",
     tags: ["SolidCollaboratorsSquare", "collab", "collaborators"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Collapse",
@@ -13544,7 +11999,6 @@ export default [
       "merge",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CollapseSection",
@@ -13559,7 +12013,6 @@ export default [
       "collapse",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ColourPicker",
@@ -13573,7 +12026,6 @@ export default [
       "colourize",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Column1",
@@ -13581,7 +12033,6 @@ export default [
     path: "solid/Column1",
     tags: ["SolidColumn1", "layout", "grid", "sections"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Column1x1x2",
@@ -13589,7 +12040,6 @@ export default [
     path: "solid/Column1x1x2",
     tags: ["SolidColumn1x1x2", "layout", "grid", "sections"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Column1x2",
@@ -13597,7 +12047,6 @@ export default [
     path: "solid/Column1x2",
     tags: ["SolidColumn1x2", "layout", "grid", "sections"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Column1x2x1",
@@ -13605,7 +12054,6 @@ export default [
     path: "solid/Column1x2x1",
     tags: ["SolidColumn1x2x1", "layout", "grid", "sections"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Column2",
@@ -13613,7 +12061,6 @@ export default [
     path: "solid/Column2",
     tags: ["SolidColumn2", "layout", "grid", "sections"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Column2x1",
@@ -13621,7 +12068,6 @@ export default [
     path: "solid/Column2x1",
     tags: ["SolidColumn2x1", "layout", "grid", "sections"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Column3",
@@ -13629,7 +12075,6 @@ export default [
     path: "solid/Column3",
     tags: ["SolidColumn3", "layout", "grid", "sections"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Column4",
@@ -13637,7 +12082,6 @@ export default [
     path: "solid/Column4",
     tags: ["SolidColumn4", "layout", "grid", "sections"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Comfortable",
@@ -13653,7 +12097,6 @@ export default [
       "table",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Comment",
@@ -13661,7 +12104,6 @@ export default [
     path: "solid/Comment",
     tags: ["SolidComment", "message", "conversation", "opinion", "text"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Commerce",
@@ -13669,7 +12111,6 @@ export default [
     path: "solid/Commerce",
     tags: ["SolidCommerce", "market", "shop", "buy"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Community",
@@ -13677,7 +12118,6 @@ export default [
     path: "solid/Community",
     tags: ["SolidCommunity", "Community", "Network", "Group"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Compact",
@@ -13685,7 +12125,6 @@ export default [
     path: "solid/Compact",
     tags: ["SolidCompact", "compress", "view", "pivot", "tableview", "table"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Compare",
@@ -13701,7 +12140,6 @@ export default [
       "join",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Competition",
@@ -13716,7 +12154,6 @@ export default [
       "Opposite",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Complaint",
@@ -13732,7 +12169,6 @@ export default [
       "feedback",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CompleteMessageFlow",
@@ -13749,7 +12185,6 @@ export default [
       "approved",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ConfirmMessage",
@@ -13765,7 +12200,6 @@ export default [
       "approved",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ConfirmMessageMultiple",
@@ -13782,7 +12216,6 @@ export default [
       "multiple",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Connection",
@@ -13798,7 +12231,6 @@ export default [
       "link",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Connector",
@@ -13806,7 +12238,6 @@ export default [
     path: "solid/Connector",
     tags: ["SolidConnector", "Connector", "Hub"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Contact",
@@ -13814,7 +12245,6 @@ export default [
     path: "solid/Contact",
     tags: ["SolidContact", "phone book", "contacts", "correspondence"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ContactRequestSalesforce",
@@ -13822,7 +12252,6 @@ export default [
     path: "solid/ContactRequestSalesforce",
     tags: ["SolidContactRequestSalesforce", "salesforce"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ContactSalesforce",
@@ -13830,7 +12259,6 @@ export default [
     path: "solid/ContactSalesforce",
     tags: ["SolidContactSalesforce", "salesforce"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Content",
@@ -13838,7 +12266,6 @@ export default [
     path: "solid/Content",
     tags: ["SolidContent", "Content", "Brief", "Information"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ContractSalesforce",
@@ -13846,7 +12273,6 @@ export default [
     path: "solid/ContractSalesforce",
     tags: ["SolidContractSalesforce", "salesforce"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Conversation",
@@ -13860,7 +12286,6 @@ export default [
       "envelope",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Copy",
@@ -13868,7 +12293,6 @@ export default [
     path: "solid/Copy",
     tags: ["SolidCopy", "duplicate", "multiple", "square"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CostPerClick",
@@ -13883,7 +12307,6 @@ export default [
       "cost per action",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CreatePost",
@@ -13900,7 +12323,6 @@ export default [
       "edit",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Creative",
@@ -13908,7 +12330,6 @@ export default [
     path: "solid/Creative",
     tags: ["SolidCreative", "creative guideline", "notes", "sketchbook"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CreditCardsvg",
@@ -13916,7 +12337,6 @@ export default [
     path: "solid/CreditCardsvg",
     tags: ["SolidCreditCardsvg", "debit card", "card", "money", "transaction"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Crosshair",
@@ -13931,7 +12351,6 @@ export default [
       "pointer",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Crown",
@@ -13939,7 +12358,6 @@ export default [
     path: "solid/Crown",
     tags: ["SolidCrown", "master case", "case", "main", "master"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CrownCircle",
@@ -13947,7 +12365,6 @@ export default [
     path: "solid/CrownCircle",
     tags: ["SolidCrownCircle", "master case", "case", "main", "master"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CsvAsset",
@@ -13955,7 +12372,6 @@ export default [
     path: "solid/CsvAsset",
     tags: ["SolidCsvAsset", "csv", "asset Comma Separated Value"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Cube",
@@ -13963,7 +12379,6 @@ export default [
     path: "solid/Cube",
     tags: ["SolidCube", "box", "brand", "experience", "product", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Cursor",
@@ -13971,7 +12386,6 @@ export default [
     path: "solid/Cursor",
     tags: ["SolidCursor", "arrow", "point", "mouse"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CustomerProfile",
@@ -13987,7 +12401,6 @@ export default [
       "global user",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CustomField",
@@ -13995,7 +12408,6 @@ export default [
     path: "solid/CustomField",
     tags: ["SolidCustomField", "Custom", "Field"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "CustomInterval",
@@ -14003,7 +12415,6 @@ export default [
     path: "solid/CustomInterval",
     tags: ["SolidCustomInterval"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Cut",
@@ -14011,7 +12422,6 @@ export default [
     path: "solid/Cut",
     tags: ["SolidCut", "scissors", "cut", "paper", "doc"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DarkMode",
@@ -14019,7 +12429,6 @@ export default [
     path: "solid/DarkMode",
     tags: ["SolidDarkMode", "moon", "dark", "night", "sleep"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DarkModeCircle",
@@ -14027,7 +12436,6 @@ export default [
     path: "solid/DarkModeCircle",
     tags: ["SolidDarkModeCircle", "Moon", "dark", "half moon"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Dashboard",
@@ -14035,7 +12443,6 @@ export default [
     path: "solid/Dashboard",
     tags: ["SolidDashboard", "data", "console", "control panel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DataFlowCircleClr",
@@ -14043,7 +12450,6 @@ export default [
     path: "solid/DataFlowCircleClr",
     tags: ["SolidDataFlowCircleClr", "flow chart", "integration"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DeactivateAccount",
@@ -14056,7 +12462,6 @@ export default [
       "stop activation",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Debt",
@@ -14072,7 +12477,6 @@ export default [
       "cut",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Debug",
@@ -14080,7 +12484,6 @@ export default [
     path: "solid/Debug",
     tags: ["SolidDebug", "bug", "rectify", "troubleshoot"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Decimal",
@@ -14088,7 +12491,6 @@ export default [
     path: "solid/Decimal",
     tags: ["SolidDecimal", "decimals", "number", "point"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DecimalFormatter",
@@ -14103,7 +12505,6 @@ export default [
       "zero",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DecisionBox",
@@ -14111,7 +12512,6 @@ export default [
     path: "solid/DecisionBox",
     tags: ["SolidDecisionBox", "rhombus", "diamond", "choice"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DecreaseCircle",
@@ -14128,7 +12528,6 @@ export default [
       "trend",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DecreaseIndentation",
@@ -14142,7 +12541,6 @@ export default [
       "indentation",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DefaultAvatarClr",
@@ -14150,7 +12548,6 @@ export default [
     path: "solid/DefaultAvatarClr",
     tags: ["SolidDefaultAvatarClr", "avatar", "user", "profile", "persona"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Delete",
@@ -14158,7 +12555,6 @@ export default [
     path: "solid/Delete",
     tags: ["SolidDelete", "trash", "remove", "discard", "dust bin", "waste"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Desktop",
@@ -14166,7 +12562,6 @@ export default [
     path: "solid/Desktop",
     tags: ["SolidDesktop", "screen", "laptop", "monitor", "computer"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Difference",
@@ -14183,7 +12578,6 @@ export default [
       "compare",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Dislike",
@@ -14191,7 +12585,6 @@ export default [
     path: "solid/Dislike",
     tags: ["SolidDislike", "Hate", "Dislike", "Bad"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DismissAlarm",
@@ -14199,7 +12592,6 @@ export default [
     path: "solid/DismissAlarm",
     tags: ["SolidDismissAlarm", "clock", "cancel", "dismiss", "time"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DocAssetClr",
@@ -14207,7 +12599,6 @@ export default [
     path: "solid/DocAssetClr",
     tags: ["SolidDocAssetClr", "document"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DocAsset",
@@ -14215,7 +12606,6 @@ export default [
     path: "solid/DocAsset",
     tags: ["SolidDocAsset", "asset", "word document"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DollarCircle",
@@ -14230,7 +12620,6 @@ export default [
       "voice credit",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DonutChart",
@@ -14247,7 +12636,6 @@ export default [
       "diagram",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DoubleArrowHorizontal",
@@ -14262,7 +12650,6 @@ export default [
       "horizontal",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DoubleArrowVertical",
@@ -14276,7 +12663,6 @@ export default [
       "vertical",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DoubleHeart",
@@ -14284,7 +12670,6 @@ export default [
     path: "solid/DoubleHeart",
     tags: ["SolidDoubleHeart", "like", "account like"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DoubleTickCircle",
@@ -14299,7 +12684,6 @@ export default [
       "tick done",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DoubleTickMessage",
@@ -14316,7 +12700,6 @@ export default [
       "resolved",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Download",
@@ -14330,7 +12713,6 @@ export default [
       "cloud download",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DownloadChat",
@@ -14338,7 +12720,6 @@ export default [
     path: "solid/DownloadChat",
     tags: ["SolidDownloadChat", "chat", "message", "chat", "transcrip"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Downvote",
@@ -14346,7 +12727,6 @@ export default [
     path: "solid/Downvote",
     tags: ["SolidDownvote", "amazon", "down", "arrow", "voc", "point"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Draft",
@@ -14354,7 +12734,6 @@ export default [
     path: "solid/Draft",
     tags: ["SolidDraft"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Dropdown",
@@ -14362,7 +12741,6 @@ export default [
     path: "solid/Dropdown",
     tags: ["SolidDropdown", "ads pivot", "drill down", "drop", "sub division"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Drum",
@@ -14370,7 +12748,6 @@ export default [
     path: "solid/Drum",
     tags: ["SolidDrum", "intro", "drum roll"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DynamicTemplateAssetClr",
@@ -14378,7 +12755,6 @@ export default [
     path: "solid/DynamicTemplateAssetClr",
     tags: ["SolidDynamicTemplateAssetClr", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "DynamicTemplateAsset",
@@ -14386,7 +12762,6 @@ export default [
     path: "solid/DynamicTemplateAsset",
     tags: ["SolidDynamicTemplateAsset", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Earphones",
@@ -14394,7 +12769,6 @@ export default [
     path: "solid/Earphones",
     tags: ["SolidEarphones", "wired earphones", "phone audio"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "EdbAsset",
@@ -14402,7 +12776,6 @@ export default [
     path: "solid/EdbAsset",
     tags: ["SolidEdbAsset", "asset", "edb"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Edit",
@@ -14410,7 +12783,6 @@ export default [
     path: "solid/Edit",
     tags: ["SolidEdit", "pencil"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "EditImage",
@@ -14426,7 +12798,6 @@ export default [
       "media",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "EditRecords",
@@ -14434,7 +12805,6 @@ export default [
     path: "solid/EditRecords",
     tags: ["SolidEditRecords", "edit product variants", "edit multiple"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "EditUser",
@@ -14442,7 +12812,6 @@ export default [
     path: "solid/EditUser",
     tags: ["SolidEditUser", "edit", "user", "customise user"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Email",
@@ -14450,7 +12819,6 @@ export default [
     path: "solid/Email",
     tags: ["SolidEmail", "mail", "email", "message", "conversation"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "EmailLink",
@@ -14466,7 +12834,6 @@ export default [
       "link",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "EmailReceived",
@@ -14482,7 +12849,6 @@ export default [
       "approved mail",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "EmailSupport",
@@ -14497,7 +12863,6 @@ export default [
       "email request",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "EmailTemplate",
@@ -14505,7 +12870,6 @@ export default [
     path: "solid/EmailTemplate",
     tags: ["SolidEmailTemplate", "template", "mail", "note"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "EmlAssetClr",
@@ -14513,7 +12877,6 @@ export default [
     path: "solid/EmlAssetClr",
     tags: ["SolidEmlAssetClr", "message", "mail", "asset", "file", "email"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "EmlAsset",
@@ -14521,7 +12884,6 @@ export default [
     path: "solid/EmlAsset",
     tags: ["SolidEmlAsset", "asset", "email"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "EndCall",
@@ -14529,7 +12891,6 @@ export default [
     path: "solid/EndCall",
     tags: ["SolidEndCall", "call", "phone"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "EndCallCircle",
@@ -14537,7 +12898,6 @@ export default [
     path: "solid/EndCallCircle",
     tags: ["SolidEndCallCircle", "call", "phone", "hang up", "leave call"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Engagement",
@@ -14545,7 +12905,6 @@ export default [
     path: "solid/Engagement",
     tags: ["SolidEngagement", "Engagement", "Reach"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "EngagementScore",
@@ -14553,7 +12912,6 @@ export default [
     path: "solid/EngagementScore",
     tags: ["SolidEngagementScore", "graph", "bars", "speech bubble"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Enlarge",
@@ -14561,7 +12919,6 @@ export default [
     path: "solid/Enlarge",
     tags: ["SolidEnlarge", "expand", "maximum", "capacity", "arrow", "square"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "EpsAsset",
@@ -14569,7 +12926,6 @@ export default [
     path: "solid/EpsAsset",
     tags: ["SolidEpsAsset", "eps", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ErrorClr",
@@ -14577,7 +12933,6 @@ export default [
     path: "solid/ErrorClr",
     tags: ["SolidErrorClr"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Error",
@@ -14585,7 +12940,6 @@ export default [
     path: "solid/Error",
     tags: ["SolidError"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Event",
@@ -14593,7 +12947,6 @@ export default [
     path: "solid/Event",
     tags: ["SolidEvent", "Activity", "Flag", "Milestone"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Exclude",
@@ -14601,7 +12954,6 @@ export default [
     path: "solid/Exclude",
     tags: ["SolidExclude", "exclude", "minus", "deny", "leave out", "cards"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Exit",
@@ -14609,7 +12961,6 @@ export default [
     path: "solid/Exit",
     tags: ["SolidExit", "logout", "move", "exits", "sign out"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ExitFullScreen",
@@ -14617,7 +12968,6 @@ export default [
     path: "solid/ExitFullScreen",
     tags: ["SolidExitFullScreen", "minimise", "exit", "leave", "pinch in"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Expand",
@@ -14625,7 +12975,6 @@ export default [
     path: "solid/Expand",
     tags: ["SolidExpand", "enlarge", "view details", "arrow"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ExpandWindow",
@@ -14641,7 +12990,6 @@ export default [
       "show",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Explore",
@@ -14649,7 +12997,6 @@ export default [
     path: "solid/Explore",
     tags: ["SolidExplore"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Export",
@@ -14657,7 +13004,6 @@ export default [
     path: "solid/Export",
     tags: ["SolidExport", "export", "arrow", "leave", "exit"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ExportAsset",
@@ -14670,7 +13016,6 @@ export default [
       "upload file",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ExportPresentation",
@@ -14683,7 +13028,6 @@ export default [
       "share presentation",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FacebookAngryClr",
@@ -14698,7 +13042,6 @@ export default [
       "smiley",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FacebookAngry",
@@ -14713,7 +13056,6 @@ export default [
       "smiley",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FacebookLaughClr",
@@ -14728,7 +13070,6 @@ export default [
       "haha",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FacebookLikeClr",
@@ -14736,7 +13077,6 @@ export default [
     path: "solid/FacebookLikeClr",
     tags: ["SolidFacebookLikeClr", "fb", "emoticons", "emojis", "like"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FacebookLoveClr",
@@ -14751,7 +13091,6 @@ export default [
       "heart",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FacebookSadClr",
@@ -14759,7 +13098,6 @@ export default [
     path: "solid/FacebookSadClr",
     tags: ["SolidFacebookSadClr", "fb", "emoticons", "emojis", "sad"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FacebookWowClr",
@@ -14767,7 +13105,6 @@ export default [
     path: "solid/FacebookWowClr",
     tags: ["SolidFacebookWowClr", "fb", "emoticons", "emojis", "sad"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Fallback",
@@ -14775,7 +13112,6 @@ export default [
     path: "solid/Fallback",
     tags: ["SolidFallback", "window", "screen", "default", "box", "product"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FallbackAsset",
@@ -14783,7 +13119,6 @@ export default [
     path: "solid/FallbackAsset",
     tags: ["SolidFallbackAsset", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FallbackCircle",
@@ -14791,7 +13126,6 @@ export default [
     path: "solid/FallbackCircle",
     tags: ["SolidFallbackCircle", "channel", "box", "product"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Family",
@@ -14799,7 +13133,6 @@ export default [
     path: "solid/Family",
     tags: ["SolidFamily", "family", "parent"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FanCircle",
@@ -14814,7 +13147,6 @@ export default [
       "csm activity",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FastBackward",
@@ -14829,7 +13161,6 @@ export default [
       "past",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FastForward",
@@ -14844,7 +13175,6 @@ export default [
       "ahead",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Feed",
@@ -14859,7 +13189,6 @@ export default [
       "information",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FillColour",
@@ -14867,7 +13196,6 @@ export default [
     path: "solid/FillColour",
     tags: ["SolidFillColour", "paint bucket", "fill", "add colour", "colour"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FillColourCircle",
@@ -14881,7 +13209,6 @@ export default [
       "colour",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Filter",
@@ -14889,7 +13216,6 @@ export default [
     path: "solid/Filter",
     tags: ["SolidFilter", "sieve", "break down", "clarify", "segregate"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FilterSegment",
@@ -14897,7 +13223,6 @@ export default [
     path: "solid/FilterSegment",
     tags: ["SolidFilterSegment", "filter", "segment", "manage segment", "pie"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Flag",
@@ -14913,7 +13238,6 @@ export default [
       "unsuitable",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FlagUk",
@@ -14921,7 +13245,6 @@ export default [
     path: "solid/FlagUk",
     tags: ["SolidFlagUk", "flag", "country", "UK"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FlipHorizontal",
@@ -14929,7 +13252,6 @@ export default [
     path: "solid/FlipHorizontal",
     tags: ["SolidFlipHorizontal", "mirror", "flip", "half", "horizontal"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FlipVertical",
@@ -14937,7 +13259,6 @@ export default [
     path: "solid/FlipVertical",
     tags: ["SolidFlipVertical", "mirror", "flip", "half", "Vertical"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FolderClr",
@@ -14945,7 +13266,6 @@ export default [
     path: "solid/FolderClr",
     tags: ["SolidFolderClr", "File", "Binder"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Folder",
@@ -14953,7 +13273,6 @@ export default [
     path: "solid/Folder",
     tags: ["SolidFolder", "file", "cache", "asset", "storage"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FolderDashboardClr",
@@ -14961,7 +13280,6 @@ export default [
     path: "solid/FolderDashboardClr",
     tags: ["SolidFolderDashboardClr", "folder", "reporting"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FolderFavourite",
@@ -14969,7 +13287,6 @@ export default [
     path: "solid/FolderFavourite",
     tags: ["SolidFolderFavourite", "folder", "favourite", "star", "important"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FolderFilter",
@@ -14977,7 +13294,6 @@ export default [
     path: "solid/FolderFilter",
     tags: ["SolidFolderFilter", "file", "folder", "filter", "parent"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FolderMappedClr",
@@ -14995,7 +13311,6 @@ export default [
       "file",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FontAssetClr",
@@ -15003,7 +13318,6 @@ export default [
     path: "solid/FontAssetClr",
     tags: ["SolidFontAssetClr"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FontAsset",
@@ -15011,7 +13325,6 @@ export default [
     path: "solid/FontAsset",
     tags: ["SolidFontAsset", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Footer",
@@ -15019,7 +13332,6 @@ export default [
     path: "solid/Footer",
     tags: ["SolidFooter", "box", "foot note", "note", "page layout"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Form",
@@ -15027,7 +13339,6 @@ export default [
     path: "solid/Form",
     tags: ["SolidForm", "canned form", "notice", "text", "paper", "doc"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "FullScreen",
@@ -15042,7 +13353,6 @@ export default [
       "pinch out",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Game",
@@ -15050,7 +13360,6 @@ export default [
     path: "solid/Game",
     tags: ["SolidGame", "gamification", "control", "console", "gamify"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Gears",
@@ -15058,7 +13367,6 @@ export default [
     path: "solid/Gears",
     tags: ["SolidGears", "settings", "automation", "mulitple settings"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GearTick",
@@ -15073,7 +13381,6 @@ export default [
       "effectiveness",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GeneralKnowledge",
@@ -15089,7 +13396,6 @@ export default [
       "training",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Gif",
@@ -15097,7 +13403,6 @@ export default [
     path: "solid/Gif",
     tags: ["SolidGif", "gif", "video"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Gift",
@@ -15113,7 +13418,6 @@ export default [
       "prize",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Global",
@@ -15121,7 +13425,6 @@ export default [
     path: "solid/Global",
     tags: ["SolidGlobal", "translate", "original", "globe"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GlobalCircle",
@@ -15129,7 +13432,6 @@ export default [
     path: "solid/GlobalCircle",
     tags: ["SolidGlobalCircle", "Translate", "Original", "Globe"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GlobalInsights",
@@ -15143,7 +13445,6 @@ export default [
       "global data",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GlobalTime",
@@ -15151,7 +13452,6 @@ export default [
     path: "solid/GlobalTime",
     tags: ["SolidGlobalTime", "Time", "Globe", "Calendar"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Globe",
@@ -15159,7 +13459,6 @@ export default [
     path: "solid/Globe",
     tags: ["SolidGlobe", "world", "original", "earth", "universal"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Graph",
@@ -15167,7 +13466,6 @@ export default [
     path: "solid/Graph",
     tags: ["SolidGraph", "bars", "graphs", "stats", "analysis", "data"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GraphSquare",
@@ -15175,7 +13473,6 @@ export default [
     path: "solid/GraphSquare",
     tags: ["SolidGraphSquare", "graph", "report", "data"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid",
@@ -15183,7 +13480,6 @@ export default [
     path: "solid/Grid",
     tags: ["SolidGrid", "Grid View", "Card"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid1By2",
@@ -15191,7 +13487,6 @@ export default [
     path: "solid/Grid1By2",
     tags: ["SolidGrid1By2", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid1By2A",
@@ -15199,7 +13494,6 @@ export default [
     path: "solid/Grid1By2A",
     tags: ["SolidGrid1By2A", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid1By2B",
@@ -15207,7 +13501,6 @@ export default [
     path: "solid/Grid1By2B",
     tags: ["SolidGrid1By2B", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid1By2C",
@@ -15215,7 +13508,6 @@ export default [
     path: "solid/Grid1By2C",
     tags: ["SolidGrid1By2C", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid1By3",
@@ -15223,7 +13515,6 @@ export default [
     path: "solid/Grid1By3",
     tags: ["SolidGrid1By3", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid1By3A",
@@ -15231,7 +13522,6 @@ export default [
     path: "solid/Grid1By3A",
     tags: ["SolidGrid1By3A", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid1By3B",
@@ -15239,7 +13529,6 @@ export default [
     path: "solid/Grid1By3B",
     tags: ["SolidGrid1By3B", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid1By3C",
@@ -15247,7 +13536,6 @@ export default [
     path: "solid/Grid1By3C",
     tags: ["SolidGrid1By3C", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid1By3D",
@@ -15255,7 +13543,6 @@ export default [
     path: "solid/Grid1By3D",
     tags: ["SolidGrid1By3D", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid1x1",
@@ -15263,7 +13550,6 @@ export default [
     path: "solid/Grid1x1",
     tags: ["SolidGrid1x1", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid1x1A",
@@ -15271,7 +13557,6 @@ export default [
     path: "solid/Grid1x1A",
     tags: ["SolidGrid1x1A", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid1x2",
@@ -15279,7 +13564,6 @@ export default [
     path: "solid/Grid1x2",
     tags: ["SolidGrid1x2", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid1x2A",
@@ -15287,7 +13571,6 @@ export default [
     path: "solid/Grid1x2A",
     tags: ["SolidGrid1x2A", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid1x2B",
@@ -15295,7 +13578,6 @@ export default [
     path: "solid/Grid1x2B",
     tags: ["SolidGrid1x2B", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid2x1",
@@ -15303,7 +13585,6 @@ export default [
     path: "solid/Grid2x1",
     tags: ["SolidGrid2x1", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid2x1A",
@@ -15311,7 +13592,6 @@ export default [
     path: "solid/Grid2x1A",
     tags: ["SolidGrid2x1A", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid2x1B",
@@ -15319,7 +13599,6 @@ export default [
     path: "solid/Grid2x1B",
     tags: ["SolidGrid2x1B", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid2x2",
@@ -15327,7 +13606,6 @@ export default [
     path: "solid/Grid2x2",
     tags: ["SolidGrid2x2", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid2x2A",
@@ -15335,7 +13613,6 @@ export default [
     path: "solid/Grid2x2A",
     tags: ["SolidGrid2x2A", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid2x2B",
@@ -15343,7 +13620,6 @@ export default [
     path: "solid/Grid2x2B",
     tags: ["SolidGrid2x2B", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid2x2C",
@@ -15351,7 +13627,6 @@ export default [
     path: "solid/Grid2x2C",
     tags: ["SolidGrid2x2C", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid2x2D",
@@ -15359,7 +13634,6 @@ export default [
     path: "solid/Grid2x2D",
     tags: ["SolidGrid2x2D", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid2x3",
@@ -15367,7 +13641,6 @@ export default [
     path: "solid/Grid2x3",
     tags: ["SolidGrid2x3", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid2x3A",
@@ -15375,7 +13648,6 @@ export default [
     path: "solid/Grid2x3A",
     tags: ["SolidGrid2x3A", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid2x3B",
@@ -15383,7 +13655,6 @@ export default [
     path: "solid/Grid2x3B",
     tags: ["SolidGrid2x3B", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid2x3C",
@@ -15391,7 +13662,6 @@ export default [
     path: "solid/Grid2x3C",
     tags: ["SolidGrid2x3C", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid2x3D",
@@ -15399,7 +13669,6 @@ export default [
     path: "solid/Grid2x3D",
     tags: ["SolidGrid2x3D", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid2x3E",
@@ -15407,7 +13676,6 @@ export default [
     path: "solid/Grid2x3E",
     tags: ["SolidGrid2x3E", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Grid2x3F",
@@ -15415,7 +13683,6 @@ export default [
     path: "solid/Grid2x3F",
     tags: ["SolidGrid2x3F", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GridRow1x1",
@@ -15423,7 +13690,6 @@ export default [
     path: "solid/GridRow1x1",
     tags: ["SolidGridRow1x1", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GridRow1x1A",
@@ -15431,7 +13697,6 @@ export default [
     path: "solid/GridRow1x1A",
     tags: ["SolidGridRow1x1A", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GridRow1x2",
@@ -15439,7 +13704,6 @@ export default [
     path: "solid/GridRow1x2",
     tags: ["SolidGridRow1x2", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GridRow1x2A",
@@ -15447,7 +13711,6 @@ export default [
     path: "solid/GridRow1x2A",
     tags: ["SolidGridRow1x2A", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GridRow1x2B",
@@ -15455,7 +13718,6 @@ export default [
     path: "solid/GridRow1x2B",
     tags: ["SolidGridRow1x2B", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GridRow1x2Left",
@@ -15463,7 +13725,6 @@ export default [
     path: "solid/GridRow1x2Left",
     tags: ["SolidGridRow1x2Left", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GridRow1x2LeftA",
@@ -15471,7 +13732,6 @@ export default [
     path: "solid/GridRow1x2LeftA",
     tags: ["SolidGridRow1x2LeftA", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GridRow1x2LeftB",
@@ -15479,7 +13739,6 @@ export default [
     path: "solid/GridRow1x2LeftB",
     tags: ["SolidGridRow1x2LeftB", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GridRow1x2Right",
@@ -15487,7 +13746,6 @@ export default [
     path: "solid/GridRow1x2Right",
     tags: ["SolidGridRow1x2Right", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GridRow1x2RightA",
@@ -15495,7 +13753,6 @@ export default [
     path: "solid/GridRow1x2RightA",
     tags: ["SolidGridRow1x2RightA", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GridRow1x2RightB",
@@ -15503,7 +13760,6 @@ export default [
     path: "solid/GridRow1x2RightB",
     tags: ["SolidGridRow1x2RightB", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GridRow1x3",
@@ -15511,7 +13767,6 @@ export default [
     path: "solid/GridRow1x3",
     tags: ["SolidGridRow1x3", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GridRow1x3A",
@@ -15519,7 +13774,6 @@ export default [
     path: "solid/GridRow1x3A",
     tags: ["SolidGridRow1x3A", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GridRow1x3B",
@@ -15527,7 +13781,6 @@ export default [
     path: "solid/GridRow1x3B",
     tags: ["SolidGridRow1x3B", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GridRow1x3C",
@@ -15535,7 +13788,6 @@ export default [
     path: "solid/GridRow1x3C",
     tags: ["SolidGridRow1x3C", "grid", "layout", "line channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Group",
@@ -15543,7 +13795,6 @@ export default [
     path: "solid/Group",
     tags: ["SolidGroup", "cluster", "Collaborate", "circle", "Summarise"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "GuidedPath",
@@ -15551,7 +13802,6 @@ export default [
     path: "solid/GuidedPath",
     tags: ["SolidGuidedPath", "path", "workflow", "flow", "guided", "circle"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "HeaderCenter",
@@ -15559,7 +13809,6 @@ export default [
     path: "solid/HeaderCenter",
     tags: ["SolidHeaderCenter", "header", "layout", "template"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "HeaderFooter",
@@ -15567,7 +13816,6 @@ export default [
     path: "solid/HeaderFooter",
     tags: ["SolidHeaderFooter", "heading", "page layout"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "HeaderRight",
@@ -15575,7 +13823,6 @@ export default [
     path: "solid/HeaderRight",
     tags: ["SolidHeaderRight", "header", "layout", "template"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Headphone",
@@ -15583,7 +13830,6 @@ export default [
     path: "solid/Headphone",
     tags: ["SolidHeadphone", "mic", "call", "call centre", "support"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Heart",
@@ -15591,7 +13837,6 @@ export default [
     path: "solid/Heart",
     tags: ["SolidHeart", "love", "like", "appreciate"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "HeartCircle",
@@ -15607,7 +13852,6 @@ export default [
       "csm activity",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "HelpCircle",
@@ -15615,7 +13859,6 @@ export default [
     path: "solid/HelpCircle",
     tags: ["SolidHelpCircle", "Assist", "Question mark"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "HelpComment",
@@ -15632,7 +13875,6 @@ export default [
       "question mark",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Hierarchy",
@@ -15640,7 +13882,6 @@ export default [
     path: "solid/Hierarchy",
     tags: ["SolidHierarchy", "triangle", "priority", "product hierarchies"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "HighIntensityBlurClr",
@@ -15654,7 +13895,6 @@ export default [
       "portrait",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Highlight",
@@ -15662,7 +13902,6 @@ export default [
     path: "solid/Highlight",
     tags: ["SolidHighlight", "user", "time", "clock", "leave", "time off"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "HighlightReddit",
@@ -15670,7 +13909,6 @@ export default [
     path: "solid/HighlightReddit",
     tags: ["SolidHighlightReddit", "exclamation", "reddit"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Home",
@@ -15678,7 +13916,6 @@ export default [
     path: "solid/Home",
     tags: ["SolidHome", "house"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "HourglassBottom",
@@ -15693,7 +13930,6 @@ export default [
       "wait",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "HsmAsset",
@@ -15701,7 +13937,6 @@ export default [
     path: "solid/HsmAsset",
     tags: ["SolidHsmAsset", "asset", "hsm", "template"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "HtmlAsset",
@@ -15709,7 +13944,6 @@ export default [
     path: "solid/HtmlAsset",
     tags: ["SolidHtmlAsset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Hyperspace",
@@ -15717,7 +13951,6 @@ export default [
     path: "solid/Hyperspace",
     tags: ["SolidHyperspace", "hyperspace"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "IcsAsset",
@@ -15725,7 +13958,6 @@ export default [
     path: "solid/IcsAsset",
     tags: ["SolidIcsAsset", "assets", "ics"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Ignore",
@@ -15733,7 +13965,6 @@ export default [
     path: "solid/Ignore",
     tags: ["SolidIgnore", "off", "eye", "disregard", "shut eye"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ImageClr",
@@ -15741,7 +13972,6 @@ export default [
     path: "solid/ImageClr",
     tags: ["SolidImageClr", "media", "picture", "image", "photo", "video"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Image",
@@ -15756,7 +13986,6 @@ export default [
       "asset",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ImageAsset",
@@ -15764,7 +13993,6 @@ export default [
     path: "solid/ImageAsset",
     tags: ["SolidImageAsset", "asset", "photo"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ImageFeatured",
@@ -15772,7 +14000,6 @@ export default [
     path: "solid/ImageFeatured",
     tags: ["SolidImageFeatured", "image", "star", "featured", "thumbnail"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ImagePreview",
@@ -15787,7 +14014,6 @@ export default [
       "picture",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ImageSearch",
@@ -15803,7 +14029,6 @@ export default [
       "governance",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Import",
@@ -15811,7 +14036,6 @@ export default [
     path: "solid/Import",
     tags: ["SolidImport", "import", "download", "insert", "arrow", "enter"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ImportData",
@@ -15826,7 +14050,6 @@ export default [
       "ingestion",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Include",
@@ -15842,7 +14065,6 @@ export default [
       "keep in",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "IncomingCall",
@@ -15856,7 +14078,6 @@ export default [
       "call received",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "IncomingVideo",
@@ -15864,7 +14085,6 @@ export default [
     path: "solid/IncomingVideo",
     tags: ["SolidIncomingVideo", "incoming", "arrow", "call", "video"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "IncreaseCircle",
@@ -15881,7 +14101,6 @@ export default [
       "trend",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "IncreaseIndentation",
@@ -15895,7 +14114,6 @@ export default [
       "indentation",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "IndesignAsset",
@@ -15903,7 +14121,6 @@ export default [
     path: "solid/IndesignAsset",
     tags: ["SolidIndesignAsset", "indd", "inDesgin", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "IndividualSalesforce",
@@ -15911,7 +14128,6 @@ export default [
     path: "solid/IndividualSalesforce",
     tags: ["SolidIndividualSalesforce", "salesforce"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "InfluencerMarketing",
@@ -15926,7 +14142,6 @@ export default [
       "marketing",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Info",
@@ -15934,7 +14149,6 @@ export default [
     path: "solid/Info",
     tags: ["SolidInfo", "information"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "InfoCircle",
@@ -15942,7 +14156,6 @@ export default [
     path: "solid/InfoCircle",
     tags: ["SolidInfoCircle", "general", "information"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "InfoComment",
@@ -15958,7 +14171,6 @@ export default [
       "information",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "InfoCopy",
@@ -15966,7 +14178,6 @@ export default [
     path: "solid/InfoCopy",
     tags: ["SolidInfoCopy", "duplicate", "multiple", "square", "information"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "InsertFile",
@@ -15974,7 +14185,6 @@ export default [
     path: "solid/InsertFile",
     tags: ["SolidInsertFile", "move file", "bring to", "arrow"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   // {
   //   name: "Insight",
@@ -15990,15 +14200,13 @@ export default [
   //     "find",
   //   ],
   //   category: "solid",
-  //   filePath: path.join(process.cwd(), '/data/solid/')
-  // },
+  //// },
   {
     name: "Insights",
     fullName: "SolidInsights",
     path: "solid/Insights",
     tags: ["SolidInsights", "Understanding", "Analyse"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Inspiration",
@@ -16006,7 +14214,6 @@ export default [
     path: "solid/Inspiration",
     tags: ["SolidInspiration", "Inspiration", "Idea", "Bulb"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "InstagramHome",
@@ -16014,7 +14221,6 @@ export default [
     path: "solid/InstagramHome",
     tags: ["SolidInstagramHome", "Instagram", "channel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "InstagramLike",
@@ -16022,7 +14228,6 @@ export default [
     path: "solid/InstagramLike",
     tags: ["SolidInstagramLike", "Instagram", "like"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "InstagramVerified",
@@ -16037,7 +14242,6 @@ export default [
       "instagram",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Integrate",
@@ -16045,7 +14249,6 @@ export default [
     path: "solid/Integrate",
     tags: ["SolidIntegrate", "Join", "Integration", "Combine", "Puzzle", "Api"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Interest",
@@ -16053,7 +14256,6 @@ export default [
     path: "solid/Interest",
     tags: ["SolidInterest", "folder", "file", "data"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "InvalidMessage",
@@ -16068,7 +14270,6 @@ export default [
       "invalid",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "IpLocation",
@@ -16076,7 +14277,6 @@ export default [
     path: "solid/IpLocation",
     tags: ["SolidIpLocation", "location", "ip adress", "secure"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "IvrCircle",
@@ -16092,7 +14292,6 @@ export default [
       "dots",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "JoinLeft",
@@ -16108,7 +14307,6 @@ export default [
       "circles",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Journey",
@@ -16116,7 +14314,6 @@ export default [
     path: "solid/Journey",
     tags: ["SolidJourney", "Customer", "Journey", "User"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "JsonAsset",
@@ -16124,7 +14321,6 @@ export default [
     path: "solid/JsonAsset",
     tags: ["SolidJsonAsset", "asset", "json", "code", "variable"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Kanban",
@@ -16132,7 +14328,6 @@ export default [
     path: "solid/Kanban",
     tags: ["SolidKanban", "billboard", "board"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Key",
@@ -16140,7 +14335,6 @@ export default [
     path: "solid/Key",
     tags: ["SolidKey"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "KeyboardShortcut",
@@ -16148,7 +14342,6 @@ export default [
     path: "solid/KeyboardShortcut",
     tags: ["SolidKeyboardShortcut", "command", "hack", "arrow"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Keypad",
@@ -16165,7 +14358,6 @@ export default [
       "ivr",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Knowledge",
@@ -16173,7 +14365,6 @@ export default [
     path: "solid/Knowledge",
     tags: ["SolidKnowledge", "Kknowledge", "Base", "Information"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Labor",
@@ -16181,7 +14372,6 @@ export default [
     path: "solid/Labor",
     tags: ["SolidLabor", "labor", "gears", "worker"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Language",
@@ -16189,7 +14379,6 @@ export default [
     path: "solid/Language",
     tags: ["SolidLanguage", "translate"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LanguageDisable",
@@ -16197,7 +14386,6 @@ export default [
     path: "solid/LanguageDisable",
     tags: ["SolidLanguageDisable", "language", "translate", "Unavailable"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Lauchpad",
@@ -16205,7 +14393,6 @@ export default [
     path: "solid/Lauchpad",
     tags: ["SolidLauchpad", "dots", "square dots", "home"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Launchpad",
@@ -16213,7 +14400,6 @@ export default [
     path: "solid/Launchpad",
     tags: ["SolidLaunchpad", "dots", "square dots", "home"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Leads",
@@ -16229,7 +14415,6 @@ export default [
       "budget",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LeadSalesforce",
@@ -16237,7 +14422,6 @@ export default [
     path: "solid/LeadSalesforce",
     tags: ["SolidLeadSalesforce", "salesforce"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Leave",
@@ -16245,7 +14429,6 @@ export default [
     path: "solid/Leave",
     tags: ["SolidLeave", "care calling", "leave", "agent", "user", "out"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LetterSpacing",
@@ -16260,7 +14443,6 @@ export default [
       "charecter",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Light",
@@ -16268,7 +14450,6 @@ export default [
     path: "solid/Light",
     tags: ["SolidLight", "ai", "intelligence", "smart", "analytics", "bulb"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LightBulb",
@@ -16276,7 +14457,6 @@ export default [
     path: "solid/LightBulb",
     tags: ["SolidLightBulb", "inspiration", "idea"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LightningBolt",
@@ -16292,7 +14472,6 @@ export default [
       "bolt",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Like",
@@ -16300,7 +14479,6 @@ export default [
     path: "solid/Like",
     tags: ["SolidLike", "Like", "Good", "Nice"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Link",
@@ -16308,7 +14486,6 @@ export default [
     path: "solid/Link",
     tags: ["SolidLink", "external link", "chain", "tag"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkAssetClr",
@@ -16316,7 +14493,6 @@ export default [
     path: "solid/LinkAssetClr",
     tags: ["SolidLinkAssetClr"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkAsset",
@@ -16324,7 +14500,6 @@ export default [
     path: "solid/LinkAsset",
     tags: ["SolidLinkAsset", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkCircle",
@@ -16332,7 +14507,6 @@ export default [
     path: "solid/LinkCircle",
     tags: ["SolidLinkCircle", "external link", "chain", "tag"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkCopy",
@@ -16347,7 +14521,6 @@ export default [
       "attach",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkedInCelebrate",
@@ -16363,7 +14536,6 @@ export default [
       "reaction",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkedInCelebrateCircleClr",
@@ -16379,7 +14551,6 @@ export default [
       "reaction",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkedInCurious",
@@ -16387,7 +14558,6 @@ export default [
     path: "solid/LinkedInCurious",
     tags: ["SolidLinkedInCurious", "linkedin", "emoji", "curious", "reaction"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkedInCuriousCircleClr",
@@ -16401,7 +14571,6 @@ export default [
       "reaction",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkedInFunnyClr",
@@ -16409,7 +14578,6 @@ export default [
     path: "solid/LinkedInFunnyClr",
     tags: ["SolidLinkedInFunnyClr"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkedInHome",
@@ -16417,7 +14585,6 @@ export default [
     path: "solid/LinkedInHome",
     tags: ["SolidLinkedInHome", "linkedIn"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkedInInsightful",
@@ -16432,7 +14599,6 @@ export default [
       "reaction",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkedInInsightfulCircleClr",
@@ -16447,7 +14613,6 @@ export default [
       "reaction",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkedInLike",
@@ -16462,7 +14627,6 @@ export default [
       "reaction",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkedInLikeCircleClr",
@@ -16477,7 +14641,6 @@ export default [
       "reaction",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkedInLove",
@@ -16492,7 +14655,6 @@ export default [
       "reaction",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkedInLoveCircleClr",
@@ -16507,7 +14669,6 @@ export default [
       "reaction",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkedInMessage",
@@ -16515,7 +14676,6 @@ export default [
     path: "solid/LinkedInMessage",
     tags: ["SolidLinkedInMessage", "linkedIn"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkedInNetwork",
@@ -16523,7 +14683,6 @@ export default [
     path: "solid/LinkedInNetwork",
     tags: ["SolidLinkedInNetwork", "linkedIn"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkedInNotification",
@@ -16531,7 +14690,6 @@ export default [
     path: "solid/LinkedInNotification",
     tags: ["SolidLinkedInNotification", "linkedIn"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkedInPost",
@@ -16539,7 +14697,6 @@ export default [
     path: "solid/LinkedInPost",
     tags: ["SolidLinkedInPost", "linkedIn"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   // {
   //   name: "LinkedInSend",
@@ -16547,8 +14704,7 @@ export default [
   //   path: "solid/LinkedInSend",
   //   tags: ["SolidLinkedInSend", "LinkedIn", "Send"],
   //   category: "solid",
-  //   filePath: path.join(process.cwd(), '/data/solid/')
-  // },
+  //// },
   {
     name: "LinkedInSupport",
     fullName: "SolidLinkedInSupport",
@@ -16562,7 +14718,6 @@ export default [
       "reaction",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkedInSupportCircleClr",
@@ -16577,7 +14732,6 @@ export default [
       "reaction",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkedInWork",
@@ -16585,7 +14739,6 @@ export default [
     path: "solid/LinkedInWork",
     tags: ["SolidLinkedInWork", "linkedIn"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LinkInBio",
@@ -16593,7 +14746,6 @@ export default [
     path: "solid/LinkInBio",
     tags: ["SolidLinkInBio", "link", "window", "linked", "open link", "screen"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ListenInfo",
@@ -16601,7 +14753,6 @@ export default [
     path: "solid/ListenInfo",
     tags: ["SolidListenInfo", "Listen", "information"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Listening",
@@ -16609,7 +14760,6 @@ export default [
     path: "solid/Listening",
     tags: ["SolidListening", "Listening", "Search"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ListeningCircle",
@@ -16617,7 +14767,6 @@ export default [
     path: "solid/ListeningCircle",
     tags: ["SolidListeningCircle", "listen", "search", "globe"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LiveVideoClr",
@@ -16625,7 +14774,6 @@ export default [
     path: "solid/LiveVideoClr",
     tags: ["SolidLiveVideoClr", "live", "video", "stream"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LiveVideo",
@@ -16633,7 +14781,6 @@ export default [
     path: "solid/LiveVideo",
     tags: ["SolidLiveVideo", "live", "video", "stream", "go live"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Loading",
@@ -16649,7 +14796,6 @@ export default [
       "buffering",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Loan",
@@ -16657,7 +14803,6 @@ export default [
     path: "solid/Loan",
     tags: ["SolidLoan", "money", "transaction", "lend money", "hand", "dollar"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Location",
@@ -16665,7 +14810,6 @@ export default [
     path: "solid/Location",
     tags: ["SolidLocation", "Location", "Position", "Area"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LocationInsights",
@@ -16673,7 +14817,6 @@ export default [
     path: "solid/LocationInsights",
     tags: ["SolidLocationInsights", "search", "location", "insights"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LocationSalesforce",
@@ -16681,7 +14824,6 @@ export default [
     path: "solid/LocationSalesforce",
     tags: ["SolidLocationSalesforce", "salesforce"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Lock",
@@ -16699,7 +14841,6 @@ export default [
       "private",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LockReset",
@@ -16713,7 +14854,6 @@ export default [
       "credentials",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LockUser",
@@ -16721,7 +14861,6 @@ export default [
     path: "solid/LockUser",
     tags: ["SolidLockUser", "lock", "user", "safe", "protect user"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Login",
@@ -16736,7 +14875,6 @@ export default [
       "access",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Loop",
@@ -16744,7 +14882,6 @@ export default [
     path: "solid/Loop",
     tags: ["SolidLoop", "rotate", "turn around", "spin", "arrow"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "LowIntensityBlurClr",
@@ -16758,7 +14895,6 @@ export default [
       "portrait",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Macro",
@@ -16766,7 +14902,6 @@ export default [
     path: "solid/Macro",
     tags: ["SolidMacro", "magic wand", "selection", "customize"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MaintenancePlanSalesforce",
@@ -16774,7 +14909,6 @@ export default [
     path: "solid/MaintenancePlanSalesforce",
     tags: ["SolidMaintenancePlanSalesforce", "salesforce"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Manager",
@@ -16782,7 +14916,6 @@ export default [
     path: "solid/Manager",
     tags: ["SolidManager", "Manager", "Executive", "Head"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ManageResource",
@@ -16790,7 +14923,6 @@ export default [
     path: "solid/ManageResource",
     tags: ["SolidManageResource", "money", "dollar", "management", "variable"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ManualSchedule",
@@ -16807,7 +14939,6 @@ export default [
       "schedul",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Map",
@@ -16815,7 +14946,6 @@ export default [
     path: "solid/Map",
     tags: ["SolidMap", "location", "maps", "locate"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MappedArrowCircleClr",
@@ -16823,7 +14953,6 @@ export default [
     path: "solid/MappedArrowCircleClr",
     tags: ["SolidMappedArrowCircleClr"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Market",
@@ -16831,7 +14960,6 @@ export default [
     path: "solid/Market",
     tags: ["SolidMarket", "Market", "Place", "Shop"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MarkImportant",
@@ -16846,7 +14974,6 @@ export default [
       "save",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Maximize",
@@ -16854,7 +14981,6 @@ export default [
     path: "solid/Maximize",
     tags: ["SolidMaximize"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MediaClr",
@@ -16862,7 +14988,6 @@ export default [
     path: "solid/MediaClr",
     tags: ["SolidMediaClr", "photo", "video", "template", "image"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MemoSalesforce",
@@ -16870,7 +14995,6 @@ export default [
     path: "solid/MemoSalesforce",
     tags: ["SolidMemoSalesforce", "salesforce"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Mention",
@@ -16878,7 +15002,6 @@ export default [
     path: "solid/Mention",
     tags: ["SolidMention", "mention", "at", "at the rate of", "tag"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MentionCircle",
@@ -16886,7 +15009,6 @@ export default [
     path: "solid/MentionCircle",
     tags: ["SolidMentionCircle", "at", "at the rate", "tag", "twitter"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Merge",
@@ -16894,7 +15016,6 @@ export default [
     path: "solid/Merge",
     tags: ["SolidMerge", "join", "integrate", "combine", "unite", "unify"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MergeCircle",
@@ -16909,7 +15030,6 @@ export default [
       "unify",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MergeDown",
@@ -16925,7 +15045,6 @@ export default [
       "move",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MergeLeft",
@@ -16941,7 +15060,6 @@ export default [
       "move",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MergeRight",
@@ -16957,7 +15075,6 @@ export default [
       "move",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Message",
@@ -16965,7 +15082,6 @@ export default [
     path: "solid/Message",
     tags: ["SolidMessage"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MessageCircle",
@@ -16973,7 +15089,6 @@ export default [
     path: "solid/MessageCircle",
     tags: ["SolidMessageCircle", "message", "mail", "sms", "csm activity"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MessageDetail",
@@ -16989,7 +15104,6 @@ export default [
       "expand message",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MessageDollar",
@@ -17003,7 +15117,6 @@ export default [
       "cost per engagement",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MessageLock",
@@ -17011,7 +15124,6 @@ export default [
     path: "solid/MessageLock",
     tags: ["SolidMessageLock", "lock", "message", "chat", "private"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MessageQueue",
@@ -17019,7 +15131,6 @@ export default [
     path: "solid/MessageQueue",
     tags: ["SolidMessageQueue", "message", "queue", "comment", "care", "chat"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MessageQueueCircle",
@@ -17033,7 +15144,6 @@ export default [
       "chat bubble",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Messages",
@@ -17041,7 +15151,6 @@ export default [
     path: "solid/Messages",
     tags: ["SolidMessages", "message", "chat", "conversation", "speak"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MessageTemplate",
@@ -17049,7 +15158,6 @@ export default [
     path: "solid/MessageTemplate",
     tags: ["SolidMessageTemplate", "message", "template"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MessagingUserSalesforce",
@@ -17057,7 +15165,6 @@ export default [
     path: "solid/MessagingUserSalesforce",
     tags: ["SolidMessagingUserSalesforce", "salesforce"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Microphone",
@@ -17065,7 +15172,6 @@ export default [
     path: "solid/Microphone",
     tags: ["SolidMicrophone", "voice", "audio", "sound", "mic", "speak"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Milestone",
@@ -17073,7 +15179,6 @@ export default [
     path: "solid/Milestone",
     tags: ["SolidMilestone", "cta", "mountain", "flag"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Minimize",
@@ -17081,7 +15186,6 @@ export default [
     path: "solid/Minimize",
     tags: ["SolidMinimize"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MissedCall",
@@ -17089,7 +15193,6 @@ export default [
     path: "solid/MissedCall",
     tags: ["SolidMissedCall", "call", "phone", "busy"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Mobile",
@@ -17097,7 +15200,6 @@ export default [
     path: "solid/Mobile",
     tags: ["SolidMobile", "phone", "app"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MoneyConversion",
@@ -17112,7 +15214,6 @@ export default [
       "cost",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "More",
@@ -17128,7 +15229,6 @@ export default [
       "dots",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Move",
@@ -17136,7 +15236,6 @@ export default [
     path: "solid/Move",
     tags: ["SolidMove", "reposition", "nudge", "arrow", "expand", "direction"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MoveToFolder",
@@ -17144,7 +15243,6 @@ export default [
     path: "solid/MoveToFolder",
     tags: ["SolidMoveToFolder", "shift", "move", "file", "arrow"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MsgAsset",
@@ -17152,7 +15250,6 @@ export default [
     path: "solid/MsgAsset",
     tags: ["SolidMsgAsset", "asset", "msg"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Multicurrency",
@@ -17168,7 +15265,6 @@ export default [
       "dollar",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MultiFolder",
@@ -17176,7 +15272,6 @@ export default [
     path: "solid/MultiFolder",
     tags: ["SolidMultiFolder", "multiple", "folders", "files"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MultipleComments",
@@ -17184,7 +15279,6 @@ export default [
     path: "solid/MultipleComments",
     tags: ["SolidMultipleComments", "message", "comment", "multi comments"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MultiShare",
@@ -17192,7 +15286,6 @@ export default [
     path: "solid/MultiShare",
     tags: ["SolidMultiShare", "send", "share multiple", "connect"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MuteCall",
@@ -17208,7 +15301,6 @@ export default [
       "mic",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "MuteUserReddit",
@@ -17216,7 +15308,6 @@ export default [
     path: "solid/MuteUserReddit",
     tags: ["SolidMuteUserReddit", "delete chat", "reddit"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Network",
@@ -17224,7 +15315,6 @@ export default [
     path: "solid/Network",
     tags: ["SolidNetwork", "data", "network", "bars", "range", "mobile"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "NextWeek",
@@ -17239,7 +15329,6 @@ export default [
       "day after",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "NoAudio",
@@ -17247,7 +15336,6 @@ export default [
     path: "solid/NoAudio",
     tags: ["SolidNoAudio", "mute", "no sound", "quiet"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "NoCall",
@@ -17255,7 +15343,6 @@ export default [
     path: "solid/NoCall",
     tags: ["SolidNoCall", "call", "cancel call", "do not call", "phone"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "NoMedia",
@@ -17271,7 +15358,6 @@ export default [
       "image error",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Nomination",
@@ -17279,7 +15365,6 @@ export default [
     path: "solid/Nomination",
     tags: ["SolidNomination", "text", "mark important", "bookmark"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "NoPreview",
@@ -17294,7 +15379,6 @@ export default [
       "eye",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "NoRetry",
@@ -17302,7 +15386,6 @@ export default [
     path: "solid/NoRetry",
     tags: ["SolidNoRetry", "maximum attempts", "no redo"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "NoScreenControl",
@@ -17317,7 +15400,6 @@ export default [
       "finger",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Note",
@@ -17325,7 +15407,6 @@ export default [
     path: "solid/Note",
     tags: ["SolidNote", "notes", "text", "annotations", "notepad write"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "NoteApprove",
@@ -17333,7 +15414,6 @@ export default [
     path: "solid/NoteApprove",
     tags: ["SolidNoteApprove", "approve with note", "check list", "tick"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Notes",
@@ -17341,7 +15421,6 @@ export default [
     path: "solid/Notes",
     tags: ["SolidNotes", "foot notes", "test", "annotations"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "NotesApprove",
@@ -17357,7 +15436,6 @@ export default [
       "doc",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Notification",
@@ -17365,7 +15443,6 @@ export default [
     path: "solid/Notification",
     tags: ["SolidNotification", "Alert", "Inform", "Notice"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "NotificationDisable",
@@ -17380,7 +15457,6 @@ export default [
       "bel",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "NoVideo",
@@ -17388,7 +15464,6 @@ export default [
     path: "solid/NoVideo",
     tags: ["SolidNoVideo", "video", "off video"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "NoWifi",
@@ -17402,7 +15477,6 @@ export default [
       "no connection",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "NumberedList",
@@ -17410,7 +15484,6 @@ export default [
     path: "solid/NumberedList",
     tags: ["SolidNumberedList", "list", "numbers", "bullet point"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "OmniTemplateAsset",
@@ -17418,7 +15491,6 @@ export default [
     path: "solid/OmniTemplateAsset",
     tags: ["SolidOmniTemplateAsset", "message", "conversation", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "OnlineStore",
@@ -17426,7 +15498,6 @@ export default [
     path: "solid/OnlineStore",
     tags: ["SolidOnlineStore", "shoppable store", "shop", "bag", "screen"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Operator",
@@ -17434,7 +15505,6 @@ export default [
     path: "solid/Operator",
     tags: ["SolidOperator", "care", "customer call", "agent"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "OpportunitySalesforce",
@@ -17442,7 +15512,6 @@ export default [
     path: "solid/OpportunitySalesforce",
     tags: ["SolidOpportunitySalesforce", "salesforce"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "OptimisedCampaign",
@@ -17456,7 +15525,6 @@ export default [
       "ads",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Options",
@@ -17472,7 +15540,6 @@ export default [
       "3 dots",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "OptionsCircle",
@@ -17488,7 +15555,6 @@ export default [
       "3 dots",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "OptionsVertical",
@@ -17496,7 +15562,6 @@ export default [
     path: "solid/OptionsVertical",
     tags: ["SolidOptionsVertical", "option", "more", "alternative"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "OrdersSalesforce",
@@ -17504,7 +15569,6 @@ export default [
     path: "solid/OrdersSalesforce",
     tags: ["SolidOrdersSalesforce", "salesforce"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "OutboundMessages",
@@ -17518,7 +15582,6 @@ export default [
       "suggest",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "OutgoingCall",
@@ -17526,7 +15589,6 @@ export default [
     path: "solid/OutgoingCall",
     tags: ["SolidOutgoingCall", "outbound call", "call", "phone"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Overview",
@@ -17543,7 +15605,6 @@ export default [
       "visibility",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PageContentCircleClr",
@@ -17557,7 +15618,6 @@ export default [
       "content",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PaintFormat",
@@ -17571,7 +15631,6 @@ export default [
       "format paint",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Paraphrase",
@@ -17587,7 +15646,6 @@ export default [
       "reset text",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PastOrders",
@@ -17600,7 +15658,6 @@ export default [
       "activity history",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Pause",
@@ -17608,7 +15665,6 @@ export default [
     path: "solid/Pause",
     tags: ["SolidPause", "hold call", "halt", "parallel lines"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PauseCircle",
@@ -17616,7 +15672,6 @@ export default [
     path: "solid/PauseCircle",
     tags: ["SolidPauseCircle", "pause"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PciCompliance",
@@ -17632,7 +15687,6 @@ export default [
       "private",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PdfAssetClr",
@@ -17640,7 +15694,6 @@ export default [
     path: "solid/PdfAssetClr",
     tags: ["SolidPdfAssetClr"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PdfAsset",
@@ -17648,7 +15701,6 @@ export default [
     path: "solid/PdfAsset",
     tags: ["SolidPdfAsset", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PeopleCircle",
@@ -17663,7 +15715,6 @@ export default [
       "csm activity",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PercentCircle",
@@ -17671,7 +15722,6 @@ export default [
     path: "solid/PercentCircle",
     tags: ["SolidPercentCircle", "percentage"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Persona",
@@ -17679,7 +15729,6 @@ export default [
     path: "solid/Persona",
     tags: ["SolidPersona", "Persona", "People", "User"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PhotoAssetClr",
@@ -17687,7 +15736,6 @@ export default [
     path: "solid/PhotoAssetClr",
     tags: ["SolidPhotoAssetClr"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PhotoshopAssetClr",
@@ -17695,7 +15743,6 @@ export default [
     path: "solid/PhotoshopAssetClr",
     tags: ["SolidPhotoshopAssetClr", "psd"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PhotoshopAsset",
@@ -17703,7 +15750,6 @@ export default [
     path: "solid/PhotoshopAsset",
     tags: ["SolidPhotoshopAsset", "psd", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PieChart",
@@ -17711,7 +15757,6 @@ export default [
     path: "solid/PieChart",
     tags: ["SolidPieChart", "analytics", "data", "analyse", "report"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Pin",
@@ -17719,7 +15764,6 @@ export default [
     path: "solid/Pin",
     tags: ["SolidPin", "tack"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Planner",
@@ -17727,7 +15771,6 @@ export default [
     path: "solid/Planner",
     tags: ["SolidPlanner", "Planner", "Calender", "Editorial"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Play",
@@ -17735,7 +15778,6 @@ export default [
     path: "solid/Play",
     tags: ["SolidPlay", "play", "on", "video", "chevron"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PlayableAsset",
@@ -17743,7 +15785,6 @@ export default [
     path: "solid/PlayableAsset",
     tags: ["SolidPlayableAsset", "html asset", "games", "play", "ads"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PlayCircle",
@@ -17751,7 +15792,6 @@ export default [
     path: "solid/PlayCircle",
     tags: ["SolidPlayCircle", "play", "on", "video", "chevron"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Podcast",
@@ -17759,7 +15799,6 @@ export default [
     path: "solid/Podcast",
     tags: ["SolidPodcast", "audio", "radio", "podcasts"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PointerDown",
@@ -17775,7 +15814,6 @@ export default [
       "decrease",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PointerLeft",
@@ -17783,7 +15821,6 @@ export default [
     path: "solid/PointerLeft",
     tags: ["SolidPointerLeft", "point", "arrow", "left"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PointerRight",
@@ -17791,7 +15828,6 @@ export default [
     path: "solid/PointerRight",
     tags: ["SolidPointerRight", "point", "arrow", "right"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PointerRightCircle",
@@ -17799,7 +15835,6 @@ export default [
     path: "solid/PointerRightCircle",
     tags: ["SolidPointerRightCircle", "arrow", "right", "point", "track"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PointerUp",
@@ -17807,7 +15842,6 @@ export default [
     path: "solid/PointerUp",
     tags: ["SolidPointerUp", "point", "arrow", "up", "increase", "high"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PositionLeft",
@@ -17815,7 +15849,6 @@ export default [
     path: "solid/PositionLeft",
     tags: ["SolidPositionLeft", "position", "box", "place", "locate", "left"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PositionRight",
@@ -17823,7 +15856,6 @@ export default [
     path: "solid/PositionRight",
     tags: ["SolidPositionRight", "position", "box", "place", "locate", "right"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PostAsset",
@@ -17831,7 +15863,6 @@ export default [
     path: "solid/PostAsset",
     tags: ["SolidPostAsset", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PostTemplate",
@@ -17839,7 +15870,6 @@ export default [
     path: "solid/PostTemplate",
     tags: ["SolidPostTemplate", "template", "post", "layout", "arrangement"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PptAsset",
@@ -17847,7 +15877,6 @@ export default [
     path: "solid/PptAsset",
     tags: ["SolidPptAsset", "powerpoint", "ppt", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PremiereProAsset",
@@ -17855,7 +15884,6 @@ export default [
     path: "solid/PremiereProAsset",
     tags: ["SolidPremiereProAsset", "premiere pro", "prproj", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Premium",
@@ -17863,7 +15891,6 @@ export default [
     path: "solid/Premium",
     tags: ["SolidPremium", "star", "verified", "important", "vip"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Presentation",
@@ -17871,7 +15898,6 @@ export default [
     path: "solid/Presentation",
     tags: ["SolidPresentation", "powerpoint", "computer", "screen", "present"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Printer",
@@ -17879,7 +15905,6 @@ export default [
     path: "solid/Printer",
     tags: ["SolidPrinter", "print", "save", "fax"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Priority",
@@ -17887,7 +15912,6 @@ export default [
     path: "solid/Priority",
     tags: ["SolidPriority", "move up", "arrow", "important", "prime"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PriorityHighClr",
@@ -17895,7 +15919,6 @@ export default [
     path: "solid/PriorityHighClr",
     tags: ["SolidPriorityHighClr", "priority", "importance", "arrow", "high"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PriorityLowClr",
@@ -17903,7 +15926,6 @@ export default [
     path: "solid/PriorityLowClr",
     tags: ["SolidPriorityLowClr", "priority", "importance", "arrow", "low"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PriorityMediumClr",
@@ -17917,7 +15939,6 @@ export default [
       "medium",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PriorityUrgentClr",
@@ -17931,7 +15952,6 @@ export default [
       "urgent",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Product",
@@ -17939,7 +15959,6 @@ export default [
     path: "solid/Product",
     tags: ["SolidProduct", "box", "assets", "products", "carton"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ProductCircle",
@@ -17947,7 +15966,6 @@ export default [
     path: "solid/ProductCircle",
     tags: ["SolidProductCircle", "product", "bag", "assets"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ProductInsights",
@@ -17955,7 +15973,6 @@ export default [
     path: "solid/ProductInsights",
     tags: ["SolidProductInsights", "catalogue", "analysis"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Production",
@@ -17963,7 +15980,6 @@ export default [
     path: "solid/Production",
     tags: ["SolidProduction", "Production", "Dashboard"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ProductVariants",
@@ -17978,7 +15994,6 @@ export default [
       "copies",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Profile",
@@ -17986,7 +16001,6 @@ export default [
     path: "solid/Profile",
     tags: ["SolidProfile", "persona", "user", "person", "display picture"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ProfileEnrichment",
@@ -18002,7 +16016,6 @@ export default [
       "custom",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ProfileList",
@@ -18018,7 +16031,6 @@ export default [
       "list",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ProfileReview",
@@ -18036,7 +16048,6 @@ export default [
       "profile",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ProfileWidgetLayoutCentre",
@@ -18044,7 +16055,6 @@ export default [
     path: "solid/ProfileWidgetLayoutCentre",
     tags: ["SolidProfileWidgetLayoutCentre", "widget", "layout", "profile"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ProfileWidgetLayoutCentreSingle",
@@ -18057,7 +16067,6 @@ export default [
       "centre",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ProfileWidgetLayoutSide",
@@ -18065,7 +16074,6 @@ export default [
     path: "solid/ProfileWidgetLayoutSide",
     tags: ["SolidProfileWidgetLayoutSide", "widget", "layout", "profile"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Programs",
@@ -18082,7 +16090,6 @@ export default [
       "multiple",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Promotion",
@@ -18090,7 +16097,6 @@ export default [
     path: "solid/Promotion",
     tags: ["SolidPromotion", "percentage", "sale", "promoting", "promo", "ad"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PropositionSalesforce",
@@ -18098,7 +16104,6 @@ export default [
     path: "solid/PropositionSalesforce",
     tags: ["SolidPropositionSalesforce", "salesforce"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Publish",
@@ -18106,7 +16111,6 @@ export default [
     path: "solid/Publish",
     tags: ["SolidPublish", "send", "post"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PublishCircle",
@@ -18114,7 +16118,6 @@ export default [
     path: "solid/PublishCircle",
     tags: ["SolidPublishCircle", "send", "post", "share", "manual publish"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PublisherConsolePlanner",
@@ -18128,7 +16131,6 @@ export default [
       "editorial calendar",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "PulseCircle",
@@ -18136,7 +16138,6 @@ export default [
     path: "solid/PulseCircle",
     tags: ["SolidPulseCircle", "ekg", "line", "pulse", "alert"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Puzzle",
@@ -18144,7 +16145,6 @@ export default [
     path: "solid/Puzzle",
     tags: ["SolidPuzzle", "lead generation", "jigsaw", "activity"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "QrCode",
@@ -18152,7 +16152,6 @@ export default [
     path: "solid/QrCode",
     tags: ["SolidQrCode", "qr code", "scan", "code", "barcode"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "QrCodeAsset",
@@ -18160,7 +16159,6 @@ export default [
     path: "solid/QrCodeAsset",
     tags: ["SolidQrCodeAsset", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "QuickFilter",
@@ -18168,7 +16166,6 @@ export default [
     path: "solid/QuickFilter",
     tags: ["SolidQuickFilter", "filter", "quick", "bolt", "lightning"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "QuickMessage",
@@ -18183,7 +16180,6 @@ export default [
       "prompt message",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "QuickSearch",
@@ -18191,7 +16187,6 @@ export default [
     path: "solid/QuickSearch",
     tags: ["SolidQuickSearch", "bookmark", "search", "activity"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "RaiseFlag",
@@ -18199,7 +16194,6 @@ export default [
     path: "solid/RaiseFlag",
     tags: ["SolidRaiseFlag"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "RarAsset",
@@ -18207,7 +16201,6 @@ export default [
     path: "solid/RarAsset",
     tags: ["SolidRarAsset", "rar", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Reach",
@@ -18215,7 +16208,6 @@ export default [
     path: "solid/Reach",
     tags: ["SolidReach", "network", "connection", "hub", "web", "data"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Reactions",
@@ -18223,7 +16215,6 @@ export default [
     path: "solid/Reactions",
     tags: ["SolidReactions", "emojis", "react", "total reactions", "social"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Rearrange",
@@ -18239,7 +16230,6 @@ export default [
       "arrange",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Rechurn",
@@ -18247,7 +16237,6 @@ export default [
     path: "solid/Rechurn",
     tags: ["SolidRechurn", "redial", "manual redial", "retry", "user refresh"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Record",
@@ -18255,7 +16244,6 @@ export default [
     path: "solid/Record",
     tags: ["SolidRecord", "call record", "button", "target"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Redial",
@@ -18263,7 +16251,6 @@ export default [
     path: "solid/Redial",
     tags: ["SolidRedial", "call", "refresh call", "phone", "redial strategy"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Redo",
@@ -18271,7 +16258,6 @@ export default [
     path: "solid/Redo",
     tags: ["SolidRedo", "redo", "arrow", "next", "reset", "move", "forward"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Reels",
@@ -18279,7 +16265,6 @@ export default [
     path: "solid/Reels",
     tags: ["SolidReels", "insta", "instagram", "video", "play"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Refresh",
@@ -18287,7 +16272,6 @@ export default [
     path: "solid/Refresh",
     tags: ["SolidRefresh", "reload", "load", "arrow", "round about"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Reject",
@@ -18295,7 +16279,6 @@ export default [
     path: "solid/Reject",
     tags: ["SolidReject"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "RejectCircle",
@@ -18312,7 +16295,6 @@ export default [
       "block",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Remove",
@@ -18320,7 +16302,6 @@ export default [
     path: "solid/Remove",
     tags: ["SolidRemove", "minus circle", "negative", "uninstall"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "RemoveContent",
@@ -18336,7 +16317,6 @@ export default [
       "opt out content",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "RemoveUser",
@@ -18344,7 +16324,6 @@ export default [
     path: "solid/RemoveUser",
     tags: ["SolidRemoveUser", "care calling", "remove", "subtract", "cancel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "RemoveUserCircle",
@@ -18359,7 +16338,6 @@ export default [
       "minus",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Replace",
@@ -18367,7 +16345,6 @@ export default [
     path: "solid/Replace",
     tags: ["SolidReplace", "replace", "rotate", "change", "swap"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Reply",
@@ -18375,7 +16352,6 @@ export default [
     path: "solid/Reply",
     tags: ["SolidReply", "reverse arrow", "return"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ReplyAll",
@@ -18383,7 +16359,6 @@ export default [
     path: "solid/ReplyAll",
     tags: ["SolidReplyAll", "link", "connect", "join", "connection"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ReplyBoxCollapse",
@@ -18399,7 +16374,6 @@ export default [
       "note",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ReplyBoxDefault",
@@ -18415,7 +16389,6 @@ export default [
       "note",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ReplyBoxExpand",
@@ -18431,7 +16404,6 @@ export default [
       "note",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ReplyError",
@@ -18450,7 +16422,6 @@ export default [
       "exception",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Report",
@@ -18467,7 +16438,6 @@ export default [
       "reporting",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Reporting",
@@ -18475,7 +16445,6 @@ export default [
     path: "solid/Reporting",
     tags: ["SolidReporting", "Reporting", "Report", "Stats"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ReportingDashboardClr",
@@ -18489,7 +16458,6 @@ export default [
       "data",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Repost",
@@ -18497,7 +16465,6 @@ export default [
     path: "solid/Repost",
     tags: ["SolidRepost", "share", "retweet", "repeat"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "RequestHelp",
@@ -18513,7 +16480,6 @@ export default [
       "queries",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Reschedule",
@@ -18528,7 +16494,6 @@ export default [
       "time",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Reset",
@@ -18543,7 +16508,6 @@ export default [
       "arrow circle",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ResetColour",
@@ -18559,7 +16523,6 @@ export default [
       "format",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "RestartMessage",
@@ -18573,7 +16536,6 @@ export default [
       "issue",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "RestartPendingMessage",
@@ -18587,7 +16549,6 @@ export default [
       "pending issue",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Restricted",
@@ -18602,7 +16563,6 @@ export default [
       "locked dashboard",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Resume",
@@ -18610,7 +16570,6 @@ export default [
     path: "solid/Resume",
     tags: ["SolidResume", "play", "arrow", "resume"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Retagging",
@@ -18626,7 +16585,6 @@ export default [
       "support",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Ring",
@@ -18634,7 +16592,6 @@ export default [
     path: "solid/Ring",
     tags: ["SolidRing", "pulse", "status", "indicator", "donut", "circl"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "RingHalf",
@@ -18650,7 +16607,6 @@ export default [
       "draft",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Rocket",
@@ -18658,7 +16614,6 @@ export default [
     path: "solid/Rocket",
     tags: ["SolidRocket", "boost", "launch", "boost post", "speed up", "shoot"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Roles",
@@ -18673,7 +16628,6 @@ export default [
       "happy sad",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "RotateClockwise",
@@ -18688,7 +16642,6 @@ export default [
       "right",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "RotateCounterClockwise",
@@ -18703,7 +16656,6 @@ export default [
       "left",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Rule",
@@ -18711,7 +16663,6 @@ export default [
     path: "solid/Rule",
     tags: ["SolidRule", "flowchart", "work flow", "manage workflow"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SavedQuery",
@@ -18719,7 +16670,6 @@ export default [
     path: "solid/SavedQuery",
     tags: ["SolidSavedQuery", "bookmark", "search", "activity"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Schedule",
@@ -18727,7 +16677,6 @@ export default [
     path: "solid/Schedule",
     tags: ["SolidSchedule", "clock", "time"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Screen",
@@ -18735,7 +16684,6 @@ export default [
     path: "solid/Screen",
     tags: ["SolidScreen", "text box", "notes", "laptop screen"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ScreenControl",
@@ -18751,7 +16699,6 @@ export default [
       "finger",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ScreenControlCircle",
@@ -18767,7 +16714,6 @@ export default [
       "finger",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Search",
@@ -18775,7 +16721,6 @@ export default [
     path: "solid/Search",
     tags: ["SolidSearch", "find", "look", "explore", "magnifying glass"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SearchCircle",
@@ -18783,7 +16728,6 @@ export default [
     path: "solid/SearchCircle",
     tags: ["SolidSearchCircle", "find", "look", "explore", "magnifying glass"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Security",
@@ -18791,7 +16735,6 @@ export default [
     path: "solid/Security",
     tags: ["SolidSecurity", "Safety", "Shield", "Reliable"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Segment",
@@ -18799,7 +16742,6 @@ export default [
     path: "solid/Segment",
     tags: ["SolidSegment", "circle", "section", "pie", "quadrant", "divide"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SegmentManager",
@@ -18814,7 +16756,6 @@ export default [
       "settings",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Send",
@@ -18822,7 +16763,6 @@ export default [
     path: "solid/Send",
     tags: ["SolidSend", "publish", "share"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentAngryClr",
@@ -18830,7 +16770,6 @@ export default [
     path: "solid/SentimentAngryClr",
     tags: ["SolidSentimentAngryClr", "emoji", "sentiment", "smiley", "angry"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentAngry",
@@ -18848,7 +16787,6 @@ export default [
       "emoticon",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentDelightedClr",
@@ -18862,7 +16800,6 @@ export default [
       "delighted",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentDissapointedClr",
@@ -18876,7 +16813,6 @@ export default [
       "dissapointed",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentExtremelyHappyClr",
@@ -18893,7 +16829,6 @@ export default [
       "emoticon",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentGreyAngryClr",
@@ -18911,7 +16846,6 @@ export default [
       "emoticon",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentGreyDelightedClr",
@@ -18925,7 +16859,6 @@ export default [
       "delighted",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentGreyDissapointedClr",
@@ -18943,7 +16876,6 @@ export default [
       "smiley",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentGreyExtremelyHappyClr",
@@ -18961,7 +16893,6 @@ export default [
       "smiley",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentGreyHappyClr",
@@ -18979,7 +16910,6 @@ export default [
       "smiley",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentGreyOkayClr",
@@ -18997,7 +16927,6 @@ export default [
       "smiley",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentGreySadClr",
@@ -19016,7 +16945,6 @@ export default [
       "emoticon",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentGreySlightlyHappyClr",
@@ -19030,7 +16958,6 @@ export default [
       "happy",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentGreyUpsetClr",
@@ -19044,7 +16971,6 @@ export default [
       "upset",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentHappyClr",
@@ -19052,7 +16978,6 @@ export default [
     path: "solid/SentimentHappyClr",
     tags: ["SolidSentimentHappyClr", "emoji", "sentiment", "smiley", "happy"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentHappy",
@@ -19068,7 +16993,6 @@ export default [
       "face",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentNeutral",
@@ -19084,7 +17008,6 @@ export default [
       "frown",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentOkayClr",
@@ -19092,7 +17015,6 @@ export default [
     path: "solid/SentimentOkayClr",
     tags: ["SolidSentimentOkayClr", "emoji", "smiley", "sentiment", "okay"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentSadClr",
@@ -19100,7 +17022,6 @@ export default [
     path: "solid/SentimentSadClr",
     tags: ["SolidSentimentSadClr", "emoji", "sentiment", "smiley", "sad"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentSad",
@@ -19108,7 +17029,6 @@ export default [
     path: "solid/SentimentSad",
     tags: ["SolidSentimentSad", "smiley", "okay", "emoji", "face"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentSlightlyHappyClr",
@@ -19122,7 +17042,6 @@ export default [
       "okay",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentStarstruckClr",
@@ -19140,7 +17059,6 @@ export default [
       "startstruck",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentStarstruck",
@@ -19158,7 +17076,6 @@ export default [
       "smiley",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentUpsetClr",
@@ -19166,7 +17083,6 @@ export default [
     path: "solid/SentimentUpsetClr",
     tags: ["SolidSentimentUpsetClr", "upset", "emoji", "sentiment", "smiley"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentVeryHappy",
@@ -19183,7 +17099,6 @@ export default [
       "emoticon",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentYellowAngryClr",
@@ -19202,7 +17117,6 @@ export default [
       "Yellow",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentYellowDissapointedClr",
@@ -19222,7 +17136,6 @@ export default [
       "Yellow",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentYellowExtremelyHappyClr",
@@ -19240,7 +17153,6 @@ export default [
       "Yellow",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentYellowOkayClr",
@@ -19259,7 +17171,6 @@ export default [
       "Yellow",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentYellowSadClr",
@@ -19279,7 +17190,6 @@ export default [
       "Yellow",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SentimentYellowStarstruckClr",
@@ -19298,7 +17208,6 @@ export default [
       "Yellow",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Service",
@@ -19314,7 +17223,6 @@ export default [
       "ask",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Settings",
@@ -19322,7 +17230,6 @@ export default [
     path: "solid/Settings",
     tags: ["SolidSettings", "Options", "Configure"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Shapes",
@@ -19338,7 +17245,6 @@ export default [
       "square",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Share",
@@ -19346,7 +17252,6 @@ export default [
     path: "solid/Share",
     tags: ["SolidShare", "send", "arrow right"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ShareCircleClr",
@@ -19354,7 +17259,6 @@ export default [
     path: "solid/ShareCircleClr",
     tags: ["SolidShareCircleClr", "forward", "multi share", "mobile"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SharedFolder",
@@ -19362,7 +17266,6 @@ export default [
     path: "solid/SharedFolder",
     tags: ["SolidSharedFolder", "collaborate folder", "user file"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SideBySide",
@@ -19370,7 +17273,6 @@ export default [
     path: "solid/SideBySide",
     tags: ["SolidSideBySide", "side", "stack", "bars", "compare", "blocks"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SingleFeild",
@@ -19386,7 +17288,6 @@ export default [
       "field",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SketchAssetClr",
@@ -19394,7 +17295,6 @@ export default [
     path: "solid/SketchAssetClr",
     tags: ["SolidSketchAssetClr"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SketchAsset",
@@ -19402,7 +17302,6 @@ export default [
     path: "solid/SketchAsset",
     tags: ["SolidSketchAsset", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Slider",
@@ -19410,7 +17309,6 @@ export default [
     path: "solid/Slider",
     tags: ["SolidSlider", "customise", "timeline"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SliderVertical",
@@ -19425,7 +17323,6 @@ export default [
       "settings",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SmartDrilldown",
@@ -19433,7 +17330,6 @@ export default [
     path: "solid/SmartDrilldown",
     tags: ["SolidSmartDrilldown", "drill down", "graph", "statistics"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SmartRules",
@@ -19449,7 +17345,6 @@ export default [
       "workflow",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SmartSchedule",
@@ -19465,7 +17360,6 @@ export default [
       "schedule",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Sms",
@@ -19473,7 +17367,6 @@ export default [
     path: "solid/Sms",
     tags: ["SolidSms", "chat", "message", "text message"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SnoozeAlarm",
@@ -19481,7 +17374,6 @@ export default [
     path: "solid/SnoozeAlarm",
     tags: ["SolidSnoozeAlarm", "clock", "snooze", "z", "time"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SocialListening",
@@ -19489,7 +17381,6 @@ export default [
     path: "solid/SocialListening",
     tags: ["SolidSocialListening", "listening", "twitter", "globe", "search"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SocialReporting",
@@ -19497,7 +17388,6 @@ export default [
     path: "solid/SocialReporting",
     tags: ["SolidSocialReporting", "reporting", "graph", "screen", "window"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SortAscending",
@@ -19505,7 +17395,6 @@ export default [
     path: "solid/SortAscending",
     tags: ["SolidSortAscending", "sort", "ascending", "arrow"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SortDecending",
@@ -19513,7 +17402,6 @@ export default [
     path: "solid/SortDecending",
     tags: ["SolidSortDecending", "arrange", "sorting", "segregate", "organise"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SoundConfiguration",
@@ -19531,7 +17419,6 @@ export default [
       "background noise",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Source",
@@ -19546,7 +17433,6 @@ export default [
       "arrow out",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SourceCircle",
@@ -19554,7 +17440,6 @@ export default [
     path: "solid/SourceCircle",
     tags: ["SolidSourceCircle", "source", "enlarge", "arrow", "expand"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Sources",
@@ -19562,7 +17447,6 @@ export default [
     path: "solid/Sources",
     tags: ["SolidSources", "feed", "catalog source", "product source", "stack"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Spacing",
@@ -19578,7 +17462,6 @@ export default [
       "leading",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SpacingHorizontal",
@@ -19593,7 +17476,6 @@ export default [
       "space",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SpacingVertical",
@@ -19608,7 +17490,6 @@ export default [
       "space",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Spacious",
@@ -19616,7 +17497,6 @@ export default [
     path: "solid/Spacious",
     tags: ["SolidSpacious", "spacing", "add space", "arrow", "move"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Spam",
@@ -19633,7 +17513,6 @@ export default [
       "threat",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Sparkle",
@@ -19648,7 +17527,6 @@ export default [
       "Automatic",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Speech",
@@ -19665,7 +17543,6 @@ export default [
       "audio",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SpiderChart",
@@ -19673,7 +17550,6 @@ export default [
     path: "solid/SpiderChart",
     tags: ["SolidSpiderChart", "chart", "spiderchart", "reporting", "data"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Split",
@@ -19681,7 +17557,6 @@ export default [
     path: "solid/Split",
     tags: ["SolidSplit", "unmerge", "sparate", "break", "arrow", "diverge"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SprinklrFallback",
@@ -19689,7 +17564,6 @@ export default [
     path: "solid/SprinklrFallback",
     tags: ["SolidSprinklrFallback", "sprinklr"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Stage",
@@ -19706,7 +17580,6 @@ export default [
       "hierarchy",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "StampSquare",
@@ -19714,7 +17587,6 @@ export default [
     path: "solid/StampSquare",
     tags: ["SolidStampSquare", "stamp", "attest", "approve"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Star",
@@ -19722,7 +17594,6 @@ export default [
     path: "solid/Star",
     tags: ["SolidStar", "CSAT", "rating", "favourite", "Like"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "StarBadge",
@@ -19730,7 +17601,6 @@ export default [
     path: "solid/StarBadge",
     tags: ["SolidStarBadge", "parent", "master", "star circle", "parent case"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "StarCircle",
@@ -19746,7 +17616,6 @@ export default [
       "csm activity",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "StarComment",
@@ -19762,7 +17631,6 @@ export default [
       "important",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "StarHalf",
@@ -19770,7 +17638,6 @@ export default [
     path: "solid/StarHalf",
     tags: ["SolidStarHalf", "stars", "rating"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Status",
@@ -19778,7 +17645,6 @@ export default [
     path: "solid/Status",
     tags: ["SolidStatus"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "StokeThickness",
@@ -19793,7 +17659,6 @@ export default [
       "weight",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Stop",
@@ -19801,7 +17666,6 @@ export default [
     path: "solid/Stop",
     tags: ["SolidStop", "halt", "square", "end"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "StopCircle",
@@ -19809,7 +17673,6 @@ export default [
     path: "solid/StopCircle",
     tags: ["SolidStopCircle", "stop"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Story",
@@ -19817,7 +17680,6 @@ export default [
     path: "solid/Story",
     tags: ["SolidStory"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Strategy",
@@ -19832,7 +17694,6 @@ export default [
       "balance",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Styling",
@@ -19840,7 +17701,6 @@ export default [
     path: "solid/Styling",
     tags: ["SolidStyling", "paint pallet", "creative", "style"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SubCampaign",
@@ -19855,7 +17715,6 @@ export default [
       "multiple",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Subscript",
@@ -19863,7 +17722,6 @@ export default [
     path: "solid/Subscript",
     tags: ["SolidSubscript", "subscript"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Suggestion",
@@ -19871,7 +17729,6 @@ export default [
     path: "solid/Suggestion",
     tags: ["SolidSuggestion", "user suggestion", "edit message"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Sun",
@@ -19887,7 +17744,6 @@ export default [
       "sunny",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Superscript",
@@ -19895,7 +17751,6 @@ export default [
     path: "solid/Superscript",
     tags: ["SolidSuperscript", "superscript"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SupervisorOmni",
@@ -19912,7 +17767,6 @@ export default [
       "trust",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Survey",
@@ -19920,7 +17774,6 @@ export default [
     path: "solid/Survey",
     tags: ["SolidSurvey", "Survey", "Builder"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SvgAsset",
@@ -19928,7 +17781,6 @@ export default [
     path: "solid/SvgAsset",
     tags: ["SolidSvgAsset", "svg", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Sweep",
@@ -19936,7 +17788,6 @@ export default [
     path: "solid/Sweep",
     tags: ["SolidSweep", "clear", "broom", "brush", "sweeping"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SwitchDiagonal",
@@ -19952,7 +17803,6 @@ export default [
       "point",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SwitchHorizontal",
@@ -19968,7 +17818,6 @@ export default [
       "arrow",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Switching",
@@ -19983,7 +17832,6 @@ export default [
       "context switching",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SwitchVertical",
@@ -19999,7 +17847,6 @@ export default [
       "arrow",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   // {
   //   name: "SwooshBenefitAsset",
@@ -20007,8 +17854,7 @@ export default [
   //   path: "solid/SwooshBenefitAsset",
   //   tags: ["SolidSwooshBenefitAsset", "ticket", "swoosh", "asset"],
   //   category: "solid",
-//     filePath: path.join(process.cwd(), '/data/solid",
-// /')// 
+//   /')// 
 //   },
   {
     name: "Sync",
@@ -20016,7 +17862,6 @@ export default [
     path: "solid/Sync",
     tags: ["SolidSync", "refresh", "recycle", "cycle", "match"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "SyncDisable",
@@ -20024,7 +17869,6 @@ export default [
     path: "solid/SyncDisable",
     tags: ["SolidSyncDisable", "refresh", "recycle", "cycle", "unsync"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TableExtraTall",
@@ -20032,7 +17876,6 @@ export default [
     path: "solid/TableExtraTall",
     tags: ["SolidTableExtraTall", "table", "spacing", "height", "tall"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TableMedium",
@@ -20040,7 +17883,6 @@ export default [
     path: "solid/TableMedium",
     tags: ["SolidTableMedium", "table", "spacing", "height", "medium"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TableShort",
@@ -20048,7 +17890,6 @@ export default [
     path: "solid/TableShort",
     tags: ["SolidTableShort", "table", "spacing", "height", "short"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Tablet",
@@ -20056,7 +17897,6 @@ export default [
     path: "solid/Tablet",
     tags: ["SolidTablet", "mac", "ipad", "pad", "screen"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TableTall",
@@ -20064,7 +17904,6 @@ export default [
     path: "solid/TableTall",
     tags: ["SolidTableTall", "table", "spacing", "height", "tall"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TableView",
@@ -20080,7 +17919,6 @@ export default [
       "list",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Tabs",
@@ -20088,7 +17926,6 @@ export default [
     path: "solid/Tabs",
     tags: ["SolidTabs", "tab", "window", "corne"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Tag",
@@ -20096,7 +17933,6 @@ export default [
     path: "solid/Tag",
     tags: ["SolidTag", "price tag", "label", "ticket", "badge", "mark", "tab"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Target",
@@ -20104,7 +17940,6 @@ export default [
     path: "solid/Target",
     tags: ["SolidTarget", "bullseye", "paid initiative", "mark", "intention"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TargetAudience",
@@ -20120,7 +17955,6 @@ export default [
       "focus",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Task",
@@ -20128,7 +17962,6 @@ export default [
     path: "solid/Task",
     tags: ["SolidTask", "pin board", "check list", "tasks", "survey"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TaskCircle",
@@ -20136,7 +17969,6 @@ export default [
     path: "solid/TaskCircle",
     tags: ["SolidTaskCircle", "task", "board", "cdap", "csm activity"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TaskSalesforce",
@@ -20144,7 +17976,6 @@ export default [
     path: "solid/TaskSalesforce",
     tags: ["SolidTaskSalesforce", "salesforce"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TaskSchedule",
@@ -20160,7 +17991,6 @@ export default [
       "time",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TaskTick",
@@ -20168,7 +17998,6 @@ export default [
     path: "solid/TaskTick",
     tags: ["SolidTaskTick", "task", "tick", "activity", "action", "done"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TemplateClr",
@@ -20176,7 +18005,6 @@ export default [
     path: "solid/TemplateClr",
     tags: ["SolidTemplateClr", "board", "grid", "layout"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Template",
@@ -20184,7 +18012,6 @@ export default [
     path: "solid/Template",
     tags: ["SolidTemplate", "caption", "photo", "video", "board"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TemplateBehindText",
@@ -20192,7 +18019,6 @@ export default [
     path: "solid/TemplateBehindText",
     tags: ["SolidTemplateBehindText", "behind text", "content"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TemplateBreakText",
@@ -20200,7 +18026,6 @@ export default [
     path: "solid/TemplateBreakText",
     tags: ["SolidTemplateBreakText", "break text", "content"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TemplateInline",
@@ -20208,7 +18033,6 @@ export default [
     path: "solid/TemplateInline",
     tags: ["SolidTemplateInline", "inline", "content"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TemplateRectangleClr",
@@ -20216,7 +18040,6 @@ export default [
     path: "solid/TemplateRectangleClr",
     tags: ["SolidTemplateRectangleClr", "board", "HSM templates"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TemplateWrapText",
@@ -20224,7 +18047,6 @@ export default [
     path: "solid/TemplateWrapText",
     tags: ["SolidTemplateWrapText", "wrap text", "content"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TestTube",
@@ -20239,7 +18061,6 @@ export default [
       "test rule",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TextAssetClr",
@@ -20247,7 +18068,6 @@ export default [
     path: "solid/TextAssetClr",
     tags: ["SolidTextAssetClr"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TextAsset",
@@ -20255,7 +18075,6 @@ export default [
     path: "solid/TextAsset",
     tags: ["SolidTextAsset", "text", "document", "word", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TextCursor",
@@ -20263,7 +18082,6 @@ export default [
     path: "solid/TextCursor",
     tags: ["SolidTextCursor", "text", "curson", "pointer", "caret", "beam"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TextDocument",
@@ -20271,7 +18089,6 @@ export default [
     path: "solid/TextDocument",
     tags: ["SolidTextDocument", "text", "file", "asset", "text template"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TextSearch",
@@ -20286,7 +18103,6 @@ export default [
       "data",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Themes",
@@ -20301,7 +18117,6 @@ export default [
       "template",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Thread",
@@ -20309,7 +18124,6 @@ export default [
     path: "solid/Thread",
     tags: ["SolidThread", "twitter", "post", "feed"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Tick",
@@ -20317,7 +18131,6 @@ export default [
     path: "solid/Tick",
     tags: ["SolidTick"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TickCircleClr",
@@ -20325,7 +18138,6 @@ export default [
     path: "solid/TickCircleClr",
     tags: ["SolidTickCircleClr", "tick", "check", "check mark", "update"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TickCircle",
@@ -20340,7 +18152,6 @@ export default [
       "csm activity",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Ticket",
@@ -20348,7 +18159,6 @@ export default [
     path: "solid/Ticket",
     tags: ["SolidTicket", "ticket field", "ticket form", "tab"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TicketNotification",
@@ -20356,7 +18166,6 @@ export default [
     path: "solid/TicketNotification",
     tags: ["SolidTicketNotification", "notification", "ticket", "unread"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TicketSquare",
@@ -20364,7 +18173,6 @@ export default [
     path: "solid/TicketSquare",
     tags: ["SolidTicketSquare", "tickets", "cases", "ticket property"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TiktokAddClr",
@@ -20372,7 +18180,6 @@ export default [
     path: "solid/TiktokAddClr",
     tags: ["SolidTiktokAddClr", "tiktok"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TiktokComment",
@@ -20380,7 +18187,6 @@ export default [
     path: "solid/TiktokComment",
     tags: ["SolidTiktokComment", "tiktok"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TiktokDisableComment",
@@ -20388,7 +18194,6 @@ export default [
     path: "solid/TiktokDisableComment",
     tags: ["SolidTiktokDisableComment", "tiktok", "comment", "message"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TiktokDisableDuet",
@@ -20396,7 +18201,6 @@ export default [
     path: "solid/TiktokDisableDuet",
     tags: ["SolidTiktokDisableDuet", "tiktok", "duet"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TiktokDisableStitch",
@@ -20404,7 +18208,6 @@ export default [
     path: "solid/TiktokDisableStitch",
     tags: ["SolidTiktokDisableStitch", "tiktok", "stitch", "video"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TiktokDuet",
@@ -20412,7 +18215,6 @@ export default [
     path: "solid/TiktokDuet",
     tags: ["SolidTiktokDuet"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TiktokHome",
@@ -20420,7 +18222,6 @@ export default [
     path: "solid/TiktokHome",
     tags: ["SolidTiktokHome", "tiktok"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TiktokLikeClr",
@@ -20428,7 +18229,6 @@ export default [
     path: "solid/TiktokLikeClr",
     tags: ["SolidTiktokLikeClr", "tiktok", "Like"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TiktokLike",
@@ -20436,7 +18236,6 @@ export default [
     path: "solid/TiktokLike",
     tags: ["SolidTiktokLike", "tiktok"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TiktokShare",
@@ -20444,7 +18243,6 @@ export default [
     path: "solid/TiktokShare",
     tags: ["SolidTiktokShare", "tiktok"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TiktokStitch",
@@ -20452,7 +18250,6 @@ export default [
     path: "solid/TiktokStitch",
     tags: ["SolidTiktokStitch"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TimeFilter",
@@ -20460,7 +18257,6 @@ export default [
     path: "solid/TimeFilter",
     tags: ["SolidTimeFilter", "time", "filter", "schedule"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TimePositionHorizontal",
@@ -20473,7 +18269,6 @@ export default [
       "horizontal",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TimePositionVertical",
@@ -20481,7 +18276,6 @@ export default [
     path: "solid/TimePositionVertical",
     tags: ["SolidTimePositionVertical", "position", "time stamp", "vertical"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TimeSchedule",
@@ -20496,7 +18290,6 @@ export default [
       "schedul",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ToggleLableFull",
@@ -20504,7 +18297,6 @@ export default [
     path: "solid/ToggleLableFull",
     tags: ["SolidToggleLableFull", "label", "toggle", "button", "expand"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ToggleLableOff",
@@ -20512,7 +18304,6 @@ export default [
     path: "solid/ToggleLableOff",
     tags: ["SolidToggleLableOff", "label", "toggle", "button", "collapse"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ToggleLableShort",
@@ -20528,7 +18319,6 @@ export default [
       "reduce",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Tomorrow",
@@ -20544,7 +18334,6 @@ export default [
       "tomorrow",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Tool",
@@ -20552,7 +18341,6 @@ export default [
     path: "solid/Tool",
     tags: ["SolidTool", "Tools", "Option"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ToolCircle",
@@ -20560,7 +18348,6 @@ export default [
     path: "solid/ToolCircle",
     tags: ["SolidToolCircle", "tool", "wrench", "setting", "platform", "fix"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TopAlign",
@@ -20568,7 +18355,6 @@ export default [
     path: "solid/TopAlign",
     tags: ["SolidTopAlign", "align", "arrow", "top line", "push"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Topics",
@@ -20576,7 +18362,6 @@ export default [
     path: "solid/Topics",
     tags: ["SolidTopics", "topic", "listening", "research"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TopPerforming",
@@ -20592,7 +18377,6 @@ export default [
       "revenue",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Training",
@@ -20609,7 +18393,6 @@ export default [
       "teach",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TransitionMessage",
@@ -20624,7 +18407,6 @@ export default [
       "arrow",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TransitionMessageMultiple",
@@ -20640,7 +18422,6 @@ export default [
       "multiple",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TransitionMessageNew",
@@ -20657,7 +18438,6 @@ export default [
       "new",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TransitionMessageOngoing",
@@ -20674,7 +18454,6 @@ export default [
       "ongoing",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TransitionMessageSelected",
@@ -20691,7 +18470,6 @@ export default [
       "selected",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Trending",
@@ -20699,7 +18477,6 @@ export default [
     path: "solid/Trending",
     tags: ["SolidTrending", "hike", "popular", "increase", "fire"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Trophy",
@@ -20707,7 +18484,6 @@ export default [
     path: "solid/Trophy",
     tags: ["SolidTrophy", "Success", "Modern success", "Champion", "Award"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Truck",
@@ -20722,7 +18498,6 @@ export default [
       "transport",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Trust",
@@ -20730,7 +18505,6 @@ export default [
     path: "solid/Trust",
     tags: ["SolidTrust", "sheild", "brand trust", "star sheild", "protect"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TwitterFeedbackAsset",
@@ -20738,7 +18512,6 @@ export default [
     path: "solid/TwitterFeedbackAsset",
     tags: ["SolidTwitterFeedbackAsset", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "TwitterHome",
@@ -20746,7 +18519,6 @@ export default [
     path: "solid/TwitterHome",
     tags: ["SolidTwitterHome", "twitter"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Unarchive",
@@ -20754,7 +18526,6 @@ export default [
     path: "solid/Unarchive",
     tags: ["SolidUnarchive", "remove archive", "up arrow", "restore"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Unblock",
@@ -20762,7 +18533,6 @@ export default [
     path: "solid/Unblock",
     tags: ["SolidUnblock", "unblock", "block", "subtract", "minus"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Undelete",
@@ -20770,7 +18540,6 @@ export default [
     path: "solid/Undelete",
     tags: ["SolidUndelete", "bin", "restore", "unarchive", "delete"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Undo",
@@ -20778,7 +18547,6 @@ export default [
     path: "solid/Undo",
     tags: ["SolidUndo", "undo", "arrow", "back", "reset", "revert"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Unhold",
@@ -20786,7 +18554,6 @@ export default [
     path: "solid/Unhold",
     tags: ["SolidUnhold", "pause", "hold call", "un pause"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Unify",
@@ -20794,7 +18561,6 @@ export default [
     path: "solid/Unify",
     tags: ["SolidUnify", "Join", "Integrate", "Merge", "Combine", "Unite"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Unlink",
@@ -20802,7 +18568,6 @@ export default [
     path: "solid/Unlink",
     tags: ["SolidUnlink", "break connection", "disconnect", "no link"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Unlock",
@@ -20810,7 +18575,6 @@ export default [
     path: "solid/Unlock",
     tags: ["SolidUnlock", "open", "access granted", "lock"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Unmerge",
@@ -20827,7 +18591,6 @@ export default [
       "split",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Unpin",
@@ -20835,7 +18598,6 @@ export default [
     path: "solid/Unpin",
     tags: ["SolidUnpin", "remove pin", "unsaved"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Unsend",
@@ -20843,7 +18605,6 @@ export default [
     path: "solid/Unsend",
     tags: ["SolidUnsend", "unrelease", "release", "send", "share", "cross"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Upvote",
@@ -20851,7 +18612,6 @@ export default [
     path: "solid/Upvote",
     tags: ["SolidUpvote", "upvote", "amazon", "arrow", "point", "voc", "up"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "User",
@@ -20859,7 +18619,6 @@ export default [
     path: "solid/User",
     tags: ["SolidUser", "user", "person"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "UserAnnounce",
@@ -20875,7 +18634,6 @@ export default [
       "campaign",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "UserCalender",
@@ -20883,7 +18641,6 @@ export default [
     path: "solid/UserCalender",
     tags: ["SolidUserCalender"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "UserCall",
@@ -20891,7 +18648,6 @@ export default [
     path: "solid/UserCall",
     tags: ["SolidUserCall", "user", "call", "phone"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "UserCancel",
@@ -20899,7 +18655,6 @@ export default [
     path: "solid/UserCancel",
     tags: ["SolidUserCancel", "not allowed", "no control", "cross", "user"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "UserHourglass",
@@ -20907,7 +18662,6 @@ export default [
     path: "solid/UserHourglass",
     tags: ["SolidUserHourglass", "user", "person", "guest"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "UserKey",
@@ -20915,7 +18669,6 @@ export default [
     path: "solid/UserKey",
     tags: ["SolidUserKey", "single sign on", "user", "person", "key", "access"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Users",
@@ -20930,7 +18683,6 @@ export default [
       "group",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "UserSearch",
@@ -20946,7 +18698,6 @@ export default [
       "look",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "UserSheild",
@@ -20962,7 +18713,6 @@ export default [
       "supervisor",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "UserSheildInbound",
@@ -20978,7 +18728,6 @@ export default [
       "trust",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "UserSheildOutbound",
@@ -20994,7 +18743,6 @@ export default [
       "leave",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "UsersHourglass",
@@ -21002,7 +18750,6 @@ export default [
     path: "solid/UsersHourglass",
     tags: ["SolidUsersHourglass", "users", "time", "guest", "group"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "UsersKey",
@@ -21018,7 +18765,6 @@ export default [
       "social sign on",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "UsersSearch",
@@ -21035,7 +18781,6 @@ export default [
       "users",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "UsersStar",
@@ -21050,7 +18795,6 @@ export default [
       "calibrator",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "UserStar",
@@ -21058,7 +18802,6 @@ export default [
     path: "solid/UserStar",
     tags: ["SolidUserStar", "user", "Important", "star", "auditor"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "UserStarKey",
@@ -21075,7 +18818,6 @@ export default [
       "sso service provider",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "UsersWork",
@@ -21090,7 +18832,6 @@ export default [
       "breifcase",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "UserTag",
@@ -21098,7 +18839,6 @@ export default [
     path: "solid/UserTag",
     tags: ["SolidUserTag", "tagging", "person", "tag"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "UserWait",
@@ -21106,7 +18846,6 @@ export default [
     path: "solid/UserWait",
     tags: ["SolidUserWait", "dots", "wait", "user", "hold"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Variable",
@@ -21114,7 +18853,6 @@ export default [
     path: "solid/Variable",
     tags: ["SolidVariable", "Brackets", "Code", "formula"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "VariableList",
@@ -21122,7 +18860,6 @@ export default [
     path: "solid/VariableList",
     tags: ["SolidVariableList", "list", "notes", "text", "paper"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Verified",
@@ -21130,7 +18867,6 @@ export default [
     path: "solid/Verified",
     tags: ["SolidVerified", "secured", "tick", "shield", "safe", "protect"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Video",
@@ -21138,7 +18874,6 @@ export default [
     path: "solid/Video",
     tags: ["SolidVideo", "video", "cam"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "VideoAssetClr",
@@ -21146,7 +18881,6 @@ export default [
     path: "solid/VideoAssetClr",
     tags: ["SolidVideoAssetClr"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "VideoAsset",
@@ -21154,7 +18888,6 @@ export default [
     path: "solid/VideoAsset",
     tags: ["SolidVideoAsset", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "VideoAttachment",
@@ -21162,7 +18895,6 @@ export default [
     path: "solid/VideoAttachment",
     tags: ["SolidVideoAttachment", "attach", "video asset", "media"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "VideoCircleClr",
@@ -21170,7 +18902,6 @@ export default [
     path: "solid/VideoCircleClr",
     tags: ["SolidVideoCircleClr", "video call", "live", "stream"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "VideoCircle",
@@ -21178,7 +18909,6 @@ export default [
     path: "solid/VideoCircle",
     tags: ["SolidVideoCircle"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ViewArticle",
@@ -21186,7 +18916,6 @@ export default [
     path: "solid/ViewArticle",
     tags: ["SolidViewArticle", "new tab", "open", "expand", "arrow", "browser"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ViewCase",
@@ -21194,7 +18923,6 @@ export default [
     path: "solid/ViewCase",
     tags: ["SolidViewCase", "case", "eye", "view", "ticket"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ViewDetail",
@@ -21202,7 +18930,6 @@ export default [
     path: "solid/ViewDetail",
     tags: ["SolidViewDetail", "enlarge", "expand", "detailed view", "arrow"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ViewTicket",
@@ -21210,7 +18937,6 @@ export default [
     path: "solid/ViewTicket",
     tags: ["SolidViewTicket", "ticket", "view", "square", "eye", "visible"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "VoiceCircle",
@@ -21226,7 +18952,6 @@ export default [
       "speak",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "VoiceRecording",
@@ -21239,7 +18964,6 @@ export default [
       "call record",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Volume",
@@ -21247,7 +18971,6 @@ export default [
     path: "solid/Volume",
     tags: ["SolidVolume", "volume up", "audio", "sound", "noise"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Wallet",
@@ -21255,7 +18978,6 @@ export default [
     path: "solid/Wallet",
     tags: ["SolidWallet", "fund", "money", "payment", "pay", "purse"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Webhook",
@@ -21263,7 +18985,6 @@ export default [
     path: "solid/Webhook",
     tags: ["SolidWebhook", "web callback", "API", "information", "data"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "WebSearch",
@@ -21271,7 +18992,6 @@ export default [
     path: "solid/WebSearch",
     tags: ["SolidWebSearch", "browser", "search", "web", "screen"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "WebTrackerCircle",
@@ -21279,7 +18999,6 @@ export default [
     path: "solid/WebTrackerCircle",
     tags: ["SolidWebTrackerCircle", "web tracker", "globe", "track"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Whisper",
@@ -21296,7 +19015,6 @@ export default [
       "suggest",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Widget",
@@ -21304,7 +19022,6 @@ export default [
     path: "solid/Widget",
     tags: ["SolidWidget", "widget", "shape", "app", "squares", "boxes"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "WidgetLibrary",
@@ -21320,7 +19037,6 @@ export default [
       "circle",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Wifi",
@@ -21334,7 +19050,6 @@ export default [
       "data network",
     ],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "Window",
@@ -21342,7 +19057,6 @@ export default [
     path: "solid/Window",
     tags: ["SolidWindow", "workspace", "view port", "squares", "box"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "WorkProfile",
@@ -21350,7 +19064,6 @@ export default [
     path: "solid/WorkProfile",
     tags: ["SolidWorkProfile", "user", "breifcase", "workspace"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "XlxsAssetClr",
@@ -21358,7 +19071,6 @@ export default [
     path: "solid/XlxsAssetClr",
     tags: ["SolidXlxsAssetClr", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "XlxsAsset",
@@ -21366,7 +19078,6 @@ export default [
     path: "solid/XlxsAsset",
     tags: ["SolidXlxsAsset", "asset", "excel"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "YelpStar",
@@ -21374,7 +19085,6 @@ export default [
     path: "solid/YelpStar",
     tags: ["SolidYelpStar", "star", "yelp", "rating"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "YoutubeHome",
@@ -21382,7 +19092,6 @@ export default [
     path: "solid/YoutubeHome",
     tags: ["SolidYoutubeHome", "youtube"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
   },
   {
     name: "ZipAsset",
@@ -21390,7 +19099,7 @@ export default [
     path: "solid/ZipAsset",
     tags: ["SolidZipAsset", "asset"],
     category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')} 
+  }
   /*
   {
     name: 'SprinklrAIClr',
@@ -21398,7 +19107,6 @@ export default [
     path: 'animated/SprinklrAIClr',
     tags: ['SprinklrAIClr', 'animated'],
     category: 'animated',
-    filePath: path.join(process.cwd(), '/data/animated/')
     },
   {
     name: 'VOCInnovatorBadgeClr',
@@ -21406,6 +19114,5 @@ export default [
     path: 'animated/VOCInnovatorBadgeClr',
     tags: ['VOCInnovatorBadgeClr', 'animated'],
     category: 'animated',
-    filePath: path.join(process.cwd(), '/data/animated/')},
-  */,
+  },*/
 ];

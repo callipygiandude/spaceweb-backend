@@ -14,11 +14,11 @@ import {
 export async function handlePNG(req, res) {
   const { userInput } = req.body;
   try {
-    let t1 = Date.now();
+    const t1 = Date.now();
     const basePNGBuffer = getBufferFromPNG(userInput);
     const basePNGData = await processImage(basePNGBuffer);
-    let sortedRes = await filterIcons(basePNGData, PNG_FILTER_LIMIT);
-    let t2 = Date.now();
+    const sortedRes = await filterIcons(basePNGData, PNG_FILTER_LIMIT);
+    const t2 = Date.now();
     res.status(200).json({ sortedRes, time: t2 - t1 });
   } catch (error) {
     console.error(`Error with API call: `, error);
@@ -112,7 +112,7 @@ async function processImage(image) {
     return;
   }
 
-  let { x1, y1, x2, y2, image_width, image_height, channels, data } = bbox;
+  const { x1, y1, x2, y2, image_width, image_height, channels, data } = bbox;
 
   if (x1 > x2 || y1 > y2) {
     return convertImageToData(image);
