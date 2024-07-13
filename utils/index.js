@@ -29,7 +29,7 @@ const getFilePath = (image) => {
       'file://',
       process.cwd(),
       // "..",
-      "svgs",
+      "data",
       image.category,
       filename
     );
