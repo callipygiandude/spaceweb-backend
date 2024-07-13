@@ -2123,14 +2123,14 @@ export default [
     category: "brand",
     filePath: path.join(process.cwd(), '/data/brand/')
   },
-  {
-    name: "FluidwebCircleClr",
-    fullName: "BrandFluidwebCircleClr",
-    path: "brand/FluidwebCircleClr",
-    tags: ["BrandFluidwebCircleClr"],
-    category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
-  },
+  // {
+  //   name: "FluidwebCircleClr",
+  //   fullName: "BrandFluidwebCircleClr",
+  //   path: "brand/FluidwebCircleClr",
+  //   tags: ["BrandFluidwebCircleClr"],
+  //   category: "brand",
+  //   filePath: path.join(process.cwd(), '/data/brand/')
+  // },
   {
     name: "FluidwebSquareClr",
     fullName: "BrandFluidwebSquareClr",
