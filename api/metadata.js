@@ -7693,30 +7693,30 @@ export default [
     category: "line",
     filePath: path.join(process.cwd(), '/data/line/')
   },
-  {
-    name: "LinkedInComment",
-    fullName: "LineLinkedInComment",
-    path: "line/LinkedInComment",
-    tags: ["LineLinkedInComment", "LinkedIn", "comment"],
-    category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
-  },
-  {
-    name: "LinkedInLike",
-    fullName: "LineLinkedInLike",
-    path: "line/LinkedInLike",
-    tags: ["LineLinkedInLike", "LinkedIn", "Like"],
-    category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
-  },
-  {
-    name: "LinkedInShare",
-    fullName: "LineLinkedInShare",
-    path: "line/LinkedInShare",
-    tags: ["LineLinkedInShare", "LinkedIn", "share"],
-    category: "line",
-    filePath: path.join(process.cwd(), '/data/line/')
-  },
+  // {
+  //   name: "LinkedInComment",
+  //   fullName: "LineLinkedInComment",
+  //   path: "line/LinkedInComment",
+  //   tags: ["LineLinkedInComment", "LinkedIn", "comment"],
+  //   category: "line",
+  //   filePath: path.join(process.cwd(), '/data/line/')
+  // },
+  // {
+  //   name: "LinkedInLike",
+  //   fullName: "LineLinkedInLike",
+  //   path: "line/LinkedInLike",
+  //   tags: ["LineLinkedInLike", "LinkedIn", "Like"],
+  //   category: "line",
+  //   filePath: path.join(process.cwd(), '/data/line/')
+  // },
+  // {
+  //   name: "LinkedInShare",
+  //   fullName: "LineLinkedInShare",
+  //   path: "line/LinkedInShare",
+  //   tags: ["LineLinkedInShare", "LinkedIn", "share"],
+  //   category: "line",
+  //   filePath: path.join(process.cwd(), '/data/line/')
+  // },
   {
     name: "List",
     fullName: "LineList",
