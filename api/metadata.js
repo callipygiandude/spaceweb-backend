@@ -297,14 +297,14 @@ export default [
     category: "brand",
     filePath: path.join(process.cwd(), '/data/brand/')
   },
-  {
-    name: "AliexpressCircleClr",
-    fullName: "BrandAliexpressCircleClr",
-    path: "brand/AliexpressCircleClr",
-    tags: ["BrandAliexpressCircleClr", "ali express", "brand"],
-    category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
-  },
+  // {
+  //   name: "AliexpressCircleClr",
+  //   fullName: "BrandAliexpressCircleClr",
+  //   path: "brand/AliexpressCircleClr",
+  //   tags: ["BrandAliexpressCircleClr", "ali express", "brand"],
+  //   category: "brand",
+  //   filePath: path.join(process.cwd(), '/data/brand/')
+  // },
   {
     name: "AlipayClr",
     fullName: "BrandAlipayClr",
@@ -2107,14 +2107,14 @@ export default [
     category: "brand",
     filePath: path.join(process.cwd(), '/data/brand/')
   },
-  {
-    name: "FluidwebClr",
-    fullName: "BrandFluidwebClr",
-    path: "brand/FluidwebClr",
-    tags: ["BrandFluidwebClr", "brand", "fluidweb"],
-    category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
-  },
+  // {
+  //   name: "FluidwebClr",
+  //   fullName: "BrandFluidwebClr",
+  //   path: "brand/FluidwebClr",
+  //   tags: ["BrandFluidwebClr", "brand", "fluidweb"],
+  //   category: "brand",
+  //   filePath: path.join(process.cwd(), '/data/brand/')
+  // },
   {
     name: "Fluidweb",
     fullName: "BrandFluidweb",
