@@ -23,7 +23,7 @@ const getFilePath = (image) => {
       : image.name.slice(1)) +
     ".svg";
 
-    return image.filepath + filename;
+    // return image.filepath + filename;
   // const a = path.join(
   //   "file://",
   //   process.cwd(),
@@ -35,13 +35,13 @@ const getFilePath = (image) => {
   // const file = fs.readFileSync(a);
   // return Buffer.from(file);
 
-  // return path.join(
-  //   process.cwd(),
-  //   // "..",
-  //   "svgs",
-  //   image.category,
-  //   filename
-  // );
+  return path.join(
+    process.cwd(),
+    // "..",
+    "svgs",
+    image.category,
+    filename
+  );
   // return `../svgs/${image.category}/${filename}`;
 };
 
