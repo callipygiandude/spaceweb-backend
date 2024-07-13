@@ -16541,14 +16541,14 @@ export default [
     category: "solid",
     filePath: path.join(process.cwd(), '/data/solid/')
   },
-  {
-    name: "LinkedInSend",
-    fullName: "SolidLinkedInSend",
-    path: "solid/LinkedInSend",
-    tags: ["SolidLinkedInSend", "LinkedIn", "Send"],
-    category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
-  },
+  // {
+  //   name: "LinkedInSend",
+  //   fullName: "SolidLinkedInSend",
+  //   path: "solid/LinkedInSend",
+  //   tags: ["SolidLinkedInSend", "LinkedIn", "Send"],
+  //   category: "solid",
+  //   filePath: path.join(process.cwd(), '/data/solid/')
+  // },
   {
     name: "LinkedInSupport",
     fullName: "SolidLinkedInSupport",
