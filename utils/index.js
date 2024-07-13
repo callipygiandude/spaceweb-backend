@@ -2,11 +2,10 @@
 import path from "path";
 import sharp from "sharp";
 import pixelmatch from "pixelmatch";
-import  fs  from 'fs';
-
+import fs from "fs";
 
 //constants
-import metadata from '../metadata.js'
+// import metadata from "../api/metadata.js";
 // import {getMeta} from '../api/getMeta.js'
 import {
   OPTIMISED_SIZE,
@@ -14,37 +13,37 @@ import {
   SLICE_LIMIT,
 } from "../constants.js";
 
-// const metadata = getMeta();
+const metadata = getMeta();
 
 const getFilePath = (image) => {
-    const filename = (
-      image.name[0].toLowerCase() +
-      (image.name.endsWith("Clr")
-        ? image.name.replace("Clr", "_clr").slice(1)
-        : image.name.slice(1)) +
-      ".svg"
-    );
+  const filename =
+    image.name[0].toLowerCase() +
+    (image.name.endsWith("Clr")
+      ? image.name.replace("Clr", "_clr").slice(1)
+      : image.name.slice(1)) +
+    ".svg";
 
-    const a = path.join(
-      'file://',
-      process.cwd(),
-      // "..",
-      "data",
-      image.category,
-      filename
-    );
-    const file = fs.readFileSync(a);
-  return Buffer.from(file);
+    return image.filepath + filename;
+  // const a = path.join(
+  //   "file://",
+  //   process.cwd(),
+  //   // "..",
+  //   "data",
+  //   image.category,
+  //   filename
+  // );
+  // const file = fs.readFileSync(a);
+  // return Buffer.from(file);
 
-    // return path.join(
-    //   process.cwd(),
-    //   // "..",
-    //   "svgs",
-    //   image.category,
-    //   filename
-    // );
-    // return `../svgs/${image.category}/${filename}`;
-}
+  // return path.join(
+  //   process.cwd(),
+  //   // "..",
+  //   "svgs",
+  //   image.category,
+  //   filename
+  // );
+  // return `../svgs/${image.category}/${filename}`;
+};
 
 export async function convertImageToData(image) {
   try {
@@ -81,16 +80,19 @@ export async function filterIcons(baseData, FILTER_LIMIT) {
     const mismatchRatio = differentPixels / totalPixels;
     return {
       fullName: image.fullName,
-      mismatch: mismatchRatio, 
+      mismatch: mismatchRatio,
       isExactMatch: mismatchRatio === 0,
     };
   });
 
   const res = await Promise.all(promises);
-  
+
   return res
     .filter((image) => image.mismatch < FILTER_LIMIT)
     .sort((a, b) => a.mismatch - b.mismatch)
     .slice(0, SLICE_LIMIT)
-    .map((image) => ({fullName: image.fullName, isExactMatch: image.isExactMatch})) // we needn't send back the actual mismatch
+    .map((image) => ({
+      fullName: image.fullName,
+      isExactMatch: image.isExactMatch,
+    })); // we needn't send back the actual mismatch
 }
