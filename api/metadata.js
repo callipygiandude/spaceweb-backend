@@ -15976,22 +15976,22 @@ export default [
     category: "solid",
     filePath: path.join(process.cwd(), '/data/solid/')
   },
-  {
-    name: "Insight",
-    fullName: "SolidInsight",
-    path: "solid/Insight",
-    tags: [
-      "SolidInsight",
-      "Consumption",
-      "Insight",
-      "search",
-      "data",
-      "graph",
-      "find",
-    ],
-    category: "solid",
-    filePath: path.join(process.cwd(), '/data/solid/')
-  },
+  // {
+  //   name: "Insight",
+  //   fullName: "SolidInsight",
+  //   path: "solid/Insight",
+  //   tags: [
+  //     "SolidInsight",
+  //     "Consumption",
+  //     "Insight",
+  //     "search",
+  //     "data",
+  //     "graph",
+  //     "find",
+  //   ],
+  //   category: "solid",
+  //   filePath: path.join(process.cwd(), '/data/solid/')
+  // },
   {
     name: "Insights",
     fullName: "SolidInsights",
