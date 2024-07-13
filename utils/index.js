@@ -6,15 +6,15 @@ import  fs  from 'fs';
 
 
 //constants
-// import metadata from '../metadata.js'
-import {getMeta} from '../api/getMeta.js'
+import metadata from '../metadata.js'
+// import {getMeta} from '../api/getMeta.js'
 import {
   OPTIMISED_SIZE,
   PIXELMATCH_THRESHOLD,
   SLICE_LIMIT,
 } from "../constants.js";
 
-const metadata = getMeta();
+// const metadata = getMeta();
 
 const getFilePath = (image) => {
     const filename = (
@@ -29,7 +29,7 @@ const getFilePath = (image) => {
       'file://',
       process.cwd(),
       // "..",
-      "backend/svgs",
+      "svgs",
       image.category,
       filename
     );
@@ -62,8 +62,8 @@ export async function convertImageToData(image) {
 
 export async function filterIcons(baseData, FILTER_LIMIT) {
   const promises = metadata.map(async (image) => {
-    // const imagePath = getFilePath(image);
-    const imagePath = image.filepath;
+    const imagePath = getFilePath(image);
+    // const imagePath = image.filepath;
     const imageData = await convertImageToData(imagePath);
 
     const totalPixels = OPTIMISED_SIZE * OPTIMISED_SIZE;
