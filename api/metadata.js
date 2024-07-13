@@ -4282,14 +4282,14 @@ export default [
     category: "brand",
     filePath: path.join(process.cwd(), '/data/brand/')
   },
-  {
-    name: "OracleResponsys",
-    fullName: "BrandOracleResponsys",
-    path: "brand/OracleResponsys",
-    tags: ["BrandOracleResponsys", "oracle", "responsys"],
-    category: "brand",
-    filePath: path.join(process.cwd(), '/data/brand/')
-  },
+  // {
+  //   name: "OracleResponsys",
+  //   fullName: "BrandOracleResponsys",
+  //   path: "brand/OracleResponsys",
+  //   tags: ["BrandOracleResponsys", "oracle", "responsys"],
+  //   category: "brand",
+  //   filePath: path.join(process.cwd(), '/data/brand/')
+  // },
   {
     name: "Outbound",
     fullName: "BrandOutbound",
