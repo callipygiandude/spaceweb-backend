@@ -30,7 +30,7 @@ export async function handlePNG(req, res) {
 }
 
 function getBufferFromPNG(file) {
-  const base64Data = file.replace(/^data:image\/png;base64,/, "");
+  const base64Data = file.replace(/^data:image\/(png|jpeg);base64,/, "");
   return Buffer.from(base64Data, "base64");
 }
 
