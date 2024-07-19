@@ -41,9 +41,9 @@ async function boundingBox(image) {
 
   const { width, height, channels } = info;
 
-  const black = Buffer.from([0x0f, 0x0f, 0x0f, 0xff]);
-  const lightBlack = Buffer.from([0x0a, 0x0a, 0x14, 0xff]); //spaceweb darkmode black
-  const white = Buffer.from([0xf5, 0xf5, 0xf5, 0xff]);
+  const black = Buffer.from([0x0f, 0x0f, 0x0f, 0xff]); //this colour will match from plain black upto spaceweb's darkmode background (around [40,40,40] in rgb) and nothing further.
+  const lightBlack = Buffer.from([0x0a, 0x0a, 0x14, 0xff]); //black used in icons in lightmode versions
+  const white = Buffer.from([0xf5, 0xf5, 0xf5, 0xff]); //white used in icons in darkmode versions
 
   const backgroundColour = data.subarray(0, channels); //assume top-left pixel is the background
   let x1 = width,
@@ -56,7 +56,7 @@ async function boundingBox(image) {
     for (let x = 0; x < width; x++) {
       const offset = (y * width + x) * channels;
       const pixel = data.subarray(offset, offset + channels);
-      
+
       //if my current pixel is not part of the background, the bounding box needs to be tightened
       if (!equalPixels(pixel, backgroundColour, channels)) {
         if (x < x1) x1 = x;
@@ -64,20 +64,21 @@ async function boundingBox(image) {
         if (y < y1) y1 = y;
         if (y > y2) y2 = y;
 
-        //if background colour is black (i.e. darkmode screenshot) 
+        //if background colour is black (i.e. darkmode screenshot)
         if (
           equalPixels(black, backgroundColour, channels) &&
           equalPixels(pixel, white, channels)
         ) {
           for (let c = 0; c < channels; c++) {
-            modifiedData[offset + c] = lightBlack[c];
+            modifiedData[offset + c] = lightBlack[c]; //flip black to white
           }
         } else {
           data.copy(modifiedData, offset, offset, offset + channels);
         }
       } else {
+        //my current pixel is background
         for (let c = 0; c < channels; c++) {
-          modifiedData[offset + c] = 0xff;
+          modifiedData[offset + c] = 0xff; //handles background removal in lightmode versions, AND flipping black to white in case of darkmode as the background is black.
         }
       }
     }
@@ -113,13 +114,14 @@ async function processImage(image) {
   }
 
   const { x1, y1, x2, y2, image_width, image_height, channels, data } = bbox;
-
+  
+  //if no smaller bounding box found
   if (x1 > x2 || y1 > y2) {
     return convertImageToData(image);
   }
-  
-  let width = x2 - x1;
-  let height = y2 - y1;
+
+  const width = x2 - x1;
+  const height = y2 - y1;
   const diff = Math.abs(width - height);
   const backgroundRemovedBuffer = await sharp(data, {
     raw: {

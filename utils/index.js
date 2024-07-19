@@ -4,14 +4,12 @@ import sharp from "sharp";
 import pixelmatch from "pixelmatch";
 
 //constants
-// import metadata from "../api/metadata.js";
 import {getMeta} from '../api/getMeta.js'
 import {
   OPTIMISED_SIZE,
   PIXELMATCH_THRESHOLD,
   SLICE_LIMIT,
 } from "../constants.js";
-
 const metadata = getMeta();
 
 const getFilePath = (image) => {
